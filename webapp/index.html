@@ -25,6 +25,17 @@
 
     <section class="reader">
       <div id="docMeta" class="meta muted">Velg et dokument fra listen.</div>
+      <section class="concordance">
+        <h2>Konkordans</h2>
+        <div class="concordance-controls">
+          <input id="concordanceQuery" type="search" placeholder="Søk i innhold, f.eks. grunnrente">
+          <input id="concordanceContext" type="number" min="20" max="300" value="90" title="Kontekst i tegn">
+          <input id="concordanceMaxHits" type="number" min="1" max="20" value="5" title="Maks treff per dokument">
+          <button id="concordanceButton" type="button">Søk</button>
+        </div>
+        <p id="concordanceStatus" class="muted">Søk i innholdet i dokumentene.</p>
+        <div id="concordanceResults" class="concordance-results"></div>
+      </section>
       <pre id="docContent" class="doc-content"></pre>
     </section>
   </main>

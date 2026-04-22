@@ -47,6 +47,7 @@ En enkel PWA lar deg bla i og lese dokumenter direkte fra `høringer/` via en lo
 - Funksjoner:
   - dokumentliste med filter
   - visning av metadata + full tekst
+  - konkordanssøk i dokumentinnhold (med kontekst)
   - installbar PWA (manifest + service worker)
   - leser live fra filer i `høringer/`
 
