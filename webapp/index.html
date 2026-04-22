@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="no">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0f172a">
+  <title>Høringer PWA</title>
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="icon" href="/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <h1>Høringer</h1>
+    <p>Les dokumenter direkte fra <code>høringer/</code>.</p>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar">
+      <label for="filterInput">Filtrer dokumenter</label>
+      <input id="filterInput" type="search" placeholder="Søk i filnavn/avsender/år">
+      <p id="stats" class="muted">Laster...</p>
+      <ul id="docList" class="doc-list"></ul>
+    </aside>
+
+    <section class="reader">
+      <div id="docMeta" class="meta muted">Velg et dokument fra listen.</div>
+      <pre id="docContent" class="doc-content"></pre>
+    </section>
+  </main>
+
+  <script src="/app.js" defer></script>
+</body>
+</html>

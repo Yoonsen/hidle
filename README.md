@@ -36,6 +36,20 @@ Søkeappen leser `.txt`-filene direkte fra `høringer/` og viser treff med konte
   - `--max-hits` (maks treff per dokument)
   - `--output` (filsti for resultat)
 
+## PWA for høringer/
+
+En enkel PWA lar deg bla i og lese dokumenter direkte fra `høringer/` via en lokal server.
+
+- Start PWA-server:
+  - `uv run python pwa_server.py --port 8787`
+- Åpne i nettleser:
+  - `http://127.0.0.1:8787`
+- Funksjoner:
+  - dokumentliste med filter
+  - visning av metadata + full tekst
+  - installbar PWA (manifest + service worker)
+  - leser live fra filer i `høringer/`
+
 ## Git-policy for data
 
 `.gitignore` er satt opp slik at disse mappene ikke versjoneres:
