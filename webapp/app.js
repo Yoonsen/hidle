@@ -90,6 +90,7 @@ function renderList() {
     button.innerHTML = `
       <span class="doc-title">${doc.sender}</span>
       <span class="doc-subtitle">${doc.year} · ${formatNumber(doc.wordCount)} ord</span>
+      <span class="doc-action">Les dokument</span>
     `;
     button.addEventListener("click", () => selectDocument(doc.name));
 
@@ -164,6 +165,7 @@ async function runConcordance() {
         <div class="conc-doc-meta">${escapeHtml(fullDoc.name)} · ${escapeHtml(fullDoc.year || "ukjent")} · ${formatNumber(snippets.length)} treff</div>
         ${snippetHtml}
         ${extra}
+        <button type="button" class="read-doc-button" data-doc-name="${encodeURIComponent(fullDoc.name)}">Les dokument</button>
       </article>
     `);
   }
@@ -242,6 +244,28 @@ function registerServiceWorker() {
 
 elements.filterInput.addEventListener("input", renderList);
 elements.concordanceButton.addEventListener("click", runConcordance);
+elements.concordanceResults.addEventListener("click", (event) => {
+  const target = event.target;
+  if (!(target instanceof HTMLElement)) {
+    return;
+  }
+
+  const button = target.closest(".read-doc-button");
+  if (!button) {
+    return;
+  }
+
+  const rawName = button.getAttribute("data-doc-name");
+  if (!rawName) {
+    return;
+  }
+
+  const name = decodeURIComponent(rawName);
+  selectDocument(name).catch((error) => {
+    elements.docMeta.textContent = "Kunne ikke åpne dokument.";
+    elements.docContent.textContent = String(error);
+  });
+});
 elements.concordanceQuery.addEventListener("keydown", (event) => {
   if (event.key === "Enter") {
     runConcordance();

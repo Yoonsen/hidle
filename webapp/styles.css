@@ -85,6 +85,14 @@ body {
   font-size: 0.9rem;
 }
 
+.doc-action {
+  display: inline-block;
+  margin-top: 0.45rem;
+  font-size: 0.83rem;
+  font-weight: 600;
+  color: #1d4ed8;
+}
+
 .reader {
   padding: 1rem;
   overflow: auto;
@@ -170,6 +178,15 @@ body {
 .conc-snippet {
   margin: 0.2rem 0;
   line-height: 1.35;
+}
+
+.read-doc-button {
+  margin-top: 0.4rem;
+  border: 1px solid #c2ccdd;
+  border-radius: 8px;
+  background: #ffffff;
+  padding: 0.4rem 0.55rem;
+  cursor: pointer;
 }
 
 @media (max-width: 640px) {
