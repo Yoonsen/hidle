@@ -7,7 +7,9 @@ const elements = {
 };
 
 let documentsCache = [];
+let documentsByName = new Map();
 let selectedName = "";
+let dataSource = "unknown";
 
 function setStatus(text) {
   elements.stats.textContent = text;
@@ -54,9 +56,17 @@ function renderList() {
 }
 
 async function loadDocument(name) {
-  const response = await fetch(`/api/document?name=${encodeURIComponent(name)}`);
+  if (dataSource === "static") {
+    const doc = documentsByName.get(name);
+    if (!doc) {
+      throw new Error("Fant ikke dokument i statisk datasett.");
+    }
+    return doc;
+  }
+
+  const response = await fetch(`api/document?name=${encodeURIComponent(name)}`);
   if (!response.ok) {
-    throw new Error("Klarte ikke laste dokument.");
+    throw new Error("Klarte ikke laste dokument via API.");
   }
   return response.json();
 }
@@ -86,16 +96,30 @@ async function selectDocument(name) {
 
 async function loadDocuments() {
   setStatus("Laster dokumentliste...");
-  const response = await fetch("/api/documents");
-  if (!response.ok) {
-    throw new Error("Klarte ikke hente dokumentlisten.");
+  const staticResponse = await fetch("data/documents.json", { cache: "no-store" });
+  if (staticResponse.ok) {
+    const data = await staticResponse.json();
+    documentsCache = data.documents || [];
+    dataSource = "static";
+  } else {
+    const response = await fetch("api/documents");
+    if (!response.ok) {
+      throw new Error("Klarte ikke hente dokumentlisten.");
+    }
+    const data = await response.json();
+    documentsCache = data.documents || [];
+    dataSource = "api";
   }
-  const data = await response.json();
-  documentsCache = data.documents || [];
+
+  documentsByName = new Map(documentsCache.map((doc) => [doc.name, doc]));
   renderList();
 
   if (documentsCache.length === 0) {
-    elements.docMeta.textContent = "Fant ingen filer i høringer/.";
+    if (dataSource === "static") {
+      elements.docMeta.textContent = "Ingen dokumenter i statisk datafil.";
+    } else {
+      elements.docMeta.textContent = "Fant ingen filer i høringer/.";
+    }
     return;
   }
 
@@ -106,7 +130,7 @@ async function loadDocuments() {
 
 function registerServiceWorker() {
   if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("/sw.js").catch((error) => {
+    navigator.serviceWorker.register("sw.js").catch((error) => {
       console.error("Service worker feilet:", error);
     });
   }

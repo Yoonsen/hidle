@@ -1,13 +1,14 @@
-const STATIC_CACHE = "horinger-static-v1";
+const STATIC_CACHE = "horinger-static-v2";
 const API_CACHE = "horinger-api-v1";
 
 const STATIC_ASSETS = [
-  "/",
-  "/index.html",
-  "/styles.css",
-  "/app.js",
-  "/manifest.webmanifest",
-  "/icon.svg",
+  "./",
+  "./index.html",
+  "./styles.css",
+  "./app.js",
+  "./manifest.webmanifest",
+  "./icon.svg",
+  "./data/documents.json",
 ];
 
 self.addEventListener("install", (event) => {
@@ -36,7 +37,7 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  if (requestUrl.pathname.startsWith("/api/")) {
+  if (requestUrl.pathname.includes("/api/")) {
     event.respondWith(networkFirst(event.request));
     return;
   }
