@@ -47,6 +47,15 @@ def main() -> None:
         for path in sorted(HEARINGS_DIR.glob("*.txt")):
             documents.append(parse_hearing_file(path))
 
+    if not documents and OUTPUT_PATH.exists():
+        existing = json.loads(OUTPUT_PATH.read_text(encoding="utf-8"))
+        existing_count = len(existing.get("documents", []))
+        print(
+            f"Fant ingen filer i høringer/. Beholder eksisterende {OUTPUT_PATH.as_posix()} "
+            f"med {existing_count} dokumenter."
+        )
+        return
+
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     payload = {"generatedAtUtc": datetime.now(timezone.utc).isoformat(), "documents": documents}
     OUTPUT_PATH.write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")

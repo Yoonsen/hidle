@@ -53,6 +53,8 @@ En enkel PWA lar deg bla i og lese dokumenter direkte fra `høringer/` via en lo
 Ved deploy til GitHub Pages bygger workflowen en statisk fil `webapp/data/documents.json`
 via `build_static_data.py`. Frontend prøver denne statiske datafilen først, og fallbacker
 til lokal `/api` når du kjører `pwa_server.py`.
+Siden `høringer/` ikke ligger i git, må `webapp/data/documents.json` være versjonert for
+at Pages skal ha dokumentinnhold å vise.
 
 ## Git-policy for data
 

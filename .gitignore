@@ -4,5 +4,5 @@ __pycache__/
 *.pyc
 
 # Raw source and extracted text corpus
-data/
-høringer/
+/data/
+/høringer/
