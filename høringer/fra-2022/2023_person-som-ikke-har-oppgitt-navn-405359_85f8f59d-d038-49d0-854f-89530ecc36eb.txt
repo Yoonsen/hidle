@@ -1,0 +1,14 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000154_sha256_6d02ce814fefea79a60d17bb99b920375e2239b175599e47a441ce1acf973843.html
+kilde_type: html
+avsender: Person som ikke har oppgitt navn (405359)
+uid: 85f8f59d-d038-49d0-854f-89530ecc36eb
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=85f8f59d-d038-49d0-854f-89530ecc36eb
+Høringssvar fra Person som ikke har oppgitt navn
+
+Dato:
+04.01.2023
+
+Genetisk rente - Del 2
+Vedlagt er bakgrunnsinfo for effekten av den genetiske renten.
+Med vennlig hilsen
+Ola Nordmann

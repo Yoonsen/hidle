@@ -1,0 +1,12 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-nou-2019-18-skattlegging-av-havbruk-manual-20260209102305-d5e71684-918-20260209102358003-0_0000068_sha256_3a83ea390165be8406c31f90cc767a4f190db4437def9aa17f95017df5d26b32.html
+kilde_type: html
+avsender: Strand Kommune
+uid: 8ec62423-a48a-4cc4-8e12-c6775edd18ba
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing--nou-2019-18-skattlegging-av-havbruk/id2676532/?uid=8ec62423-a48a-4cc4-8e12-c6775edd18ba
+Høringssvar fra Strand Kommune
+
+Dato:
+14.01.2020
+
+Høringssvar fra Strand Kommune:
+Kommunestyret i Strand mener det ikke bør innføres en grunnrenteskatt for havbruksnæringen, og at dagens modell for innhenting av grunnrente gjennom auksjoner av ny produksjonskapasitet bør videreføres.

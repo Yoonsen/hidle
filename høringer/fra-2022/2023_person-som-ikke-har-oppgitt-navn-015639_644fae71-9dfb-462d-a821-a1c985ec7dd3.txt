@@ -1,0 +1,11 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000140_sha256_29bf7e2319cf0ab150e0b3479076364eac20af2a59c9bd387c188a797e97cfdc.html
+kilde_type: html
+avsender: Person som ikke har oppgitt navn (015639)
+uid: 644fae71-9dfb-462d-a821-a1c985ec7dd3
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=644fae71-9dfb-462d-a821-a1c985ec7dd3
+Høringssvar fra Person som ikke har oppgitt navn
+
+Dato:
+28.09.2022
+
+Håper de ikke beskatte Norge mer,vi har nok kostner

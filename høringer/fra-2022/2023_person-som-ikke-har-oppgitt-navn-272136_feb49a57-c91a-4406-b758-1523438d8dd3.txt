@@ -1,0 +1,13 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000152_sha256_32c4a4c93465beb81f62cf24beb0edd404815f807416fddca15f9ce1e1d2bf9e.html
+kilde_type: html
+avsender: Person som ikke har oppgitt navn (272136)
+uid: feb49a57-c91a-4406-b758-1523438d8dd3
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=feb49a57-c91a-4406-b758-1523438d8dd3
+Høringssvar fra Person som ikke har oppgitt navn
+
+Dato:
+03.01.2023
+
+Grunnrentemysteriet
+Med vennlig hilsen
+Ola Nordmann

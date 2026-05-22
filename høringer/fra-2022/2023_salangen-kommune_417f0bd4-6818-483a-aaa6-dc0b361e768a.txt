@@ -1,0 +1,11 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000164_sha256_a4abd66e18ce0de964fd5d122fb2840ae06d0e5e288da619fa1aee0e9cf4c7d4.html
+kilde_type: html
+avsender: Salangen kommune
+uid: 417f0bd4-6818-483a-aaa6-dc0b361e768a
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=417f0bd4-6818-483a-aaa6-dc0b361e768a
+Høringssvar fra Salangen kommune
+
+Dato:
+16.12.2022
+
+Salangen kommune gir, jf kommunestyrets sak 86/22, sin tilslutning til høringssvar avgitt fra Nettverket for fjord- og kystkommuner. For Salangen kommune er tilrettelegging for lokalt eierskap, lokal og regional leverandørnæring og lokale arbeidsplasser i havbruksnæringen sentrale oppgaver. Lokalt eierskap og en sterk. Finansdepartementet bes legge vekt på å forhindre at familieeide/lokalt forankrede selskaper blir pålagt et skattetrykk som svekker deres utviklingsmuligheter sammenlignet med de børsnoterte selskapene, og at det totale skattetrykket inkludert verdifastsetting av oppdrettstillatelser også blir vurdert sammen med innføring av ny skattlegging av havbruksnæringen.

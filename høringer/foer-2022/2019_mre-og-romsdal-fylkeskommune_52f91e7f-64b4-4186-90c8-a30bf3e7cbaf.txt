@@ -1,0 +1,16 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-nou-2019-18-skattlegging-av-havbruk-manual-20260209102305-d5e71684-918-20260209102359694-1_0000030_sha256_89c6900c59cf241bd6a1128af4db77859660a567a8c74069d50076f52efb0741.html
+kilde_type: html
+avsender: Møre og Romsdal fylkeskommune
+uid: 52f91e7f-64b4-4186-90c8-a30bf3e7cbaf
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing--nou-2019-18-skattlegging-av-havbruk/id2676532/?uid=52f91e7f-64b4-4186-90c8-a30bf3e7cbaf
+Høringssvar fra Møre og Romsdal fylkeskommune
+
+Dato:
+29.01.2020
+
+Fylkesutvalet i Møre og Romsdal fylkeskommune gjorde 27.01.2020 følgjande vedtak i NOU 2019:18 Skattlegging av havbruksverksemd:
+Møre og Romsdal fylkeskommune går imot innføring av grunnrenteskatt for havbruksnæringa i Norge.
+Møre og Romsdal fylkeskommune meiner dagens modell med auksjon av ny produksjonskapasitet må vidareførast, og at midlane som vert henta inn vert tilført Havbruksfondet.
+Møre og Romsdal fylkeskommune meiner at fordelingsnøkkelen til Havbruksfondet må vidareførast som i dag.
+Møre og Romsdal fylkeskommune meiner det bør innførast ei arealleige eller produksjonsavgift som går til direkte til kommunane, slik at det blir meir attraktivt å legge til rette for havbruksnæringa og at verdiane i stor grad kjem tilbake til dei områda der dei blir skapt. Storleiken og utforminga må stimulere til meir miljøvenleg produksjon og må sjåast i samanheng med midlane som vert henta inn til Havbruksfondet.
+Møre og Romsdal fylkeskommune meiner marknads- og forskingsavgifta bør vidareførast.

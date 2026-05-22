@@ -1,0 +1,24 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000160_sha256_f9c8e1cf8de61460205ab60416995d956314244868c6cb405de79641db5641fb.html
+kilde_type: html
+avsender: Rogaland fylkeskommune
+uid: dc86f194-e7d9-48f5-b369-ff5cc2dd3fc6
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=dc86f194-e7d9-48f5-b369-ff5cc2dd3fc6
+Høringssvar fra Rogaland fylkeskommune
+
+Dato:
+01.12.2022
+
+Høringsuttalelsen ble behandlet i fylkesutvalget i Rogaland Fylkeskommune 29.11.2022. Vedtak i saken var:
+Fylkesutvalget gir følgende høringsuttalelse på vegne av Rogaland fylkeskommune:
+A: Tillit
+Tillitsnivået i Norge er høyt. Fylkesutvalget mener det er viktig å kontinuerlig arbeide for å styrke dette. I det videre arbeidet med grunnrenteskatt på havbruk ber vi om at arbeidet med å bygge tillit mellom næringsdrivende, investorer og det offentlige intensiveres.
+Spesielt viktig er det å gi tydelige signaler på at selv om skatten retter seg mot de største selskapene, er både de og utenlandske investorer ønsket som partnere fremover i den grønne omstillingen av næringslivet.
+B: Fordeling mellom stat og kommunal sektor
+En fordeling av skatteinntektene mellom stat og kommune er klokt og gir gode insentiver for å tilrettelegge for verdiskaping. Slik kan den lokalbefolkningen som har bidratt ved å avsette begrensede felles naturressurser, få en andel av verdiene som skapes. Men da naturressursskatten på vindkraft og havbruk inngår i grunnlaget for skatteutjevning uthules denne effekten. Fylkesutvalget ber derfor om at det vurderes å regne naturressursskatten som skatteinntekter som holdes utenfor skatteutjevningen.
+C: Risikoelementer
+Fylkesutvalget mener det er positivt at en har søkt å innrette skatten på en måte som er investeringsnøytral, og med et ønske om at staten skal ha en funksjon som passiv investor. Samtidig er det risiko for at selve innretningen kan medføre at en ikke oppnår dette. Fylkesutvalget ber om at en spesielt ser på følgende:
+1. Risiko for at fastsettelse av verdi på laks ikke er i samsvar med reell verdi for selskapene.
+2. Risiko for at investeringer som er lønnsomme før skatt og foretas før sjøfasen, men gir verdiøkning i sjøfasen, blir ulønnsomme etter skatt. Dette gjelder spesielt for investeringer knyttet til settefisk produsert på land.
+3. Risiko for at det å ikke innføre, men varsle mulig innføring senere, av grunnrentebeskatning av andre arter enn laks, ørret og regnbueørret, kan være skadelig for investeringsvilje i nye arter.
+4. Risiko for at utsettelse av negativ skatt vil medføre at en ikke får de positive gevinstene på innovasjon og nyetableringer en ren kontantbasert ordning med utbetalinger ville kunnet gi. Videre bør en se på om det er realistisk at selskaper kan hente inn kapital til å dekke opp for ikke realisert negativ skatt til risikofri rente.
+5. Risiko for at bunnfradraget kan medføre en skattetilpasset markedsstruktur og at dette kan gå ut over konkurransekraft og innovasjon. Det vil være positivt om en evner å balansere rammevilkår slik at en får en blandet markedsstruktur med både små og store selskaper.

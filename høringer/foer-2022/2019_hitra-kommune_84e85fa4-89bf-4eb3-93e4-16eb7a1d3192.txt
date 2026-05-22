@@ -1,0 +1,13 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-nou-2019-18-skattlegging-av-havbruk-manual-20260209102305-d5e71684-918-20260209102358003-0_0000027_sha256_51aad2435e830ed7f4dbd580daee080bfcf872170d76eecd8a13b807648ad1eb.html
+kilde_type: html
+avsender: Hitra kommune
+uid: 84e85fa4-89bf-4eb3-93e4-16eb7a1d3192
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing--nou-2019-18-skattlegging-av-havbruk/id2676532/?uid=84e85fa4-89bf-4eb3-93e4-16eb7a1d3192
+Høringssvar fra Hitra kommune
+
+Dato:
+31.01.2020
+
+Høringssvar fra Hitra kommune
+Hitra kommunestyre fattet følgende vedtak i møte den 30.01.2020, sak 9/20:
+Hitra kommunestyre slutter seg til høringssvaret fra Nettverk fjord- og kystkommuner (NFKK) til rapporten fra Norges offentlige utredninger (NOU) 2019:18 om Skattlegging av havbruksvirksomhet. Hitra kommune anbefaler dermet at mindretallets forslag fra Havbruksskatteutvalget blir fulgt opp og vedtatt av Stortinget.

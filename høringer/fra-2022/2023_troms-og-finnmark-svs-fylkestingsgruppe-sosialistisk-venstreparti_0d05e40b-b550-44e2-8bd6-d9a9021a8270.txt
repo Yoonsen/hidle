@@ -1,0 +1,14 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000190_sha256_2f23b0142e031872e12f40cad1120eeaf1013c7620cff5900f3391556bd93da2.html
+kilde_type: html
+avsender: Troms og Finnmark SVs fylkestingsgruppe(sosialistisk venstreparti)
+uid: 0d05e40b-b550-44e2-8bd6-d9a9021a8270
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=0d05e40b-b550-44e2-8bd6-d9a9021a8270
+Høringssvar fra Troms og Finnmark SVs fylkestingsgruppe(sosialistisk venstreparti)
+
+Dato:
+04.01.2023
+
+1.
+Troms og finnmark SV (Sosialistisk venstreparti)s fylkestingsgruppe vil innledningsvis uttrykke sin støtte til forslaget om grunnrentebeskatning av havbruksnæringa. Fylkestingsgruppa er særlig fornøyd med regjeringens målsetning om en beskatning som bygger opp under målene om flere arbeidsplasser og større verdiskaping i lokalsamfunnene og ser det som viktig at eventuelle endringer som gjøres etter høringsrunden sikrer at denne målsetningen fastholdes.
+2.
+Troms og finnmark Svs fylkestingsgruppe registrerer at regjeringen arbeider aktivt for å komme fram til en god og fremtidsrettet løsning for normprisberegning som vil ivareta målsetningene om et mest mulig riktig skattegrunnlag samtidig som man unngår at det åpnes for insentiver til å redusere inntekten i særskattegrunnlaget. Fylkestingsgruppa støtter denne tilnærmingen og er glad for at regjeringen er tydelig på prinsippet om at det er de reelle inntektene som skal ligge til grunn for grunnrenteskatten.

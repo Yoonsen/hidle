@@ -1,0 +1,13 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-nou-2019-18-skattlegging-av-havbruk-manual-20260209102305-d5e71684-918-20260209102358003-0_0000022_sha256_7a34a0e50c384022c8b56a5a72ff5a379f39ffc71f6cb421dc9a94a552c2a23c.html
+kilde_type: html
+avsender: Flatanger kommune
+uid: 85075286-1a8a-43cf-8cf3-47a98257930c
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing--nou-2019-18-skattlegging-av-havbruk/id2676532/?uid=85075286-1a8a-43cf-8cf3-47a98257930c
+Høringssvar fra Flatanger kommune
+
+Dato:
+04.02.2020
+
+Høringsuttalelse fra Flatanger kommune:
+Flatanger formannskap behandlet høringen i møte den 4.2.20 i sak 3/20 og fattet følgende enstemmige vedtak:
+Flatanger kommune viser til avgitte høringssvar fra NFKK (Nettverk fjord- og kystkommuner) av 14.januar 2020 til NOU 2019:18; Skattlegging av havbruksvirksomhet, NFKK's høringssvar i saken er å anse som også Flatanger kommune's høringssvar i samme sak.

@@ -3,6 +3,9 @@
 __pycache__/
 *.pyc
 
-# Raw source and extracted text corpus
-/data/
-/høringer/
+# Local OS noise
+.DS_Store
+
+# Local export artifacts
+høringer.zip
+konkordans-kysten.csv

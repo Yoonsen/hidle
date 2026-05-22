@@ -1,0 +1,51 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000124_sha256_e0acf6cc4450406d4ad153b6c143c4367fbbd17f65862283da84ace2624683fd.html
+kilde_type: html
+avsender: Norwell AS
+uid: 13d9281d-7a6d-423d-8808-30f1d6666523
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=13d9281d-7a6d-423d-8808-30f1d6666523
+Høringssvar fra Norwell AS
+
+Dato:
+03.01.2023
+
+Høringsinnspill fra Norwell – Grunnrenteskatt på havbruk
+Bakgrunn
+Norwell AS er en mellomstor eksportør som i stor grad er eid av mindre oppdrettere langs norskekysten med hovedvekt på Sogn og Fjordane, Nordland og Troms. Våre oppdrettere sikrer oss tilgang på laks av høy kvalitet året gjennom som gir oss grunnlag for å ha stabile kundeforhold med kjøpere i 40 land. Norwell betjener kunder som både ønsker å kjøpe laks i spotmarkedet og kunder som ønsker fastpriskontrakter. Vår base av oppdrettere gjør at vi kan tilby jevn leveranse av fisk året gjennom, men den enkelte oppdretter kan vanskelig love oss fast leveranse i en fastpriskontrakt med samme volum og størrelse som spesifisert i vår kontrakt med kjøperen.
+Norwell er derfor aktiv bruker av finansielle sikringskontrakter som inngås på Fish Pool. Det muliggjør at vi kan inngå fastpris leveransekontrakter med våre kunder i og utenfor Europa med detaljert spesifikasjon av kvalitet, størrelse etc. Vi kjøper den fisk vi skal levere til vår kunde i spotmarkedet fra våre oppdrettere til ukens pris. Kjøp til spotpris og salg til fastpris medfører en høy risiko i laksemarkedet. Derfor er det avgjørende for oss at vi kan sikre vår margin i fastpriskontrakter med en Fish Pool kontrakt:
+·
+Blir spotprisen
+høyere
+enn kontraktsprisen må vi kjøpe
+dyrt
+i spotmarkedet og selge til en
+lavere
+fastpris til vår kunde. Da
+taper
+vi i spotmarkedet, men mottar en
+positiv
+finansiell avregning fra Fish Pool kontrakten.
+Vår margin er sikret.
+·
+Blir spotprisen
+lavere
+enn kontraktsprisen kan vi kjøpe
+billig
+i spotmarkedet og selge til en
+høyere
+fastpris til vår kunde. Da
+vinner
+vi i spotmarkedet, men får en
+negativ
+finansiell avregning fra Fish Pool kontrakten.
+Vår margin er sikret.
+Betydning av et velfungerende kontraktsmarked:
+For Norwell er det av stor betydning at vi har tilgang på Fish Pool kontrakter. Det er ikke forsvarlig for vårt selskap å ta stor risiko i form av å selge fastpris og kjøpe spot uten å ha tilgang til finansielle kontrakter som sikrer vår margin. Tilgang til kontraktsmarkedet medfører at vi kan gi våre mindre og mellomstore oppdrettere konkurransedyktige priser for sin laks. Vi ser i høringsnotatet at det ønskes bruk av Normpris som skattegrunnlag, og at det argumenteres med at oppdrettere kan oppnå samme stabile inntektssikring ved å halvere sitt kontraktsvolum. En halvering av kontraktsmarkedet mener vi i Norwell vil være svært uheldig for norsk laksenæring. Mange av de best betalende kundesegmenter i Europa som har bidratt til vekst i etterspørselen krever fastpriskontrakter.
+Videre er det ikke avklart i høringsnotatet at finansielle sikringskontrakter likestilles med fysiske fastpriskontrakter. Fysiske fastpris leveransekontrakter og finansielle prissikringskontrakter kan gi oss som eksportør samme sikring av vår margin. Men hvis
+kun
+fastpris leveransekontrakter inngår i skattegrunnlaget vil det være en vesentlig konkurranseulempe for våre mindre og mellomstore oppdrettere. Våre oppdrettere kan ikke låse sine slakteplaner langt frem i tid og garantere oss leveranse av det volum laks, de størrelser og den kvalitet vi har lovet vår kunde. Derfor er det viktig at lovforslaget likestiller fysiske fastpriskontrakter og finansielle prissikringskontrakter. Vi observerer at tilgangen på kontrakter på Fish Pool har falt dramatisk etter lovforslaget ble lansert 28. september. Dette stopper oss som eksportør fra å kunne inngå kontrakter med våre kunder. Det er negativt for oss, for våre oppdrettere og vi frykter at det på sikt vil redusere etterspørselen etter norsk laks. Derfor er det viktig med en avklaring her.
+Anbefaling:
+Dersom det fremmes et lovforslag der kun fysiske fastpriskontrakter inngår i skattegrunnlaget vil det gi de største oppdrettere med egen produksjon langs hele norskekysten en stor konkurransefordel. De vil alltid kunne garantere kunder stabil leveranse. Vi anbefaler Finansdepartementet å fremme et lovforslag som legger oppdretternes reelle inntekt til grunn. Det betyr å likestille fysiske fastpriskontrakter og finansielle kontrakter. Dette gjør at mindre og mellomstore oppdrettere fortsatt kan være konkurransedyktige i det godt betalende kontraktsmarked ved bruk av eksportører som Norwell. Vi antar det ikke har vært intensjonen å gi mindre og mellomstore oppdrettere vanskeligere tilgang til markedet og håper derfor Finansdepartementet vil ta vårt innspill til følge.
+Med vennlig hilsen
+Norwell AS
+Snorre Slettevåg Kvammen
+Adm. dir.

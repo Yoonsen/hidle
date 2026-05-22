@@ -1,0 +1,9 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000075_sha256_c12ce54b13e8c092ac7aa66f21effc4e07255bcf6956f27ad6c46b60eb7f0593.html
+kilde_type: html
+avsender: Justis- og beredskapsdepartementet (uten merknader)
+uid: 61a1f485-7c36-4ce5-98a6-86d90c9adeea
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=61a1f485-7c36-4ce5-98a6-86d90c9adeea
+Høringssvar fra Justis- og beredskapsdepartementet
+
+Dato:
+19.12.2022

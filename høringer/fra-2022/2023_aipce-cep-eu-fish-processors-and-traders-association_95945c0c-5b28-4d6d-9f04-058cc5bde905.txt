@@ -1,0 +1,20 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000008_sha256_80ea2698b579f64fbfba77759dcde4f069ee4dc6ed3eeb2fd69cc14786aa9117.html
+kilde_type: html
+avsender: AIPCE-CEP EU Fish Processors and Traders Association
+uid: 95945c0c-5b28-4d6d-9f04-058cc5bde905
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=95945c0c-5b28-4d6d-9f04-058cc5bde905
+Høringssvar fra AIPCE-CEP EU Fish Processors and Traders Association
+
+Dato:
+28.12.2022
+
+Comment from
+AIPCE-CEP -
+EU Fish Processors and Traders Association
+As a result of the tax proposal, there are almost no long term contracts agreed between Norwegian aquaculture producers and domestic and international buyers. The main reason for this is that the tax rate is tied to the Nasdaq spot price, a price that only covers a minor share of Norwegian sales of salmon in superior quality. This is not a representative price level, since many producers sell their fish on longer term, fixed price contracts.
+The prices in the long term contracts are usually a lot lower than the spot price, which may be very volatile. Since the tax is calculated according to the spot price, companies are reluctant to agree on long term contracts resulting in a large gap between the agreed fixed prices and the Nasdaq-price.
+The result of this is that the salmon producers are currently unwilling to agree on new contracts, thus selling their production only at spot prices to limit their tax risk.
+***
+AIPCE-CEP, which represents 19 EU National Associations from 12 EU Member States and 3 National Associations in Third countries (UK, Norway, Morocco),
+expresses deep concern for the situation that has evolved. AIPCE CEP kindly requests urgent action in order to return to normal business activities and secure a predictable situation for the EU buyers of Norwegian aquaculture products.
+Enclosed you find a statement from AIPCE-CEP submitted to the EU-Commission, where the concern about the situation is expressed.

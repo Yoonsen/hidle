@@ -1,0 +1,17 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000145_sha256_87c29fee3de56c69efc280ee6c3706566cca315d0ba6f14a2ac5b1e301064a46.html
+kilde_type: html
+avsender: Person som ikke har oppgitt navn (188731)
+uid: 78df503d-3bb6-48b7-abce-8a525e53c236
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=78df503d-3bb6-48b7-abce-8a525e53c236
+Høringssvar fra Person som ikke har oppgitt navn
+
+Dato:
+01.01.2023
+
+I og med at grunnrenteskatten ble innført i dag 01.01.2023, krever jeg kompensasjon for indirekte ekspropiering gjennom grunnrenterenteskatt.
+Alle aksjene jeg hadde er solgt, og verdifallet og kompensasjonen lar seg dermed enkelt dokumentere ved å sammenligne alle VPS-registrene for børsnoterte lakseaksjer, fra dagen før grunnrenteskatten ble offentliggjort, og alle realiserte tap som er gjennomført frem til 31.12.2023.
+Jeg krever for ordens skyld ikke kompensasjon for skattefordelen jeg får av de realiserte tapene. Skatteetaten har mine kontaktopplysninger.
+Se forøvrig grunnloven 105
+https://lovdata.no/dokument/NL/lov/1814-05-17-nn
+og
+https://unctad.org/system/files/official-document/unctaddiaeia2011d7_en.pdf

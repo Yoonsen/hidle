@@ -1,0 +1,16 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000172_sha256_89abb3d1785b33d64c02f0cd3873fb5b278337f2ec414cc4ae81d0583571d5cb.html
+kilde_type: html
+avsender: Sandnes kommune
+uid: 6a5151cb-26f7-48aa-8512-bab5e3485673
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=6a5151cb-26f7-48aa-8512-bab5e3485673
+Høringssvar fra Sandnes kommune
+
+Dato:
+03.01.2023
+
+Høringssvar Grunnrenteskatt på havbruk fra Sandnes kommune.
+Høringsnotat ble behandlet av kommunestyret 12.12.2022. Etter en grundig gjennomgang av høringsnotat fattet Sandnes kommunestyre følgende vedtak:
+Kommunestyret støtter ikke regjeringens forslag til modell for grunnrenteskatt for havbruk og er bekymret for at innføringen vil ramme arbeidsplasser og verdiskaping langs kysten.
+Endring av skattesystemet må skje i dialog med næringen, og konsekvensene må være tilstrekkelig belyst.
+Forslaget om å beregne grunnrenteskatt ut fra spotpris (normpris) må legges dødt så snart som mulig, skatt må beregnes ut fra reell salgspris.
+Eventuell iverksettelse av skatten må avvente til etter at Stortinget har behandlet forslaget på forsvarlig måte, og bør utsettes fra 2023 til 2024.

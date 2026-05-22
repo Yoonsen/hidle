@@ -4,13 +4,16 @@ Enkel pipeline for å hente ut tekst fra høringssvar (HTML/PDF) og lage CSV-fil
 
 ## Datastruktur
 
-- Rådata legges under `data/` (ignoreres av git)
-- Ekstraherte tekstfiler skrives til `høringer/` (ignoreres av git)
+- Rådata legges under `data/`
+- Ekstraherte tekstfiler skrives til `høringer/`, fordelt på:
+  - `høringer/foer-2022/`
+  - `høringer/fra-2022/`
+  - `høringer/uten-aar/`
 - Aggregater som versjoneres i git:
   - `index.csv` (én rad per høringsfil)
   - `aggregering.csv` (oppsummering per år + avsender)
 
-Dette gjør repoet lett å dele uten å sjekke inn store råfiler.
+Repoet er satt opp slik at hele arbeidsgrunnlaget kan deles i git, mens tunge binærfiler håndteres med `git-lfs`.
 
 ## Kjøring
 
@@ -19,9 +22,11 @@ Dette gjør repoet lett å dele uten å sjekke inn store råfiler.
 - Kun rebuild av CSV fra eksisterende `høringer/`:
   - `uv run python main.py --index-only`
 
+Filer med manglende eller usikkert år havner i `høringer/uten-aar/`.
+
 ## Enkel søkeapp (konkordans)
 
-Søkeappen leser `.txt`-filene direkte fra `høringer/` og viser treff med kontekst.
+Søkeappen leser `.txt`-filene rekursivt fra alle undermappene i `høringer/` og viser treff med kontekst.
 
 - Start interaktiv modus:
   - `uv run python search_app.py`
@@ -39,23 +44,44 @@ Søkeappen leser `.txt`-filene direkte fra `høringer/` og viser treff med konte
 ## PWA for høringer/
 
 En enkel PWA lar deg bla i og lese dokumenter direkte fra `høringer/` via en lokal server.
+Den leser dokumenter rekursivt fra alle tre korpusmappene og behandler dem som ett samlet korpus.
 
 - Start PWA-server:
   - `uv run python pwa_server.py --port 8787`
 - Åpne i nettleser:
   - `http://127.0.0.1:8787`
 - Funksjoner:
+  - korpusvelger for `foer-2022`, `fra-2022`, `uten-aar` eller alle
   - dokumentliste med filter
   - visning av metadata + full tekst
   - konkordanssøk i dokumentinnhold (med kontekst)
   - installbar PWA (manifest + service worker)
-  - leser live fra filer i `høringer/`
+  - leser live fra filer i `høringer/foer-2022/`, `høringer/fra-2022/` og `høringer/uten-aar/`
+
+For å åpne to vinduer side om side med hvert sitt korpus, bruk URL-parametere som:
+
+- `http://127.0.0.1:8787/?corpus=foer-2022`
+- `http://127.0.0.1:8787/?corpus=fra-2022`
 
 Ved deploy til GitHub Pages bygger workflowen en statisk fil `webapp/data/documents.json`
 via `build_static_data.py`. Frontend prøver denne statiske datafilen først, og fallbacker
 til lokal `/api` når du kjører `pwa_server.py`.
-Siden `høringer/` ikke ligger i git, må `webapp/data/documents.json` være versjonert for
-at Pages skal ha dokumentinnhold å vise.
+`webapp/data/documents.json` er versjonert slik at Pages også kan vise dokumentinnhold uten lokal server.
+
+## Git og LFS
+
+Følgende materiale er ment å være versjonert i repoet:
+
+- kode, dokumentasjon og analysefiler
+- `høringer/` som delt arbeidskorpus for appen
+- `data/` som felles rågrunnlag
+
+Tunge binærfiler legges i `git-lfs`:
+
+- `data/warc/*.warc.gz`
+- `data/content/*.pdf`
+
+Lettere tekstfiler som `.html`, `.tsv` og corpus-tekstfiler ligger i vanlig git.
 
 ## Git-policy for data
 

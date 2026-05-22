@@ -1,0 +1,11 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000045_sha256_2a224995055f9b984e044c1530f30cacc35ad485550e5141f5c16174bb634670.html
+kilde_type: html
+avsender: Erlend Bakke
+uid: 57c35313-ca43-450d-a142-e7d55496de51
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=57c35313-ca43-450d-a142-e7d55496de51
+Høringssvar fra Erlend Bakke
+
+Dato:
+03.01.2023
+
+Eg er for det prinsipielle i saka: innføring av grunnrenteskatt. Det er viktig at dei lokalsamfunna der verksemda går føre seg, ikkje tapar på at grunnrenteskatten vert innførd.

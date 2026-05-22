@@ -1,0 +1,15 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000038_sha256_2f28c9a24bc4c08a8bb95a0a2611e1468f476cd7141ca95dba7480c4d0288a9f.html
+kilde_type: html
+avsender: Dønna kommune
+uid: 54db9bf5-062a-4cd6-ad7b-1a57fac68ad0
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=54db9bf5-062a-4cd6-ad7b-1a57fac68ad0
+Høringssvar fra Dønna kommune
+
+Dato:
+03.01.2023
+
+Vedtak i kommunestyret den 13. desember 2022:
+1. Dønna kommune viser til vedtaket i Nordland fylkesting. Vi er for innføring av grunnrenteskatt på havbruk, og ber om at det endelige forslaget til økt beskatning av havbruksnæringen må utformes slik at det totale skattetrykket, herunder grunnrenteskatt, produksjonsavgift, formueskatt og naturressursskatt gjør at mangfold, norsk eierskap, forutsigbare rammevilkår, miljøteknologisk utvikling og verdiskaping ivaretas.
+2. Grunnrenteskatten må innrettes slik at det også i framtida er mulig å investere i industrianlegg både i hav og på land, for å sikre utvikling av eksisterende og nye helårlige arbeidsplasser langs kysten.
+3. Beskatningen må innrettes slik at de minste selskapene skjermes.
+4. Det endelige forslaget må sikre at minst 60% av inntektene fra grunnrenteskatten går dit oppdrett drives, og at inntektene ikke inngår i skatteutjevningen over inntektssystemet.

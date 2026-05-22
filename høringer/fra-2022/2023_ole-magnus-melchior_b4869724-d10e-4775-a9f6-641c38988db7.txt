@@ -1,0 +1,11 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000136_sha256_d31e8e9111cc387984386046da7d42945af877f6ed04fc917c36fd7abd050d8d.html
+kilde_type: html
+avsender: Ole Magnus Melchior
+uid: b4869724-d10e-4775-a9f6-641c38988db7
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=b4869724-d10e-4775-a9f6-641c38988db7
+Høringssvar fra Ole Magnus Melchior
+
+Dato:
+10.11.2022
+
+Prosentsatsen er for høg og vil føre til stopp i investeringer og aktivitet i distriktene.

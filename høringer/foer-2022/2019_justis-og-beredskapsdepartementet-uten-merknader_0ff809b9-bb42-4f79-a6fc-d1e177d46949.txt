@@ -1,0 +1,9 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-nou-2019-18-skattlegging-av-havbruk-manual-20260209102305-d5e71684-918-20260209102359694-1_0000021_sha256_6b0729751044d0107f141836a09fa4ca6a89be2fe6a2e15cbca26a6f6da7719d.html
+kilde_type: html
+avsender: Justis- og beredskapsdepartementet (uten merknader)
+uid: 0ff809b9-bb42-4f79-a6fc-d1e177d46949
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing--nou-2019-18-skattlegging-av-havbruk/id2676532/?uid=0ff809b9-bb42-4f79-a6fc-d1e177d46949
+Høringssvar fra Justis- og beredskapsdepartementet
+
+Dato:
+29.01.2020

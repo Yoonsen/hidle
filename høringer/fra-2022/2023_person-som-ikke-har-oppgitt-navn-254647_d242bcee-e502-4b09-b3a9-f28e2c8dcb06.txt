@@ -1,0 +1,13 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000147_sha256_560105f9ea7976d6251e285d974c38bedc48caaa046029be4ff222a439b6e4dc.html
+kilde_type: html
+avsender: Person som ikke har oppgitt navn (254647)
+uid: d242bcee-e502-4b09-b3a9-f28e2c8dcb06
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=d242bcee-e502-4b09-b3a9-f28e2c8dcb06
+Høringssvar fra Person som ikke har oppgitt navn
+
+Dato:
+07.11.2022
+
+NEI til grunnrenteskatt!!!
+Jeg er sterkt i mot grunnrenteskatt på havbruk da dette vil sette veldig mange arbeidsplasser i fare!
+Jeg jobber selv hos en stor utstyrsleverandør til oppdrettsnæringen å vi merker allerede en voldsom ordrenedgang etter at dette forslaget ble lagt frem.

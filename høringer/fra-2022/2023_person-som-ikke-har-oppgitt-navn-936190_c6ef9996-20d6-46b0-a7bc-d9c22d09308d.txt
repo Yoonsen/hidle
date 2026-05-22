@@ -1,0 +1,11 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000160_sha256_e53ddac15a6c7c7a076000604590a8e45a477e080becc9d1c157782893260e48.html
+kilde_type: html
+avsender: Person som ikke har oppgitt navn (936190)
+uid: c6ef9996-20d6-46b0-a7bc-d9c22d09308d
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=c6ef9996-20d6-46b0-a7bc-d9c22d09308d
+Høringssvar fra Person som ikke har oppgitt navn
+
+Dato:
+04.10.2022
+
+Absolutt på tide med en grunnrenteskatt for havbruksnæringen!

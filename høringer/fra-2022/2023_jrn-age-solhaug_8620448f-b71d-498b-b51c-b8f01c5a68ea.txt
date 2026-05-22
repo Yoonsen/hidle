@@ -1,0 +1,11 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000079_sha256_1e14177f896342ee87c848149e61b1fd8f987946be23fdd92f23ce5eb7ef58e1.html
+kilde_type: html
+avsender: Jørn-Åge Solhaug
+uid: 8620448f-b71d-498b-b51c-b8f01c5a68ea
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=8620448f-b71d-498b-b51c-b8f01c5a68ea
+Høringssvar fra Jørn-Åge Solhaug
+
+Dato:
+05.01.2023
+
+Jeg er i mot grunnrenteskatt på havbruk. Havbruk legger igjen mye penger i distriktene. Blir det grunnrenteskatt så går det ut over lokalsammfunnene.

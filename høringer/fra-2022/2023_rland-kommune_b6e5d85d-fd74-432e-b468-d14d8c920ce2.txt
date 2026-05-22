@@ -1,0 +1,15 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000213_sha256_5d79e7507ec156237b1d980e995090f3ffed75fb4ab00eda2a365799d0d491b7.html
+kilde_type: html
+avsender: Ørland kommune
+uid: b6e5d85d-fd74-432e-b468-d14d8c920ce2
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=b6e5d85d-fd74-432e-b468-d14d8c920ce2
+Høringssvar fra Ørland kommune
+
+Dato:
+12.12.2022
+
+Grunnrenteskatt på havbruk - Høringsuttalelse fra Ørland kommune
+Det vises til vedtak i ørland kommunestyre, KST - 22/170, 18.012.2022:
+1) Forslaget om grunnrenteskatt bør ytterligere utredes og innrettes slik at det ivaretar næringens muligheter og vilje til en langsiktig utvikling og vekst i Norske havbrukskommuner.
+2) Vertskapskommuner for havbruksnæringen må bli hørt i denne utredningen.
+3) Fordelingsmodell for grunnrenteskatt må forbeholdes de kommuner som er vertskap for havbruk, slik at disse sikres tilstrekkelig og langsiktige inntekter for at de skal kunne tilrettelegge for fremtidig vekst innen havbruksnæringen.

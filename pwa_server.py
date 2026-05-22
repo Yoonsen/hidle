@@ -16,6 +16,16 @@ WORD_RE = re.compile(r"\b\w+\b", re.UNICODE)
 METADATA_KEYS = {"kilde_fil", "kilde_type", "avsender", "uid", "kilde_uri"}
 
 
+def exported_text_paths() -> list[Path]:
+    if not HEARINGS_DIR.exists():
+        return []
+    return sorted(path for path in HEARINGS_DIR.rglob("*.txt") if path.is_file())
+
+
+def document_id_for_path(path: Path) -> str:
+    return path.relative_to(HEARINGS_DIR).as_posix()
+
+
 def parse_hearing_file(path: Path) -> dict[str, str | int]:
     lines = path.read_text(encoding="utf-8", errors="ignore").splitlines()
     metadata: dict[str, str] = {}
@@ -38,7 +48,9 @@ def parse_hearing_file(path: Path) -> dict[str, str | int]:
     modified = datetime.fromtimestamp(stat.st_mtime, tz=timezone.utc).isoformat()
 
     return {
+        "id": document_id_for_path(path),
         "name": path.name,
+        "corpus": path.parent.name,
         "year": year,
         "sender": sender,
         "wordCount": len(WORD_RE.findall(body)),
@@ -48,14 +60,17 @@ def parse_hearing_file(path: Path) -> dict[str, str | int]:
     }
 
 
-def safe_document_path(name: str) -> Path | None:
-    candidate = (HEARINGS_DIR / name).resolve()
+def safe_document_path(document_id: str) -> Path | None:
+    candidate = (HEARINGS_DIR / document_id).resolve()
     try:
         candidate.relative_to(HEARINGS_DIR.resolve())
     except ValueError:
         return None
     if not candidate.is_file() or candidate.suffix.lower() != ".txt":
-        return None
+        if "/" in document_id or "\\" in document_id:
+            return None
+        matches = [path for path in exported_text_paths() if path.name == document_id]
+        return matches[0] if len(matches) == 1 else None
     return candidate
 
 
@@ -78,11 +93,13 @@ class PwaHandler(SimpleHTTPRequestHandler):
                 return
 
             docs: list[dict[str, str | int]] = []
-            for path in sorted(HEARINGS_DIR.glob("*.txt")):
+            for path in exported_text_paths():
                 parsed_file = parse_hearing_file(path)
                 docs.append(
                     {
+                        "id": str(parsed_file["id"]),
                         "name": str(parsed_file["name"]),
+                        "corpus": str(parsed_file["corpus"]),
                         "year": str(parsed_file["year"]),
                         "sender": str(parsed_file["sender"]),
                         "wordCount": int(parsed_file["wordCount"]),
@@ -95,13 +112,16 @@ class PwaHandler(SimpleHTTPRequestHandler):
 
         if parsed.path == "/api/document":
             query = parse_qs(parsed.query)
+            raw_document_id = query.get("id", [""])[0]
             raw_name = query.get("name", [""])[0]
+            document_id = unquote(raw_document_id)
             name = unquote(raw_name)
-            if not name:
-                self.send_json({"error": "Mangler query-param: name"}, status=HTTPStatus.BAD_REQUEST)
+            lookup_value = document_id or name
+            if not lookup_value:
+                self.send_json({"error": "Mangler query-param: id"}, status=HTTPStatus.BAD_REQUEST)
                 return
 
-            path = safe_document_path(name)
+            path = safe_document_path(lookup_value)
             if path is None:
                 self.send_json({"error": "Dokument ikke funnet"}, status=HTTPStatus.NOT_FOUND)
                 return

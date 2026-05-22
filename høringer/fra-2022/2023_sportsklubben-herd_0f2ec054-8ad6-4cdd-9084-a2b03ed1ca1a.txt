@@ -1,0 +1,11 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000182_sha256_8b7c1a4de741b156fef3cd1df88319dae6fb9f7ba3ddb9164f3188a94b1d278b.html
+kilde_type: html
+avsender: Sportsklubben Herd
+uid: 0f2ec054-8ad6-4cdd-9084-a2b03ed1ca1a
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=0f2ec054-8ad6-4cdd-9084-a2b03ed1ca1a
+Høringssvar fra Sportsklubben Herd
+
+Dato:
+14.12.2022
+
+Den 28 september 2022 foreslo regjerningen å innføre grunnrenteskatt på havbruk i Norge. Vi som idrettslag med beliggenhet langs vestkysten har flere sponsorer og partnere som blir direkte eller indirekte berørt av forslaget om grunnrenteskatt. Det dreier seg om lokale aktører som enten er produsenter av laks, eller underleverandører til oppdrettsnæringen. Sponsorinntekter er en viktig del av klubbens inntekter og helt nødvendig for klubbens økonomi. Støtten vi får fra næringslivet er i all hovedsak basert på overskudd hos den enkelte bedrift. Denne støtten bidrar til at vi kan legge til rette for barn og ungdom i aktivitet på best mulig måte. Vi frykter at innføring av grunnrenteskatt vil føre til at mange av våre sponsorer vil måtte kutte utgifter og at vi som idrettslag vil miste viktige sposnorinntekter.

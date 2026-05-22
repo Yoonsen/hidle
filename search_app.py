@@ -38,10 +38,14 @@ def parse_hearing_file(path: Path) -> HearingDocument:
     return HearingDocument(path=path, year=year, sender=sender, body=body)
 
 
-def load_documents() -> list[HearingDocument]:
+def exported_text_paths() -> list[Path]:
     if not OUTPUT_DIR.exists():
         return []
-    return [parse_hearing_file(path) for path in sorted(OUTPUT_DIR.glob("*.txt"))]
+    return sorted(path for path in OUTPUT_DIR.rglob("*.txt") if path.is_file())
+
+
+def load_documents() -> list[HearingDocument]:
+    return [parse_hearing_file(path) for path in exported_text_paths()]
 
 
 def get_matches(pattern: re.Pattern[str], text: str, width: int) -> list[str]:

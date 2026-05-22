@@ -1,0 +1,11 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000190_sha256_335f6581ed9d63c0b456b833c41a1fe1b31525554118a45f6f484a3126a641c8.html
+kilde_type: html
+avsender: Sveio kommune
+uid: 60583ce8-b37a-41f4-bfac-6d6fc6d77578
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=60583ce8-b37a-41f4-bfac-6d6fc6d77578
+Høringssvar fra Sveio kommune
+
+Dato:
+03.01.2023
+
+Sveio kommune støttar høyringsuttalen frå Nettverk Fjord- og KystKommunar (NFKK).

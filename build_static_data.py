@@ -12,6 +12,16 @@ WORD_RE = re.compile(r"\b\w+\b", re.UNICODE)
 METADATA_KEYS = {"kilde_fil", "kilde_type", "avsender", "uid", "kilde_uri"}
 
 
+def exported_text_paths() -> list[Path]:
+    if not HEARINGS_DIR.exists():
+        return []
+    return sorted(path for path in HEARINGS_DIR.rglob("*.txt") if path.is_file())
+
+
+def document_id_for_path(path: Path) -> str:
+    return path.relative_to(HEARINGS_DIR).as_posix()
+
+
 def parse_hearing_file(path: Path) -> dict[str, str | int]:
     lines = path.read_text(encoding="utf-8", errors="ignore").splitlines()
     metadata: dict[str, str] = {}
@@ -31,7 +41,9 @@ def parse_hearing_file(path: Path) -> dict[str, str | int]:
     sender = metadata.get("avsender", "").strip() or "Ukjent avsender"
     modified = datetime.fromtimestamp(path.stat().st_mtime, tz=timezone.utc).isoformat()
     return {
+        "id": document_id_for_path(path),
         "name": path.name,
+        "corpus": path.parent.name,
         "year": year,
         "sender": sender,
         "wordCount": len(WORD_RE.findall(body)),
@@ -44,7 +56,7 @@ def parse_hearing_file(path: Path) -> dict[str, str | int]:
 def main() -> None:
     documents: list[dict[str, str | int]] = []
     if HEARINGS_DIR.exists():
-        for path in sorted(HEARINGS_DIR.glob("*.txt")):
+        for path in exported_text_paths():
             documents.append(parse_hearing_file(path))
 
     if not documents and OUTPUT_PATH.exists():

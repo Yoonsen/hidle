@@ -1,0 +1,9 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-nou-2019-18-skattlegging-av-havbruk-manual-20260209102305-d5e71684-918-20260209102358003-0_0000050_sha256_3b238bdd0b24fe6cf5d81e5e0b2b55ce25ee3f2cde336d32e7745ba986048e8b.html
+kilde_type: html
+avsender: Næringsforeningen Ålesundregionen (uten merknader)
+uid: 28f45a82-ce58-4bad-8586-4db506a7ded3
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing--nou-2019-18-skattlegging-av-havbruk/id2676532/?uid=28f45a82-ce58-4bad-8586-4db506a7ded3
+Høringssvar fra Næringsforeningen Ålesundregionen
+
+Dato:
+04.02.2020

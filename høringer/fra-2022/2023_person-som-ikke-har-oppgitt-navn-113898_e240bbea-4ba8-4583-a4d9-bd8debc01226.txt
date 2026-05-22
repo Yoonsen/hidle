@@ -1,0 +1,11 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000142_sha256_2ecdaaa1a2ac1d856d106e9f3cb6d690ef9aec74c1004d7179d335f2ddc43c73.html
+kilde_type: html
+avsender: Person som ikke har oppgitt navn (113898)
+uid: e240bbea-4ba8-4583-a4d9-bd8debc01226
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=e240bbea-4ba8-4583-a4d9-bd8debc01226
+Høringssvar fra Person som ikke har oppgitt navn
+
+Dato:
+28.09.2022
+
+Dette er å ta livet av næringene som gir oss skatteinntekter og å ødelegge for norsk velferd i fremtiden. Hvis målet er å sende Norge tilbake til steinalderen er dette forslaget en god ide.

@@ -1,0 +1,12 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000159_sha256_63b1fbe708cc7eec0478a0c1de131ee61dbbb134a2c2900c0d19d99518b1d412.html
+kilde_type: html
+avsender: Pionér Holding AS
+uid: a910aa3d-4e3c-46f4-8172-d35896822588
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=a910aa3d-4e3c-46f4-8172-d35896822588
+Høringssvar fra Pionér Holding AS
+
+Dato:
+04.01.2023
+
+Pioner Holding er i mot grunnrenteskatt
+Vi mener forslaget om grunnrenteskatt er unødvendig og det er ødeleggende for det norske næringslivet og distriktsnorge.

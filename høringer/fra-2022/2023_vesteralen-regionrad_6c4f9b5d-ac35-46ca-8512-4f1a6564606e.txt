@@ -1,0 +1,11 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000202_sha256_acb627fb472577a1d786014a4c9470ee0ead0749dfc642ec80b502668b7f7d03.html
+kilde_type: html
+avsender: Vesterålen regionråd
+uid: 6c4f9b5d-ac35-46ca-8512-4f1a6564606e
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=6c4f9b5d-ac35-46ca-8512-4f1a6564606e
+Høringssvar fra Vesterålen regionråd
+
+Dato:
+04.01.2023
+
+Vesterålen regionråd slutter seg til høringsuttalelse fra Hadsel kommune. (Uttalelsen ble vedtatt i Hadsel kommunestyre, 15/12-2022.)

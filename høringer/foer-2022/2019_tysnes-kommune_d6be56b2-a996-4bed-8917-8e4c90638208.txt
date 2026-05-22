@@ -1,0 +1,86 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-nou-2019-18-skattlegging-av-havbruk-manual-20260209102305-d5e71684-918-20260209102358003-0_0000071_sha256_04657952360468518e50ee138c81145143def96c91128c5e0c1c282696147a65.html
+kilde_type: html
+avsender: Tysnes kommune
+uid: d6be56b2-a996-4bed-8917-8e4c90638208
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing--nou-2019-18-skattlegging-av-havbruk/id2676532/?uid=d6be56b2-a996-4bed-8917-8e4c90638208
+Høringssvar fra Tysnes kommune
+
+Dato:
+28.01.2020
+
+SAMLA SAKSFRAMSTILLING
+Tysnes kommune
+Arkivsak
+:
+Arkivkode:
+20/97
+110
+-
+Sakshandsamar:
+Steinar Dalland
+Handsamingar:
+Utvalsaknr.
+Utval
+Møtedato
+PS
+7/20
+FORMANNSKAPET
+23.01.2020
+HØYRING - SKATTLEGGING AV HAVBRUKVIRSOMHET
+Vedlegg:
+NOU 2019:18 – Skattlegging av havbruksvirksomhet:
+https://www.regjeringen.no/contentassets/207ae51e0f6a44b6b65a2cec192105ed/no/pdfs/nou201920190018000dddpdfs.pdf
+SAKSUTGREIING:
+september 2018 vart det oppnemnt eit partssamansett utval for å vurdera skattlegging av havbruksnæringa. Utvalet si utgreiing og tilrådingar ligg no føre i NOU 2019:18 og er sendt ut på høyring av Finansdepartementet med høyringsfrist 4. februar d.å.
+NOU `en føl som uprenta vedlegg og vert ikkje gjennomgått i sin fulle breidde her. Utvalet sine tilrådingar er å finna i kap. 10 og den samla tilrådinga for både fleirtalet og mindretalet er oppsummert under punkt 1.2.7:
+«Flertallets forslag:
+Flertallet foreslår at grunnrente i havbruksnæringen hentes inn gjennom en overskuddsbasert, periodisert grunnrenteskatt. En overskuddsbasert grunnrenteskatt vil sørge for at investeringer som er lønnsomme før skatt, også er lønnsomme etter grunnrenteskatt, og vil ikke hemme investeringer i havbruksnæringen i Norge. En slik skatt vil også ta hensyn til svingninger i lønnsomheten i næringen.
+Flertallet mener at en bør hente inn en om lag like stor andel av overskuddet i havbruksnæringen gjennom en overskuddsbasert grunnrenteskatt som i vannkraft og petroleum, til fellesskapet. Grunnrenteskatten er utformet etter mal av grunnrenteskatten for vannkraftverk, og flertallet har derfor funnet det naturlig å se hen til skatteregimet for vannkraft i valg av skattesats.
+Flertallet foreslår at grunnrenteskattesatsen for havbruk settes til 40 pst.
+Flertallet foreslår at en statlig overskuddsbasert grunnrenteskatt kombineres med en produksjonsavgift som går til vertskommunene etter samme fordeling som benyttes i dag for fordeling av auksjonsproveny gjennom Havbruksfondet. Dette vil sørge for stabile og forutsigbare inntekter til kommunene, en nær kobling mellom vertskommuner og havbruksnæringen og gi kommunene insentiver til å tilrettelegge for næringen. Selskapene kan trekke fra produksjonsavgiften mot utlignet skatt på alminnelig inntekt. Avgiften virker da som en ren fordelingsmekanisme mellom stat og kommune og gir ingen ekstrabelastning for selskapene. Flertallet mener det er vesentlig at en produksjonsavgift fra havbruksvirksomheten, i likhet med naturressursskatten i kraftverksbeskatningen, inngår i skatteutjevningen i kommunenes inntektssystem for å bidra til lik velferd og like muligheter i hele landet.
+Flertallet foreslår at auksjonsinntekter fra tildelinger av ny kapasitet kanaliseres til staten, og at inntektene tilflyter Statens pensjonsfond utland eller forvaltes etter en tilsvarende modell.
+Det sørger for at også den delen av grunnrenten som tas inn gjennom kapasitetstildeling, kommer fremtidige generasjoner til gode.
+Dersom det
+ikke
+innføres en grunnrenteskatt, foreslår flertallet at fordelingen av inntektene mellom stat og kommuner endres. Flertallet foreslår at statens andel av inntekter ved kapasitetsjustering økes betydelig for å sikre et jevnt og rettferdig tjenestetilbud på tvers av norske kommuner. Statens andel av inntektene bør videre tilflyte Statens pensjonsfond utland, eller forvaltes etter en tilsvarende modell, slik at en kun benytter avkastningen av auksjonsinntektene, og slik at inntektene fra salg av tidsubegrensede tillatelser også kommer fremtidige generasjoner til gode.
+Flertallet foreslår å avvikle eiendomsskatten på oppdrettsanlegg i sjø forutsatt at det innføres en ekstrabeskatning av havbruksnæringen.
+Flertallet mener markeds- og forskningsavgiften er vridende skattlegging av eksport og bør avvikles
+Mindretallets forslag:
+Mindretallet mener at det ikke bør innføres en grunnrenteskatt for havbruksnæringen i Norge. Mindretallet mener dagens modell for innhenting av grunnrente gjennom auksjoner av ny produksjonskapasitet bør videreføres. Mindretallet mener det må vurderes om Havbruksfondet også skal tilføres et proveny gjennom en moderat produksjonsavgift dersom veksten i havbruksnæringen avtar og proveny fra tildeling av ny kapasitet ikke gir forutsigbare og stabile inntekter til vertskommunene.
+Mindretallet mener at dagens fordelingsnøkler mellom stat og kommunal sektor bør videreføres, og foreslår heller ikke endringer i fordelingsnøklene mellom kommunene under Havbruksfondet. Mindretallet mener at særinntekter fra havbruksnæringen ikke bør inngå i skatteutjevningen i kommunenes inntektssystem.
+Mindretallet foreslår å opprettholde eiendomsskatten på oppdrettsanlegg i sjø.
+Mindretallet mener markeds- og forskningsavgiften må vurderes gjennom en separat evaluering på selvstendig grunnlag.»
+I denne saka meiner rådmannen at det er særskilt aktuelt å gje uttale til dei tilrådingar som er gjort knytt til fordeling mellom stat og kommune, mellom kommunar og eventuelle mekanismar som vert lagt til grunn i ei slik fordeling. Framlegg til uttale vil i mindre grad vurdera detaljar i utvalet sine ulike framlegg til grunnrenteskatt. Det er viktig at framtidig skattlegging vert gjort på ein måte som sikrar ei vidare god vekst i næringa og som gjev grunnlag for innovasjon og utvikling. Ei fornuftig skattlegging vil sikra at næringa kan tilføra fellesskapet meirverdi også i eit generasjonsperspektiv. Måten dette vert gjort på bør skje i samråd med næringa.
+Ei grunnrente kan vera fornuftig, men det kan stillast spørsmål ved om havbruksnæringa kan samstillast med petroleums- og kraftnæringane. Når det gjeld olje og gass så er det ingen tvil om at verdiskapinga er skjer gjennom utnytting av ein fysisk stadbunden ressurs, tilsvarande gjeld for kraftnæringa. Felles for desse næringane er at dei ikkje kan flyttast då dei haustar direkte av den lokale ressursen. Havbruksnæringa nyt godt av stadbundne kvalitetar som er gode og som dei gjennom konsesjon har ein eksklusiv rett til å nytta, men næringa kan flytta utstyr og produksjon til mindre optimale lokalitetar og likevel halda fram sin produksjon dersom prisen vert for høg. Generelt meiner rådmannen at utvalet i sitt arbeid har vore så fokusert på trekkje liner mellom petroleums- og kraftnæringa at dei har oversett viktige skilnader.
+Utvalet gjer i stor grad same feilen når dei argumenterer for at prinsipp knytt til inntektsfordeling i petroleumsindustrien har overføringsverdi til fordeling av grunnrenteskatt på kraft og havbruk. Petroleumsindustrien har ein produksjon som ikkje er knytt til einskilde kommunar, ut frå dette ville det heller ikkje vore mogleg å fordele inntekter til vertskommunar.
+Fleirtalet i utvalet trekk også ein dårleg konklusjon når dei går inn for ein modell der konsesjonsavgift vert overført til
+Statens pensjonsfond utland
+for å sikra ei fordeling for framtidige generasjoner. Dette kan vera ei god løysing der det vert gjeve eksklusiv tilgong til å hente ut ikkje-fornybare ressursar, der den eksklusive tilgongen er knytt til fornybare ressursar bør det vurderast andre mekanismar for å ivareta generasjonsperspektivet. Slike mekanismar kan vera å gje tidsavgrensa konsesjonar, men kan også vera knytt til å innføra ei ressursavgift. Dersom det vert innført ei slik ressursavgift skulle alminneleg marknadslogikk tilsei at prisen for kjøp av sjølve konsesjonen går ned og at desse utgiftene heller vert tatt løpande. Dette vil igjen kunne verke til å auke talet på aktørar innanfor næringa.
+Utvalet gjer under kap. 9 greie for si forståing av kommunane sitt inntektssystem og kva dei meiner gjev ei mest mogleg rettvis og effektiv bruk av fellesskapet sine midlar for å generere mest mogleg velferd. Det er kanskje ikkje så overraskande at svaret er at det beste er om staten tar ein større del av inntektene, eller at inntektene vert jamt fordelt mellom kommunane. I denne konklusjonen overser ein då at auka inntekter til vertskommunar er naudsynt for å både sikra at fleire kommunar aktivt legg til rette for næringa og for å sikra naudsynt sosial og teknisk infrastruktur for at næringa skal ha gode
+vekstvilkår i vertskommunane.
+Når utvalet i sin iver etter å argumentera for vertskommunane helst ikkje bør få så store inntekter også er redd for at oppdrettsnæringa kan fortrenga anna næringsverksemd så er det vanskeleg å forstå. Dei fleste kommunar er opptekne av å sikra gode rammevilkår for all næring og rådmannen kan vanskeleg sjå at insentiv knytt til oppdrettsnæringa skal føra til skade for anna næring.
+Rådmannen tilrår slik uttale i saka:
+INNSTILLING FRÅ RÅDMANNEN:
+Tysnes kommune vil innleiingsvis peika på at me er tilfreds med den innretninga havbruksfondet har i dag.
+Tysnes kommune meiner at fordelingsnøkkelen som vert nytta for å fordela midlar mellom stat og kommunesektor har stor legitimitet og at den bør vidareførast slik som i dag.
+Tysnes kommune meiner at dagens fordelingsnøkkel mellom kommunane er fornuftig og at den stimulerer til å leggja til rette areal for næringa. Ordninga vil slik den er i dag også stimulere til at kommunar som i dag har lite havbruk i større grad vil leggja til rette for næringa. Behov for nye areal er stor om Norge skal ha ei bærekraftig oppdrettsnæring også i tida frametter. Perspektivanalysen av 2012
+«
+Verdiskaping basert på produktive hav i 2050
+» og oppfølgingsrapporten «
+Sjøkart mot 2050
+» som kom i 2017 peiker på moglegheiter for stor vekst innan marine næringar og då særskilt innanfor akvakultur, det vert i rapportane også peika på at det er trong for meir areal for vidare vekst.
+Det må sikrast at kommunane har insentiv til å følgja opp dette.
+Tysnes kommune merkjer seg at utvalet i sin rapport legg stor vekt på at ei fordeling som i dag går til vertskommunane er urettvis då det gjev desse kommunane store inntekter per innbyggjar. Det kan også argumenterast med at ei slik fordeling er både naturleg og naudsynt for å byggja ut naudsynt infrastruktur i desse kommunane. God sosial og teknisk infrastruktur vil også vera viktig for vidare utvikling av havbruksnæringa. Dei kommunane som er store innanfor havbruk er gjerne kommunar med mykje kystline og vanskelege kommunikasjonar, det kunne vore interessant om utvalet også hadde rekna ut desse kommunane sin del av storsamfunnet sine investeringar i ny infrastruktur per innbyggjar.
+I rapporten vert det peika på at det kan vera uheldig for anna industri om kommunane vert gjeve særskilde insentiv for å leggja til rette for oppdrettsnæringa. Utvalet er då redd for at kommunane sluttar å leggja til rette for anna industri og næringsverksemd. Dette stiller me oss heilt uforståande til og kan berre føra det på at utvalsmedlemmene manglar tilstrekkeleg innsikt i kommunal politikkutforming.
+Tysnes kommune meiner at ei arealavgift som fell til kommunane kan vera ei god løysing om det vert uforma i samråd med næringa, det vil i så tilfelle kunne redusere pris for framtidige konsesjonar. Ei vriding frå høge konsesjonsprisar til ein eller anna form for føreseieleg avgift på bruk av arealet vil ivareta generasjonsperspektivet betre enn utvalet sitt framlegg om å overføra konsesjonsavgifter til Statens pensjonsfond utland.
+Eit anna alternativ for å ivareta generasjonsperspektivet kan vera å gjera konsesjonane tidsavgrensa. Endringar her vil krevje nærare utgreiingar. I den grad det vert innført ei form for arealavgift bør denne også erstatta kommunen sitt høve til å leggja eigedomsskatt på flytande anlegg.
+Tysnes kommune meiner avslutningsvis at det i rapporten er lagt så stor vekt på å samanlikna havbruksnæringa med petroleums- og
+kraftnæringa at utvalet rett og slett ikkje har teke inn over seg innlysande skilnader:
+I kraft og petroleumsnæringane er skjer verdiskaping ved å henta ut ein stadbunden ressurs. I Havbruksnæringa så skjer ikkje verdiskapinga gjennom eksklusiv tilgang til ein stadbunden ressurs, men gjennom eksklusiv tilgang til optimale produksjonsforhold.
+Det er fullt mogleg å produsera til dømes laks andre stader, dersom prisen for tilgang til arealet vert for høg kan den overstiga dei relative fordelane ved gode stadbundne produksjonsvilkår.
+Når utvalet ser ut til å ikkje leggja vekt på denne kjensgjerninga kan det stillast spørsmål ved dei vurderingane dei gjer i høve til både innretning og økonomisk ramme for skattlegging.
+I petroleumsnæringa er skjer verdiskaping ved å henta ut ein avgrensa ressurs, i kraft- og havbruksnæringa skjer verdiskaping ved uthenting eller utnytting av fornybare ressursar. Dette er ein grunnleggjande skilnad som bør gje andre svar på å løysa den problemstillinga som utvalet peiker på med omsyn til fordeling mellom generasjonar.
+Petroleumsnæringa, altså uthenting av olje og gass, er ikkje stadbunden innanfor kommunegrensene det kan såleis ikkje vera eit gyldig argument å sei at inntekter frå petroleumsnæringa ikkje tilfell vertskommunen og difor skal ikkje inntekter frå kraft- og havbruksnæringane tilfalla vertskommunen.
+Tysnes kommune meiner at utvalet sin manglande evne til å også sjå på skilnader mellom havbruks-, kraft- og petroleumsnæringa gjev grunn til å stille spørsmål ved kor gyldige utvalet sine konklusjonar er på fleire områder.
+VEDTAK I FORMANNSKAPET 23.01.2020:
+I samsvar med innstilling.

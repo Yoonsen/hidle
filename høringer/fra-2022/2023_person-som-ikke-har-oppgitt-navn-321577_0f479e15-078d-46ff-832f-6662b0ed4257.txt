@@ -1,0 +1,11 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000148_sha256_f8abae39e41fdeb2ca97a235aec2655d72344cb2af43c1c3f4e79f9a3f0e8c0d.html
+kilde_type: html
+avsender: Person som ikke har oppgitt navn (321577)
+uid: 0f479e15-078d-46ff-832f-6662b0ed4257
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=0f479e15-078d-46ff-832f-6662b0ed4257
+Høringssvar fra Person som ikke har oppgitt navn
+
+Dato:
+14.11.2022
+
+Dette blir for dumt, er det null kødd Julebord på jobb hver dag nå eller?

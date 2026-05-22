@@ -1,0 +1,2 @@
+data/warc/*.warc.gz filter=lfs diff=lfs merge=lfs -text
+data/content/*.pdf filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,28 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000059_sha256_7fa21378bcd990ec2dcfa0a6f70169edd9c0b6abcec585a6e0edf54f49025f9e.html
+kilde_type: html
+avsender: Geir Inge Rødseth
+uid: 6cf5f1c0-3820-49c4-b36e-291c927ebe6a
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=6cf5f1c0-3820-49c4-b36e-291c927ebe6a
+Høringssvar fra Geir Inge Rødseth
+
+Dato:
+29.11.2022
+
+Ber om at Regjeringen og Stortinget ikke undervurderer kompleksiteten i prisdannelsen og prisberegningene av de forskjellige produktvariantene av laks når normpris vurderes. Mulig at en sjablon som synes enkel for olje ikke er det på laks.
+* Det er forskjellige produktvarianter inn ( Superior, Ordinær, Produksjon A, Proudksjon B etc.)
+* Det er forskjellige bearbeidingsgrader (omregningsfaktorer) for 100-vis av ferdige proudkter.
+*Innenfor hver enkelt HS-kode (Tolltariff) selges en lang rekke varierte produkter med forskjellige priser. Eksportpris for hver enkelt HS-kode vil også påvirkes av andel kontrakter i den HS-koden og vil ikke være for en normalpris.
+* Produktene selges på forskjellige Incoterms (EXW, CIF, DDP etc.), og må regnes tilbake til et eller annet sted.
+* Hvert salg er er unikt mellom unik kjøper og unik selger. Hva er da normpris?
+* Pris for et så enkelt produkt som Superior HOG kan variere med 5-10 kroner i løpet av en fredag. Hva er da normpris for fredag?
+* Hvordan skal man oppdage normpris for smale produktkategorier, eller unike produkter som lages utelukkende av én foredler?
+* Tidsforskjell mellom salg på kontrakt og realisert random normpris, gir ingen mulighet til å beregne fortjeneste, og dermed gjennomføre noen handel for bearbeidede produkter.
+* Hvordan skal man håndtere ferdigvarelager mellom rapporteringsperioder?
+* Hvordan skille mellom egen fisk og kjøpt fisk, eller spore fisk som er videresolgt gjennom flere ledd, evt. vidersolgt mellom tradere før foredling eller eksport.
+Minner i den sammenheng også om hvor ressurskrevende det var for oppdrettsnæringen å skulle beregne normale verdier i forbindelse med Anti-Dumping tiltakene fra EU og USA gjennom 90-tallet og tidlig 2000-tall.
+Legger i den forbindelse med WHO sin beslutning fra 2007 på Anti-Dumping undersøkelsene som ble gjennomført for undersøkelsesperioden fra Q4 2003 til Q3 2004. Dette har også høy kompleksitet og gjelder kun for et år. Skal man med normpris gjøre en lignende skjønnsmessig vurdering for hvert selskap, for hvert år, og bruke 3 år i rettsalen for for hvert regnskapsår for å diskutere nøyaktighet av priser som ikke er entydige?
+(Note: I forbindelse med Anti-Dumping undersøkelsene fra EU og USA på tidlig 2000-tall, kontrollregnet jeg alle beregningene fra EU-kommisjonen ned på transaksjonsnivå, for å påvise feil og mangler med beregningene. Dette er en svært kompleks materie, og det vil det også måtte bli med en normpris på laks i forbindelse med eventuell grunnrenteskatt.)
+https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=Q:/WT/DS/337R-00.pdf&Open=True
+Legger også med et eksempel fra ørretundersøkelsen fra 2003 for å vise hvor galt det kan bære av sted: https://www.bt.no/nyheter/lokalt/i/b8MOe/straffetoll-etter-oerretsalg-til-skole
+Hvis det ikke finnes noe igjen i Nærings- og Fiskeridepartmentet som husker hvilken kompleksitet som finnes ved beregning av "normale" laksepriser, er det mulig noen tidligere Ekspedisjonssjefer i NFD har noen erfaringer å dele.
+Kun en måned igjen til nyttår og få tydelige retningslinjer så langt...

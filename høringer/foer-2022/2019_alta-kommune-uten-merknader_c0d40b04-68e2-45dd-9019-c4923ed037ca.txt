@@ -1,0 +1,15 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-nou-2019-18-skattlegging-av-havbruk-manual-20260209102305-d5e71684-918-20260209102358003-0_0000004_sha256_16d3839d6817a9ec3dd276f4967abe88f858196cf1b90355d2e0623f9f6711e1.html
+kilde_type: html
+avsender: Alta kommune (uten merknader)
+uid: c0d40b04-68e2-45dd-9019-c4923ed037ca
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing--nou-2019-18-skattlegging-av-havbruk/id2676532/?uid=c0d40b04-68e2-45dd-9019-c4923ed037ca
+Høringssvar fra Alta kommune
+
+Dato:
+04.12.2019
+
+Formannskapet i Alta kommune behandlet i møte 28.11.2019 sak 45/2019 Høring - NOU 2019: 18 Skattlegging av havbruk .
+Formannskapet vedtok følgende høringsuttalelse:
+Alta kommune kan ikke akseptere at kommunens inntekter fra havbruksnæringen overtas av staten.
+Dersom regjeringens mål om vekst i havbruksnæringen forventes oppnådd, forutsetter det at kommunene får forutsigbare inntekter fra oppdrettsnæringen som fremmer lokal verdiskaping og bærekraftig vekst.
+Alta kommune støtter derfor uttalelsen fra Nettverk for fjord- og kystkommuneer tilknyttet havbruksbeskatningenen.

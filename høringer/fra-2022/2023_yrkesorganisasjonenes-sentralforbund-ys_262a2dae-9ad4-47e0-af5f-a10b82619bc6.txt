@@ -1,0 +1,28 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000210_sha256_9d0efb22102ef347b81c5420702f64ea9f88ddd1e1b2673815997753108e01bd.html
+kilde_type: html
+avsender: Yrkesorganisasjonenes Sentralforbund - YS
+uid: 262a2dae-9ad4-47e0-af5f-a10b82619bc6
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=262a2dae-9ad4-47e0-af5f-a10b82619bc6
+Høringssvar fra Yrkesorganisasjonenes Sentralforbund - YS
+
+Dato:
+04.01.2023
+
+Høringssvar fra YS - grunnrenteskatt på havbruk
+YS støtter innføring av grunnrenteskatt i havbruksnæringen. Forslaget er godt begrunnet og utgjør etter vår vurdering ikke en fare for arbeidsplasser eller aktivitet langs kysten. Forslaget slik det foreligger er rettet mot de største aktørene, og vil bidra til å motvirke at overskudd sendes ut av landet. God utnyttelse av skattegrunnlag som har minimale skadevirkninger på aktivitet og investeringsnivå, slik som grunnrenteskatt, vil kunne bidra til at den øvrige skattebyrden for arbeidstakere og næringsliv kan holdes så lav som mulig.
+Vi støtter også intensjonen om at deler av inntektene fra grunnrenteskatten skal komme hele kommunesektoren til gode.
+YS har også noen kommentarer til enkelte elementer i forslaget.
+Kontantstrømskatt
+YS støtter utforming av grunnrenteskatten som en kontantstrømskatt, og merker seg at det er lagt opp til sekvensiell skattlegging slik at selskapene får høyere fradrag for investeringskostnader i investeringsåret. Dette virker som en god løsning, godt i tråd med innretningen av andre grunnrenteskatter.
+Bunnfradrag
+To alternative forslag til bunnfradrag er sendt på høring, på henholdsvis 4000 og 5000 tonn per selskap på konsernnivå. I høringsnotatet fremgår det at dette kan sees som sjablongfradrag for historiske kjøp av havbrukstillatelser, i tillegg til at det er ønskelig å bevare en struktur der en andel av oppdrettsnæringen består av små, lokalt forankrede oppdrettere.
+YS har forståelse for ønsket om å legge til rette for mindre oppdrettere, men vil samtidig peke på at grunnrente også oppstår i mindre virksomheter.
+Som et alternativ til den foreslåtte modellen kunne en i stedet vurdert et lavere bunnfradrag og heller litt lavere skattesats i grunnrenteskatten, eventuelt også lavere produksjonsavgift.
+Produksjonsavgift
+Med den foreslåtte modellen vil produksjonsavgiften være det eneste virkemidlet for å inndrive noe av grunnrenten fra små og mellomstore oppdrettsselskaper. Produksjonsavgiften er ikke nøytral slik grunnrenteskatten er, og det er derfor uheldig at en stor del av næringen ilegges produksjonsavgift i stedet for grunnrenteskatt. Skattereglene blir nøytralt for de store, som kan trekke fra produksjonsavgiften i grunnrenteskatten, men ikke for de små.
+Regjeringen legger opp til at produksjonsavgiften skal økes. Det vil gi noe større inntekter til vertskommunene via Havbruksfondet. YS mener at gevinstene fra havbruksnæringen i større grad må komme alle kommuner til gode, ikke bare vertskommunene.
+Normpris
+YS støtter prinsippet om at den skattemessige verdien av fisken skal fastsettes på en objektiv og etterprøvbar måte, slik at en hindrer omgåelse av grunnrenteskatten ved hjelp av overskuddsflytting. På denne bakgrunn mener vi forslaget om beskatning på grunnlag av normpriser er godt fundert. Regjeringens opprinnelige forslag i høringsnotatet favoriserer ikke enkelte typer kontrakter, for eksempel fastpris fremfor spotpris. I ettertid har regjeringen åpnet for at kontraktspriser kan legges til grunn, og at slike kontraktspriser i en overgangsperiode også kan være internpriser, jf. brev 5. desember 2022 fra finansministeren som svar på Dok 8:38 S (2022-2023). Et normprisråd får i oppdrag å fastsette de prisene det skal skattes av, og også å kontrollere at internpriser lagt til grunn i innføringsåret er satt ut fra armlengdeprinsippet.
+YS mener det i utgangspunktet ikke er en oppgave for skattesystemet å legge til rette for et større innslag av fastpriskontrakter for selgere og kjøpere av oppdrettsfisk, men støtter alt i alt forslaget om å opprette et normprisråd. Et normprisråd vil ha gode forutsetninger for å fastsette en mest mulig prinsipielt riktig pris “nærme merdkanten”, og gi selskapene trygghet for hvilken pris som blir benyttet ved utregning av grunnrenteskatten. Vi vil understreke at anledningen til å skatte på bakgrunn av internpriser kun må være en midlertidig overgangsordning.
+Med vennlig hilsen
+Yrkesorganisasjonenes Sentralforbund - YS

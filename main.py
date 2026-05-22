@@ -17,6 +17,9 @@ from pypdf import PdfReader
 DATA_DIR = Path("data")
 CONTENT_DIR = DATA_DIR / "content"
 OUTPUT_DIR = Path("høringer")
+BEFORE_2022_DIR = OUTPUT_DIR / "foer-2022"
+FROM_2022_DIR = OUTPUT_DIR / "fra-2022"
+WITHOUT_YEAR_DIR = OUTPUT_DIR / "uten-aar"
 INDEX_PATH = Path("index.csv")
 AGGREGATION_PATH = Path("aggregering.csv")
 
@@ -87,6 +90,24 @@ def load_metadata() -> dict[str, HearingMeta]:
     return uid_to_meta
 
 
+def exported_text_paths() -> list[Path]:
+    if not OUTPUT_DIR.exists():
+        return []
+    return sorted(path for path in OUTPUT_DIR.rglob("*.txt") if path.is_file())
+
+
+def infer_year_from_stem(path: Path) -> str:
+    if "_" in path.stem:
+        return path.stem.split("_", 1)[0]
+    return "ukjent"
+
+
+def corpus_dir_for_year(year_value: str) -> Path:
+    if year_value.isdigit():
+        return BEFORE_2022_DIR if int(year_value) < 2022 else FROM_2022_DIR
+    return WITHOUT_YEAR_DIR
+
+
 def extract_uid(raw_html: str) -> str | None:
     match = UID_RE.search(raw_html)
     if not match:
@@ -138,13 +159,15 @@ def write_output(
 ) -> Path:
     sender = meta.sender if meta else "Ukjent avsender"
     year_group = meta.year_group if meta else "ukjent"
+    target_dir = corpus_dir_for_year(year_group)
     uid_value = uid or "no-uid"
     if uid_value == "no-uid":
         source_id = hashlib.sha1(source_path.name.encode("utf-8")).hexdigest()[:10]
         filename = f"{year_group}_{slugify(sender)}_{uid_value}_{source_id}.txt"
     else:
         filename = f"{year_group}_{slugify(sender)}_{uid_value}.txt"
-    out_path = OUTPUT_DIR / filename
+    out_path = target_dir / filename
+    out_path.parent.mkdir(parents=True, exist_ok=True)
 
     header_lines = [
         f"kilde_fil: {source_path.as_posix()}",
@@ -175,9 +198,7 @@ def parse_exported_text_file(path: Path) -> dict[str, str | int]:
         break
 
     body_text = "\n".join(lines[body_start:]).strip()
-    year_group = "ukjent"
-    if "_" in path.stem:
-        year_group = path.stem.split("_", 1)[0]
+    year_group = infer_year_from_stem(path)
 
     return {
         "filnavn": path.name,
@@ -195,7 +216,7 @@ def parse_exported_text_file(path: Path) -> dict[str, str | int]:
 
 def build_index() -> int:
     rows: list[dict[str, str | int]] = []
-    for txt_path in sorted(OUTPUT_DIR.glob("*.txt")):
+    for txt_path in exported_text_paths():
         rows.append(parse_exported_text_file(txt_path))
 
     fieldnames = [
@@ -306,7 +327,7 @@ def main() -> None:
         raise SystemExit("Fant ikke data/content. Sjekk at dataene er kopiert inn.")
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    for existing_txt in OUTPUT_DIR.glob("*.txt"):
+    for existing_txt in exported_text_paths():
         existing_txt.unlink()
 
     uid_to_meta = load_metadata()

@@ -1,0 +1,16 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-nou-2019-18-skattlegging-av-havbruk-manual-20260209102305-d5e71684-918-20260209102359694-1_0000034_sha256_3895c5e23baba39f9d93d851671ace87a455e7837c2fd4d61b72d8761b66bb83.html
+kilde_type: html
+avsender: Nord universitet
+uid: b36ca29f-911e-41e8-beab-655580c9d515
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing--nou-2019-18-skattlegging-av-havbruk/id2676532/?uid=b36ca29f-911e-41e8-beab-655580c9d515
+Høringssvar fra Nord universitet
+
+Dato:
+04.02.2020
+
+Finansdepartementet nedsatte 7. september 2018 et utvalg som skulle vurdere hvordan systemet for beskatning av havbruk burde utformes. Havbruksskatteutvalget (Utvalget) leverte sin utredning 4. november 2019. Utredningen ble samme dag sendt på høring med høringsfrist 4. februar 2020.
+Utvalget delte seg i et flertall og et mindretall, hvor flertallet blant annet anbefaler innføring av en grunnrenteskatt kombinert med en produksjonsavgift for havbruksnæringen. Utvalgets mindretall mener det ikke bør innføres en grunnrenteskatt.
+Nord universitets synpunkt kan sammenfattes i følgende hovedpunkter:
+Før det innføres store endringer i beskatningen av havbruksnæringene trengs en grundigere forskning knyttet til næringenes lønnsomhet, markedsvilkår, markedspotensial og mulige framtidige endringer i produksjonsmåter. Det synes som om Utvalgets analyser og drøftinger i stor grad baserer seg på perioden 2008 – 2018 som grunnlag for forståelse og forslag til politikk. Slik vi ser det, er nok denne perioden spesiell i forhold til tidligere perioder, og sannsynligvis heller ikke representativ for kommende år. Årene frem til 2008 var preget av store svingninger i lønnsomheten i oppdrettsnæringen. De ti årene som har lagt grunnlaget for Utvalgets analyse representerer en helt spesiell periode i den norske oppdrettsnæringen der et vedvarende etterspørselsoverskudd i det globale markedet har ført til høye priser i markedene. Det er mye som tyder på at det vil komme en endring i tilbudssituasjonen som vil balansere ut dette etterspørselsoverskuddet. Nord Universitet vil gjerne peke på at en mer nyansert analyse med ulike scenarier ville kunne gitt et mer nyansert bilde.
+Havbruksnæringenes reguleringsformer i andre land bør også gjennomgås nøyere, og en bør etterstrebe å se den nasjonale skattemessige behandlingen av næringene i en internasjonal kontekst.
+En spesiell utfordring knytter seg til havbruksnæringenes båndlegging av arealer i kyst- og havområder og de mulige negative eksterne virkninger oppdrettsaktivitet har på øvrige næringer og på konsummuligheter. I et framtidig skatte- og avgiftssystem bør havbruksnæringenes arealbruk og mulige negative eksterne effekter hensyntas sånn at en oppnår størst mulig samfunnsøkonomisk effektivitet i anvendelsen av de samlede kyst- og havressursene.

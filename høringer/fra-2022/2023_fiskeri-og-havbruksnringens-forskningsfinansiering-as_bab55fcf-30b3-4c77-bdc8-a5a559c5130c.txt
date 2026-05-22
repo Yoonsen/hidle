@@ -1,0 +1,16 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000048_sha256_24547b9348f87129e65014c6fb6f3ba6172f213b6fb82b452f76a8a55c32c6a8.html
+kilde_type: html
+avsender: Fiskeri og havbruksnæringens Forskningsfinansiering AS
+uid: bab55fcf-30b3-4c77-bdc8-a5a559c5130c
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=bab55fcf-30b3-4c77-bdc8-a5a559c5130c
+Høringssvar fra Fiskeri og havbruksnæringens Forskningsfinansiering AS
+
+Dato:
+20.12.2022
+
+«Styret i Fiskeri- og havbruksnæringens forskningsfinansiering AS (FHF) forvalter forskningsmidlene som innkreves med hjemmel i Lov om avgift til forskning og utvikling i fiskeri- og havbruksnæringen (Lov-2000-07-07-68). Formålet med forskingsavgiften er å styrke finansieringen av forskning og utvikling i fiskeri- og havbruksnæringen for derigjennom å legge til rette for økt verdiskaping, miljøtilpasning, omstilling og nyskaping i næringen.
+Styret i FHF har ikke tatt stilling til grunnrentebeskatning eller innretningen på denne. Styret har kun vurdert eventuelle implikasjoner på FoU-innsats og mulige konsekvenser for FHF.
+Norsk havbruksnæring er verdensledende, den bidrar til eksportinntekter, verdiskaping, ringvirkninger og sysselsetting langs hele kysten. En viktig årsak til at næringen har oppnådd denne posisjonen er tung innsats på forskning og utvikling gjennom mange tiår. Dagens havbruksnæring er svært kunnskapsintensiv.
+En større del av global matproduksjon må i fremtiden komme fra havet. Krav til miljø og bærekraft er i kontinuerlig endring, noe som øker kravet til ny kunnskap. Utvikling av nye produksjonsteknologier innenfor havbruk medfører også stort behov for kunnskapsutvikling knyttet til blant annet sammenheng mellom teknologi og biologi i årene som kommer. Utviklingen forutsetter forsterket FoU-innsats for å legge til rette for fortsatt vekst og utvikling i norsk havbruksnæring. Av disse grunner vil det være viktig at ikke endringer i rammebetingelser får den effekt at det reduserer næringens forsknings- og utviklingsinnsats.
+Hvilken langsiktig effekt endringer i skatteregimet kan få for nivået på forskningsmidlene gjennom FoU-avgiften er vanskelig å vurdere da det vil avhenge av endelig innretning av ordningen med grunnrente.
+Styret i FHF støtter derfor finansdepartementets vurdering om at det skal gis fradrag for forskningsavgiften i grunnlaget for beregning av grunnrente. Uavhengig av endelig innretning er det viktig at FoU-avgiften kommer til fradrag i beregningen av grunnrenteskatten slik det fremkommer av høringssaken».

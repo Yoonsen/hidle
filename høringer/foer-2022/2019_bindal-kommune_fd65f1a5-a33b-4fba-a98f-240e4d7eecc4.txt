@@ -1,0 +1,11 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-nou-2019-18-skattlegging-av-havbruk-manual-20260209102305-d5e71684-918-20260209102358003-0_0000007_sha256_5573b7de81149e2e99615c08f60c6f48079d3331c519ffe8372ba6369be72c60.html
+kilde_type: html
+avsender: Bindal kommune
+uid: fd65f1a5-a33b-4fba-a98f-240e4d7eecc4
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing--nou-2019-18-skattlegging-av-havbruk/id2676532/?uid=fd65f1a5-a33b-4fba-a98f-240e4d7eecc4
+Høringssvar fra Bindal kommune
+
+Dato:
+28.01.2020
+
+Bindal kommune støtter høringssvar fra NFKK, nettverk fjord- og kystkommuner, datert 14.01.2020.

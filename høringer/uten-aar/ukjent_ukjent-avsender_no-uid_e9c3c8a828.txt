@@ -1,0 +1,6 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-nou-2019-18-skattlegging-av-havbruk-manual-20260209102305-d5e71684-918-20260209102359694-1_0000043_sha256_d74459d2b7b666de1a15de144c6996c1ade4189fdd7c05d4431b5176fa923d01.pdf
+kilde_type: pdf
+avsender: Ukjent avsender
+uid: no-uid
+kilde_uri: 
+Osen kommune Sentraladministrasjonen Postadresse Rådhusveien 13 7740 Steinsdalen Telefon E-post 72 57 82 00 postmottak@osen.kommune.no Besøksadresse Kommunehuset Org.nr. 944 350 675 Finansdepartementet v/finansminister Siv Jensen Deres ref. Vår ref. Dato 185/2020/U40/4RLE 15.01.2020 HØRINGSSVAR PÅ NOU HAVBRUKSBESKATNING - OSEN KOMMUNE Osen kommune ved formannskapet viser til høring på NOU18: 2019 havbruksbeskatning. Osen kommune tilkjennegir med dette at man gir full tilslutning til høringsuttalelse gitt av Nettverk fjord- og kystkommuner (NFKK), og ber om at man for å nå målene om bærekraftig vekst i matproduksjonen, som sikrer arbeidsplasser og ringvirkninger langs kysten, sikrer at kapitalen som skapes langs kysten reinvesteres der. Med hilsen John Einar Høvik Ordfører Osen kommune
