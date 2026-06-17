@@ -3,7 +3,7 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2019,Firda Seafood Group AS,1,5793,35629,5793.0
 2019,KPMG Law Advokatfirma AS (uten merknader),1,5562,39797,5562.0
 2019,Måsøval Fiskeoppdrett AS,1,4281,25823,4281.0
-2019,Sjømatbedriftene,1,3454,23140,3454.0
+2019,Sjømatbedriftene,1,3458,23014,3458.0
 2019,Finans Norge,1,3096,21853,3096.0
 2019,"Næringsalliansen for Trøndelag (PDF, 218KB)",1,2482,16623,2482.0
 2019,Regelrådet,1,2420,17402,2420.0
@@ -24,7 +24,7 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2019,KS,1,1692,11565,1692.0
 2019,"Volda kommune (PDF, 329KB)",1,1692,11318,1692.0
 2019,Bremanger kommune,1,1597,10668,1597.0
-2019,Fiskeri- og havbruksnæringens forskningsfinansiering AS,1,1575,11075,1575.0
+2019,Fiskeri- og havbruksnæringens forskningsfinansiering AS,1,1572,11029,1572.0
 2019,"NiTs Fagråd Finans (PDF, 163KB)",1,1436,9715,1436.0
 2019,Sveio kommune,1,1322,9484,1322.0
 2019,Brønnøy kommune,1,1320,8843,1320.0
@@ -34,8 +34,8 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2019,"Instituttene for finans- og samfunnsøkonomi ved BI (PDF, 804KB)",1,1270,8503,1270.0
 2019,Marine Constructions AS og Risnes Marine Craft AS,1,1260,8130,1260.0
 2019,Alsaker Fjordbruk AS,1,1240,8388,1240.0
-2019,Næringsforeningen i Tromsøregionen/ Næringsarena Nord,1,1222,8853,1222.0
-2019,Statistisk sentralbyrå,1,1200,8561,1200.0
+2019,Næringsforeningen i Tromsøregionen/ Næringsarena Nord,1,1214,8806,1214.0
+2019,Statistisk sentralbyrå,1,1201,8553,1201.0
 2019,Sogn og Fjordane Næringsråd,1,1197,7737,1197.0
 2019,Blå horisont 2030,1,1192,7745,1192.0
 2019,"Sosialistisk Fellesliste av SV og Raudt, Kvinnherad",1,1004,6877,1004.0
@@ -79,7 +79,7 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2019,SMB Norge,1,494,3243,494.0
 2019,Yrkesorganisasjonenes Sentralforbund (YS),1,487,3237,487.0
 2019,Energi Norge,1,485,3400,485.0
-2019,Bodøregionens Utviklingsselskap AS - BRUS,1,484,3213,484.0
+2019,Bodøregionens Utviklingsselskap AS - BRUS,1,475,3193,475.0
 2019,"Kvam høgre (PDF, 87KB)",1,471,3136,471.0
 2019,Meløy kommune,1,471,3337,471.0
 2019,Vest Næringsråd,1,459,3006,459.0
@@ -90,8 +90,8 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2019,Nærøysund kommune,1,407,2910,407.0
 2019,"Nordland fylkeskommune (PDF, 180KB)",1,395,2830,395.0
 2019,Brønnbåteiernes Forening,1,371,2608,371.0
+2019,Nord-Troms regionråd DA,1,362,2510,362.0
 2019,NHO Mat og Drikke,1,361,2393,361.0
-2019,Nord-Troms regionråd DA,1,360,2513,360.0
 2019,Sørfold Kommune,1,358,2430,358.0
 2019,Hammerfest kommune,1,348,2417,348.0
 2019,Strand Kommune,1,341,2293,341.0
@@ -106,7 +106,7 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2019,Interkommunalt politisk råd Namdal (Namdal regionråd),1,246,1800,246.0
 2019,"Regionrådet i Orkdalregionen (PDF, 950KB)",1,243,1601,243.0
 2019,Kvinnherad kommune (uten merknader),1,221,1508,221.0
-2019,Salangen kommune,1,217,1503,217.0
+2019,Salangen kommune,1,214,1495,214.0
 2019,Dønna kommune,1,204,1352,204.0
 2019,"Petter Bjerksund, Jarle Møen og Guttorm Schjelderup, professorer ved NHH",1,204,1397,204.0
 2019,Person som ikke har oppgitt navn (597360),1,191,1171,191.0
@@ -119,7 +119,7 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2019,"Klima- og miljødepartementet (PDF, 291KB)",1,111,698,111.0
 2019,Lebesby kommune (uten merknader),1,110,765,110.0
 2019,Hjelmeland kommune,1,104,720,104.0
-2019,NHO,1,92,620,92.0
+2019,NHO,1,92,619,92.0
 2019,Alta kommune (uten merknader),1,83,624,83.0
 2019,Skattebetalerforeningen,1,72,1870,72.0
 2019,Flatanger kommune,1,71,453,71.0
@@ -129,13 +129,13 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2019,Justis- og beredskapsdepartementet (uten merknader),1,9,68,9.0
 2019,Næringsforeningen Ålesundregionen (uten merknader),1,8,67,8.0
 2019,Tysnes kommune,1,0,0,0.0
-2023,Sjømatbedriftene,4,32785,221248,8196.25
+2023,Sjømatbedriftene,4,32777,221239,8194.25
 2023,Lederne,1,23711,165779,23711.0
 2023,Lerøy Seafood Group,1,18156,125115,18156.0
 2023,Næringsforeningen i Stavanger-regionen og Næringsforeningen Haugalandet,1,15210,102892,15210.0
 2023,Næringsalliansen for Trøndelag,1,15174,102567,15174.0
-2023,Kverva AS,6,14714,99969,2452.33
-2023,Mowi ASA,2,13949,75391,6974.5
+2023,Kverva AS,6,14710,99959,2451.67
+2023,Mowi ASA,2,13940,75376,6970.0
 2023,"Næringsarena Nord (PDF, 4MB)",1,13804,93086,13804.0
 2023,SpareBank1 SMN,2,13099,87843,6549.5
 2023,SpareBank 1 SR-Bank,2,12775,85650,6387.5
@@ -146,13 +146,13 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2023,Trøndelag fylkeskommune,2,8435,56846,4217.5
 2023,SalMar Aker Ocean AS,1,8114,56425,8114.0
 2023,Norges sjømatråd,1,7827,51612,7827.0
-2023,Seaweed Norway AS,1,7532,48729,7532.0
+2023,Seaweed Norway AS,1,7491,48547,7491.0
 2023,Utror AS,1,6561,45096,6561.0
 2023,Kvarv AS,1,6278,45789,6278.0
 2023,Nova Sea AS,1,6265,41732,6265.0
 2023,Carnegie AS,1,5916,39056,5916.0
 2023,Måsøval AS,1,5476,35932,5476.0
-2023,Nærøysund Aquaservice,1,5264,35515,5264.0
+2023,Nærøysund Aquaservice,1,5243,35390,5243.0
 2023,Subsea Farming AS,1,5131,34729,5131.0
 2023,Skattedirektoratet,1,5110,36389,5110.0
 2023,"Senja kommune (PDF, 161KB)",1,5108,33689,5108.0
@@ -178,18 +178,18 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2023,Fiskeridirektoratet,1,3112,21829,3112.0
 2023,Lovundlaks AS,1,3089,20250,3089.0
 2023,Agder fylkeskommune,1,2883,19022,2883.0
-2023,Watermoon AS,1,2848,18302,2848.0
-2023,"Edelfarmen AS (PDF, 437KB)",1,2845,18239,2845.0
+2023,Watermoon AS,1,2837,18263,2837.0
+2023,"Edelfarmen AS (PDF, 437KB)",1,2827,18196,2827.0
 2023,Parat,1,2824,18364,2824.0
-2023,Selstad,1,2752,18885,2752.0
-2023,Egil Kristoffersen & sønner AS,1,2735,17594,2735.0
+2023,Selstad,1,2752,18835,2752.0
+2023,Egil Kristoffersen & sønner AS,1,2720,17550,2720.0
 2023,Polarplast as,1,2718,17616,2718.0
 2023,Ole Jacob Myre,1,2673,18158,2673.0
 2023,KEM Prosjekt AS,1,2630,16498,2630.0
 2023,Meløy kommune,1,2416,15809,2416.0
 2023,Harstad kommune,1,2404,15896,2404.0
 2023,Jørgen Jakobsen,1,2335,14820,2335.0
-2023,Hordaland Rørteknikk AS,1,2274,15069,2274.0
+2023,Hordaland Rørteknikk AS,1,2279,15023,2279.0
 2023,Norsk Industri,1,2252,15587,2252.0
 2023,Nærøysund og Leka Venstre,1,2187,14838,2187.0
 2023,Havklynga SA,1,2184,15097,2184.0
@@ -198,13 +198,13 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2023,SalmonCamera,2,2090,13525,1045.0
 2023,SMB Norge,1,2074,14299,2074.0
 2023,Stiim Aqua Cluster,1,2074,14299,2074.0
-2023,Frøy ASA,1,2072,13910,2072.0
+2023,Frøy ASA,1,2039,13870,2039.0
 2023,Mekon AS,1,2031,14086,2031.0
 2023,Eivind Riise,4,2019,12665,504.75
-2023,Zanzibar Inn as,1,1982,12873,1982.0
+2023,Zanzibar Inn as,1,1971,12842,1971.0
 2023,Aker Solutions As,1,1908,13797,1908.0
 2023,Regelrådet,1,1862,13409,1862.0
-2023,Hofseth International AS,1,1805,12036,1805.0
+2023,Hofseth International AS,1,1791,12015,1791.0
 2023,Svana AS ved Ivar Holmefjord,1,1785,11219,1785.0
 2023,Advokatfirmaet Thommessen AS,1,1780,12283,1780.0
 2023,AS Bolaks,1,1769,11472,1769.0
@@ -223,15 +223,15 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2023,Benchmark Holdings,1,1515,10842,1515.0
 2023,Bremnes Seashore AS,2,1511,9930,755.5
 2023,Bitastad AS,1,1501,10143,1501.0
-2023,Firda Seafood Group AS,1,1480,10002,1480.0
 2023,Salvesen & Thams AS,1,1478,9720,1478.0
 2023,"LO (PDF, 282KB)",1,1473,10485,1473.0
+2023,Firda Seafood Group AS,1,1470,9976,1470.0
+2023,Alsaker Fjordbruk AS,1,1446,9437,1446.0
 2023,"Flakstadvåg Laks (PDF, 208KB)",1,1445,9463,1445.0
-2023,Alsaker Fjordbruk AS,1,1444,9457,1444.0
 2023,Perishable Center Nord AS,1,1415,8424,1415.0
-2023,Rostein AS,1,1401,8740,1401.0
 2023,Senja kommune,1,1398,9322,1398.0
 2023,Biomarint forum,1,1390,9559,1390.0
+2023,Rostein AS,1,1388,8722,1388.0
 2023,Wiski Capital AS,1,1344,9183,1344.0
 2023,Metro-Opus AS,1,1343,9606,1343.0
 2023,Nutrimar Holding AS,1,1341,9028,1341.0
@@ -267,11 +267,11 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2023,NordicGSA AS,1,946,5914,946.0
 2023,Flatanger kommune,1,934,6742,934.0
 2023,Håvard Skibenes,1,922,5292,922.0
-2023,Osland Havbruk AS,2,914,5758,457.0
+2023,Osland Havbruk AS,2,907,5745,453.5
 2023,Salaks AS,1,905,6149,905.0
 2023,Ballangen Holding AS,1,903,6088,903.0
 2023,Norfra AS,1,899,6504,899.0
-2023,Ellingsen Seafood AS,1,894,5722,894.0
+2023,Ellingsen Seafood AS,1,888,5702,888.0
 2023,Person som ikke har oppgitt navn (372999),1,883,5317,883.0
 2023,Family Business Norway,1,877,5982,877.0
 2023,Grieg Seafood ASA,1,869,5716,869.0
@@ -293,7 +293,7 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2023,Hålogalandsrådet IPR,1,783,5567,783.0
 2023,NSK Ship Design,1,780,5437,780.0
 2023,Jørund Hassel,1,776,5394,776.0
-2023,Egersund Group AS,1,775,5140,775.0
+2023,Egersund Group AS,1,775,5126,775.0
 2023,Alstahaug kommune,1,759,5061,759.0
 2023,Pareto Securities AS,1,754,4867,754.0
 2023,Sjømatklyngen Senja,1,754,5106,754.0
@@ -301,23 +301,23 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2023,Knive Laks Vardø AS,1,743,5075,743.0
 2023,"Vardø kommune (PDF, 2MB)",1,735,5354,735.0
 2023,Nordkapp kommune,1,721,4647,721.0
-2023,Folla Maritime Service AS,1,720,4893,720.0
-2023,Eide Fjordbruk AS,1,715,4650,715.0
+2023,Folla Maritime Service AS,1,714,4879,714.0
+2023,Eide Fjordbruk AS,1,712,4639,712.0
 2023,Wilsgård Fiskeoppdrett as,1,704,4746,704.0
 2023,"Bård Misund og Ragnar Tveterås, professorer, Universitetet i Stavanger",1,697,4875,697.0
 2023,Vestnes kommune v/formannskapet,1,694,4895,694.0
 2023,Eigersund kommune,1,693,4541,693.0
 2023,Energigass Norge,1,690,4503,690.0
 2023,Norwell AS,1,685,4520,685.0
-2023,FiiZK Holding AS,1,679,4645,679.0
 2023,Aqua Kompetanse AS,1,678,4629,678.0
 2023,Nærøysund Senterparti,1,677,4603,677.0
 2023,Frøya Arbeiderparti,1,674,4595,674.0
 2023,Sportsklubben Herd,1,670,4616,670.0
+2023,FiiZK Holding AS,1,666,4634,666.0
 2023,Kvinnherad kommune,1,666,4665,666.0
-2023,Wikborg Rein Advokatfirma AS,1,662,4318,662.0
 2023,Global Aquaculture Tech HUB,1,658,4329,658.0
 2023,Ida Knutsen,1,657,4136,657.0
+2023,Wikborg Rein Advokatfirma AS,1,654,4310,654.0
 2023,Kvænangen kommune,1,650,4373,650.0
 2023,Stadion Laks,1,639,4468,639.0
 2023,Pelagisk Forening,1,627,4313,627.0
@@ -326,21 +326,21 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2023,Wenberg Fiskeoppdrett AS,1,622,4181,622.0
 2023,Samdriften Northern Lights Salmon AS og Sørrollnesfisk AS,1,619,4025,619.0
 2023,Lofotrådet IKP,1,615,3891,615.0
-2023,NHO Mat og Drikke,1,613,4194,613.0
 2023,Blue Ocean Technology AS,1,611,3852,611.0
 2023,"Vestland fylkeskommune (PDF, 66KB)",1,609,4028,609.0
 2023,Træna Senterparti,1,607,4363,607.0
 2023,Folla Bil & Båt as,1,605,4119,605.0
+2023,NHO Mat og Drikke,1,604,4179,604.0
 2023,Politiske posisjonen i Saltdal kommune,1,601,3666,601.0
-2023,Trønderelement AS,1,597,4115,597.0
 2023,Yrkesorganisasjonenes Sentralforbund - YS,1,595,4083,595.0
 2023,Nordmoehus Snekkerservice AS,1,594,4174,594.0
 2023,Frøya Idrettslag,1,590,3658,590.0
 2023,Hasvik kommune,1,590,4062,590.0
-2023,Namdal Rensefisk AS,1,589,4089,589.0
+2023,Trønderelement AS,1,589,4101,589.0
 2023,Øygarden kommune,1,589,4072,589.0
-2023,Incentive AS,1,586,3717,586.0
+2023,Namdal Rensefisk AS,1,588,4088,588.0
 2023,Person som ikke har oppgitt navn (264854),1,585,3535,585.0
+2023,Incentive AS,1,581,3703,581.0
 2023,Næringslivets Hovedorganisasjon NHO,1,580,4134,580.0
 2023,Bømlo Næringsråd,1,575,3779,575.0
 2023,Roger Selset,1,574,3701,574.0
@@ -348,7 +348,7 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2023,Flatanger Næringsforum,1,563,4092,563.0
 2023,Abyss Group AS,1,547,3593,547.0
 2023,Flatanger Idrettslag,1,547,3357,547.0
-2023,ScaleAQ,1,544,3793,544.0
+2023,ScaleAQ,1,542,3778,542.0
 2023,Brødr. Hukkelberg AS,1,534,3195,534.0
 2023,Marø Havbruk AS og E. Karstensen Fiskeoppdrett AS,1,534,3558,534.0
 2023,"Viewpoint Seafood AS (PDF, 270KB)",1,534,3687,534.0
@@ -393,14 +393,14 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2023,FISKEBÅT,1,400,2867,400.0
 2023,Flatanger FrP,1,394,2688,394.0
 2023,Jørgen Christiansen,1,393,2643,393.0
-2023,Viplast AS,1,386,2678,386.0
+2023,Viplast AS,1,381,2667,381.0
 2023,CNRM AS,1,378,2452,378.0
 2023,Christian Nordby,1,375,2405,375.0
 2023,Bømlo kommune,1,372,2400,372.0
 2023,Kristiansund og Nordmøre Næringsforum,1,369,2302,369.0
-2023,Nord-Trøndelag Havn Rørvik IKS,1,369,2543,369.0
 2023,NHO Reiseliv,1,363,2454,363.0
 2023,"NHO Luftfart (PDF, 64KB)",1,362,2339,362.0
+2023,Nord-Trøndelag Havn Rørvik IKS,1,362,2533,362.0
 2023,PKOM AS,1,362,2559,362.0
 2023,Smøla kommune,1,362,2464,362.0
 2023,Williksen Fangst AS,1,362,2618,362.0
@@ -412,8 +412,8 @@ aar,avsender,antall_horinger,sum_antall_ord,sum_antall_tegn,snitt_antall_ord
 2023,Trøndelag Venstre,1,356,2408,356.0
 2023,Kvitsøy kommune,1,355,2369,355.0
 2023,Marine Constructions AS,1,351,2500,351.0
-2023,Abelvær Filetfabrikk AS,1,350,2444,350.0
-2023,ELCOM AS,1,345,2411,345.0
+2023,Abelvær Filetfabrikk AS,1,346,2438,346.0
+2023,ELCOM AS,1,342,2402,342.0
 2023,Salangen kommune,1,337,2357,337.0
 2023,Vikomar AS,1,327,2229,327.0
 2023,Sjømatstaden AS,1,325,2118,325.0

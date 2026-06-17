@@ -12,6 +12,7 @@ import unicodedata
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 from dataclasses import dataclass
+from functools import lru_cache
 from html import unescape
 from pathlib import Path
 from zipfile import ZipFile
@@ -37,6 +38,7 @@ TITLE_RE = re.compile(r"<title>(.*?)</title>", re.IGNORECASE | re.DOTALL)
 SPACE_RE = re.compile(r"\s+")
 WORD_RE = re.compile(r"\b\w+\b", re.UNICODE)
 OCR_DPI = "300"
+PREFERRED_OCR_LANGS = ("nor+eng", "nor", "eng")
 
 logging.getLogger("pypdf").setLevel(logging.ERROR)
 
@@ -310,8 +312,43 @@ def extract_pdf_text(pdf_path: Path) -> str:
     return extract_pdf_text_with_ocr(pdf_path)
 
 
+@lru_cache(maxsize=1)
+def available_tesseract_languages() -> set[str]:
+    result = subprocess.run(
+        ["tesseract", "--list-langs"],
+        stdout=subprocess.PIPE,
+        stderr=subprocess.DEVNULL,
+        text=True,
+        check=False,
+    )
+    if result.returncode != 0:
+        return set()
+
+    languages: set[str] = set()
+    for line in result.stdout.splitlines():
+        line = line.strip()
+        if not line or line.startswith("List of available languages"):
+            continue
+        languages.add(line)
+    return languages
+
+
+def pick_ocr_language() -> str | None:
+    available = available_tesseract_languages()
+    if not available:
+        return None
+    for candidate in PREFERRED_OCR_LANGS:
+        parts = candidate.split("+")
+        if all(part in available for part in parts):
+            return candidate
+    return None
+
+
 def extract_pdf_text_with_ocr(pdf_path: Path) -> str:
     if shutil.which("pdftoppm") is None or shutil.which("tesseract") is None:
+        return ""
+    ocr_language = pick_ocr_language()
+    if ocr_language is None:
         return ""
 
     with tempfile.TemporaryDirectory(prefix="hidle-ocr-") as tmp_dir:
@@ -330,7 +367,7 @@ def extract_pdf_text_with_ocr(pdf_path: Path) -> str:
         page_texts: list[str] = []
         for image_path in sorted(tmp_path.glob("page-*.png")):
             result = subprocess.run(
-                ["tesseract", image_path.name, "stdout"],
+                ["tesseract", image_path.name, "stdout", "-l", ocr_language],
                 cwd=tmp_path,
                 stdout=subprocess.PIPE,
                 stderr=subprocess.DEVNULL,
