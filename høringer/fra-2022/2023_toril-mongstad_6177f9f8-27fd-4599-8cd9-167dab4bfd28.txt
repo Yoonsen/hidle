@@ -1,15 +1,26 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000191_sha256_f43ce1ac2d97b589c6ab66831f6d3d1b68ca0badeb2ee06e31caa233528a0dd0.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000192_sha256_5957bdb1475862b9c176a9b3afa56a4bc8e643c4d64c8f62b8509cb059a47686.html
 kilde_type: html
 avsender: Toril Mongstad
 uid: 6177f9f8-27fd-4599-8cd9-167dab4bfd28
 kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=6177f9f8-27fd-4599-8cd9-167dab4bfd28
-Høringssvar fra Toril Mongstad
+Høringssvar fra Torghatten Aqua AS
 
 Dato:
-04.01.2023
+03.01.2023
 
-Eg støttar regjeringa sitt forslag om grunnrenteskatt på havbruk. Det gjer eg ut frå fleire grunnar. Den eine er prinsippet om at det ikkje skal vera gratis å bruka landets felleseige til eiga vinning. Norske fjordar tilhøyrer det norske folket, og bruk av desse er det heilt rimeleg at det skal betalast skatt for.
-Ein annan viktig grunn til at eg støttar forslaget er den omfordelande effekten dette vil ha. Det er god og sosialdemokratisk skattepolitikk at det skal ytast etter evne. Ingen kan vera i tvil om at havbruk er ei verksemd som gjev svært god avkastning, langt over det som er snittet for norske bedrifter (når me ser bort frå olje og gass).
-I ei tid med aukande ulikskap tar regjeringa grep ved å mellom anna innføra grunnrenteskatt på havbruka. Slik vil det hentast meir penger inn i statskassa for å sikra at innretninga på velferdsstaten kan halda fram, og kanskje til og med verta betre.
-Signaleffekten er viktig. Det bør vera grunnrente på all verksemd som nyttar felleseiget, og som har forteneste utover det som må kunna seiast å vera nødvendig ut frå kostnadsdekning, vedlikehald og investeringsbehov. Det er ingen grunn til at havbruka skal vera fritekne, slik sett burde denne skatten ha vore innført for lenge sidan.
-Det er å håpa at regjeringa ikkje bøyer av, men gjennomfører grunnrenteskatt på havbruk etter intensjonane i forslaget.
+Vi er kjent med at Sjømat Norge har levert en omfattende høringsuttalelse og støtter denne.
+Basert på forhold som berører egen virksomhet henstiller vi også departementet om å foreta en positiv avklaring på følgende:
+Finansielle Sikringskontrakter må likestilles med fastpris leveransekontrakter. Finansministeren har ved flere anledninger uttalt og også skriftlig slått fast at «reelle inntekter» skal legges til grunn ved beregning av grunnrenteskatt. For å illustrere viktigheten av dette kan vi benytte status for egne virksomheter;
+Vi har sikringskontrakt på 75 tonn/mnd som ble inngått i begynnelsen av 2022 da markedsprisene var klart lavere enn de er i dag. Pr i dag er det et urealisert tap på kr 21,5 mill. i sikringskontrakten. Det motveies av at forventede spotpriser for 2023 er på hele 85,46 NOK/kg (årskontrakten 2023 ble handlet til 85,50 nylig).
+Hvis finansielle sikringskontrakter ikke inngår i skattegrunnlaget er det en risiko for at våre selskap må betale skatt på kr 21,5 mill. * 40% = kr 8,6 mill. på en inntekt selskapene ikke har mottatt.
+Bakgrunnen for at vi benytter sikringskontrakter er redusert risiko og ønske om en jevnere inntjening enn å selge hele vår produksjon i spotmarkedet.
+Vi sikrer med finansielle Fish Pool kontrakter inntil 2 år frem i tid. Da vi inngikk kontraktene for 2023 var skattesatsen 22% for både fysiske og finansielle kontrakter og vi forutsatte at disse ble likebehandlet skattemessig.
+Slik markedet nå ser ut blir spotprisene for 2023 klart høyere enn kontraktsprisene. Det er derfor viktig at vårt skattegrunnlag for grunnrente for 2023 består av vårt fakturerte salg i spotmarkedet justert for resultateffekt av våre finansielle sikringskontrakter.
+Departementet skriver at «reelle inntekter» skal legges til grunn for 2023. For vår virksomhet er det viktig at finansielle kontrakter tas hensyn til ved beregning av skattegrunnlaget. Dersom ikke vil vi måtte betale skatt av en inntekt vi ikke har hatt. Det oppfatter vi at Finansminister Vedum har lovet ikke skal skje.
+Legge til rette for at samdrift og samlokaliseringsløsninger kan videreføres minimum på dagens nivå. I forslaget som er ute på høring er det lagt til grunn at det skal legges til rette for at slike løsninger skal kunne videreføres. Det er antydet at dette skal kunne skje ved at man legger den enkelte deltakers andel av MTB i samlokaliseringen til grunn ved beregning av inntekt og resultat, uten at dette er konkretisert. Det er viktig at dette avklares på en positiv måte i den endelige forslaget som fremmes for Stortinget. Samdrift/samlokaliseringsløsninger er svært viktig for en videre positiv utvikling i næringen:
+Det gir små oppdrettere muligheter til effektiv drift, risikoreduksjon og stordriftsfordeler samtidig som det lokale eierskapet opprettholdes
+Det gir hele næringen bedre muligheter for en god biosikkerhet, gjennom avstand mellom lokaliteter, felles brakkleggingsløsninger, felles avlusningsopplegg etc.
+Det gir en med optimal utnyttelse av potensialet i oppdrettslokaliteter langs kysten, og bidrar til å redusere interessekonflikter med fiskere og andre brukere av sjøareal.
+Med vennlig hilsen
+Torghatten Aqua AS
+På vegne av Norsk Havbrukssenter AS, Aquaculture Innovation AS, Codfarm AS, Helgeland Miljøfisk AS, Vevelstad Settefisk AS og Campus BLÅ AS

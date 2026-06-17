@@ -1,13 +1,27 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000121_sha256_9578f2787ed7a198ca6cd4b48f510627354a84e866a97fe93f5eb43df25ec695.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000126_sha256_8b67e3f832edf4d5e04df2abf4d397311f5e9f73502ee7fff164864c3c2f5475.html
 kilde_type: html
 avsender: Norges Miljøvernforbund
 uid: c602bb3e-fc8d-4c0e-83b5-664016472fd3
 kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=c602bb3e-fc8d-4c0e-83b5-664016472fd3
-Høringssvar fra Norges Miljøvernforbund
+Høringssvar fra Ole Jacob Myre
 
 Dato:
-04.01.2023
+29.11.2022
 
-Norges Miljøvernforbund ( NMF ) støtter regjeringens forslag til grunnrenteskatt og hvordan den bør utformes, men har følgende tanker om en forbedring for miljøet i forslaget som skal vedtas.
-1- NMF ser at oppdrett på land ikke skal beskattes. og mener derfor at også lukkede anlegg i sjø,heller ikke skal beskattes. Dette vil føre til en dreining mot miljømessige bærekraftige anlegg, hvor utslippene fra anleggene reduseres betraktelig med opp til 70 % med dagens teknologi. Renseteknologien er forøvrig under en rivende utvikling, og NMF ser ikke bort i fra at rensgraden på utslippene kan bli så gode som 80-90 % i løpet av få år. Problemene med lakselus forsvinner, og problemet med rømminger blir også kraftig redusert, da de lukkede anleggene på markedet i dag er mye mer robust enn de åpne merdene. Flere andre problemer tilknyttet de åpne merdene vil også forsvinne ved bruk av lukkede anlegg.
-2- Hvis derimot grunnrenteskatt innføres for lukkede anlegg i sjø vil dette føre til at den gode utviklingen NMF har sett de siste 10 årene, hvor flere og flere oppdrettere har innsett at lukkede anlegg er den eneste fremtidsrettede måten å drive miljømessig bærekraftig på, vil reduseres da denne satsingen koster mye. NMF er redd for at en grunnrenteskatt da vil føre til at mange av disse gode prosjektene som nå er på gang, vil skrinlegges grunnet en enda større økonomisk risiko.NMF ber regjeringen om å benytte denne sjansen til å få dyttet oppdrettsindustrien i en mer miljømessig bærekraftig retning, ved å rett og slett frita de som satser på lukkede anlegg for grunnrenteskatt.
+Denne prosessen er ulik alle tidligere skattereformer både i form og omfang.
+Forslaget kom mildt sagt overraskende på både bransjen og investorer. Dette har ført til:
+50 milliarder i børsfall for sjømatselskapene. (Folketrygdfondet tapte ca 5 mrd)
+Et sannsynlig like stort verdifall i de privateide selskapene
+4,5 milliarder i reduserte inntekter fra lakseauksjonen (30 % lavere pris og 25 % usolgt volum).
+35 milliarder i investeringer stanset pr slutten av november (mange vil aldri bli gjennomført)
+Hundrevis av permitterte og oppsigelser i leverandør industrien pga kanselleringer
+Mer enn 1500 permitterte i videreforedling grunnet stans i kontrakts markedet (uklar normpris)
+Ny teknologi fra utviklingstillatelser stopper opp, under halvparten er realisert/igangsatt 5 år etter fristen.
+En underskog av innovative tidligfase selskaper vil miste sitt kundegrunnlag
+Summen av disse tapene må holdes opp mot de ca 4 milliardene som bidrag i budsjettet på 2850 milliarder.
+Dette utgjør altså 0,14 %.
+En av Norges få fortrinn i næringsliv har vært politisk stabilitet. Tilliten fra internasjonale investorer på norsk sjømat er kraftig redusert, og de flytter pengene sine andre steder.
+Videre har Norge en flott leverandørindustri som i dag er blitt en egen eksportindustri med stadig økende lønnsomhet. Uten et innovativt hjemmemarked vil denne krympe. Dette er også i stor grad også en distriktsnæring, med tilhørende tap av arbeidsplasser.
+Hva skal vi leve av etter oljen? Det blir neppe laks med et slikt forslag.
+Med vennlig hilsen
+Ole Jacob Myre

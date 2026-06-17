@@ -1,4 +1,4 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000148_sha256_f8abae39e41fdeb2ca97a235aec2655d72344cb2af43c1c3f4e79f9a3f0e8c0d.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000149_sha256_3f70bdba201f130a544ddf54ea1a4ade658a6df844be7a68005b17205b36dbce.html
 kilde_type: html
 avsender: Person som ikke har oppgitt navn (321577)
 uid: 0f479e15-078d-46ff-832f-6662b0ed4257
@@ -6,6 +6,7 @@ kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-ha
 Høringssvar fra Person som ikke har oppgitt navn
 
 Dato:
-14.11.2022
+12.11.2022
 
-Dette blir for dumt, er det null kødd Julebord på jobb hver dag nå eller?
+Dette er helt urealistisk og kneler hele den norske havbruksnæringen. Dette har allerede fått store konsekvenser allerede før det er trådd i kraft. Bedrifter går konkurs, folk blir permitterte og mister jobbene sine, aktørene mister kontrakter som igjen gjør at de lokale levrandørene mister de som kunder og de kontraktene de har med de store aktørene. Ringvirkningene er enorme. Klart man skal bidra med skatt, men ikke når den går ut i fra en kunstig høy laksepris - dette er ikke reelt.
+Det er det vanlige folkets langs kystens tur, sin tur til å miste levebrødet sitt.

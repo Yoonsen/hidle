@@ -1,22 +1,34 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000176_sha256_162798c705382a082b6c6070ff873ce5aca0a3b95a221d13731d84ce35e15f73.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000177_sha256_fbd69a07c07e1bb9adbaf8544057ad68fd88542bb2e344f54a9c33d58b467759.html
 kilde_type: html
 avsender: Sogn og Fjordane Næringsråd
 uid: 629108f4-5f1e-4c8f-97bd-3c30e0e6040c
 kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=629108f4-5f1e-4c8f-97bd-3c30e0e6040c
-Høringssvar fra Sogn og Fjordane Næringsråd
+Høringssvar fra Sortland kommune
 
 Dato:
-04.01.2023
+19.12.2022
 
-Til
-Finansdepartementet
-Høyringsuttale frå Sogn og Fjordane Næringsråd. Grunnrenteskatt på havbruk.
-Sogn og Fjordane Næringsråd vart skipa i 2016 og har som målsetting å vere ein sterk og samlande næringspolitisk organisasjon på vegne av næringslivet i Sogn og Fjordane. Ved årskiftet har Sogn og Fjordane Næringsråd 120 medlemar frå ulike bedrifter og organisasjonar og fleire av desse er frå Havbruksnæringa.
-Sogn og Fjordane Næringsråd er også medlem i Næringsalliansen Vestland og har eit tett og godt samarbeid med dei andre næringspolitiske organisasjonane på Vestlandet.
-Havbruksnæringa er ei svært viktig distriktsnæring. Saman med leverandørindustrien og anna næringsliv i sitt nærområde er dette ryggrada i mange lokalsamfunn på kysten. Dei skattegrepa som no er føreslege, saman med tidlegare skatteauke, vil gjere det svært krevjande å skape vidare vekst og trygge sysselsettinga i Havbruksnæringa. Særleg gjeld dette forslaget om ein ny grunnrenteskatt på 40 % av driftsoverskotet. Saman med auka formueskatt, auke frå 500 til 750 millionar kroner i produsjonsavgifta som var innført i 2020 og ein ny naturressursskatt på 750 millionar kroner vil dette bli ei kraftig skatteskjerping som vil gå ut over lønsemda, framtidige investeringar og arbeidsplassar.
-I Vestland var det i 2021 sysselsett 15800 personar i heile Sjømatnæringa (havbruk og fiskeri). Av desse var 9200 direkte sysselsett og 6700 indirekte i tilknyting til næringa. 29 % var sysselsett i leverandørindustrien, som også er ei svært viktig distriktsnæring i Sogn og Fjordane. Kinn kommune er nr. 2 på lista over kommunar i Vestland med flest sysselsett i Sjømatnæringa med 1232 personar sysselsett. Dette er heile 25 % av sysselsettinga i kommunen. Verdiskapinga for heile næringa var på 18.6 mrd. kroner i Vestland i 2021. Dette gjer havbruksnæringa til ei av dei aller viktigaste næringane også i Sogn og Fjordane.
-Sogn og Fjordane Næringsråd er svært kritiske til måten denne dramatiske skatteauken blir innført på. At dette blir kunngjort på ein pressekonferanse utan varsel, og at skatteendringane blir innført før høyringsperioden er over skaper ikkje tillit. Det er heller ikkje i tråd med grunnleggande demokratiske prosessar, noko som er svært kritikkverdig. I staden burde slike endringar skje i nært samarbeid med næringa og ikkje gjennom byråkratisk skrivebordsarbeid.
-Sogn og Fjordane Næringsråd viser til at Havbruksnæringa ønskjer å bidra til auka skattlegging av næringa men at dette må gjerast på andre måtar enn det regjeringa har føreslege. Næringa har også føreslege at det blir innført ei tidsavgrensa ordning som sikrar staten dei same inntektene fram til ein har ei permanent skatteordning på plass. Det er ulike modellar i andre land som kan greiast ut og som kan tilpassast norske tilhøve. Mellom anna er det etablert ulike ordningar på Færøyane og på Island. Dette bør danne grunnlaget for ein norsk skattemodell.
-Konklusjon:
-Sogn og Fjordane Næringsråd ber om at innføringa av nytt skattesystem blir utsett. Regjeringa må legge stor vekt på alle høyringsuttalane og legge fram ei sak for Stortinget for endeleg avgjerd. Ein viser elles til dei momenta som er vist til i uttalen.
-Hornindal/Førde 4. januar 2023
+Vedtak i Sortland kommunestyre 15.12.2022, sak 125/22:
+Sortland kommune viser til høring av 28. september 2022 fra Finansdepartementet om forslag til grunnrenteskatt på havbruk og vil uttale følgende:
+1. Grunnrente kan defineres som avkastning på arbeid og kapital som overstiger det som er normalt i andre næringer og som er basert på utnytting av en begrensa naturressurs.
+Hvorvidt det faktisk opptjenes grunnrente i havbruksnæringa, er omtvista. Etter kommunens vurdering er det snarere en reguleringsrente enn grunnrente som kjennetegner havbruksnæringa. Denne reguleringsrenta opptjenes ved at staten gjennom oppdrettskonsesjoner og fastsetting av størrelsen på tillatt biomasse i praksis regulerer størrelsen på produksjonen.
+Det er denne reguleringa meir enn de begrensninger naturen setter på tilgangen til lokaliteter som har bidratt til at havbruksnæringa de siste åra har hatt ei avkastning som overstiger normal avkastning i andre næringer.
+2. Uavhengig av om den ekstra avkastninga er resultat av grunnrente eller reguleringsrente, er kommunen enig i at det er grunnlag for å kunne beskatte denne avkastninga utover ordinær beskatning. Og slik beskatning har havbruksnæringa også vært gjenstand for.
+For det første begynte staten allerede for 20 år siden å ta betalt for oppdrettstillatelser. De siste åra har dette skjedd gjennom offentlige auksjoner.
+For det andre har havbruksnæringa fra og med 2021 betalt en særskatt i form av produksjonsavgift på laks, ørret og regnbueørret.
+Både betaling for oppdrettstillatelser og produksjonsavgift er i praksis alternative måter å hente ut en eventuell grunnrenteskatt fra havbruksnæringa på. Det er derfor uriktig når det i den offentlige debatten er skapt et inntrykk av at havbruksnæringa fram til når har vært fritatt fra å betale grunnrenteskatt.
+3. I stedet for å innføre en ny form for grunnrenteskatt i tråd med regjeringas forslag, vil det etter Sortland kommunes oppfatning være ei bedre løsning å heller øke produksjonsavgiften utover dagens nivå.
+Å bruke produksjonsavgift vil være ei mye enklere og billigere ordning enn den kompliserte ordninga som regjeringa har foreslått. Dette vil gjelde både for oppdrettsselskapene og for det offentlige.
+Størrelsen på produksjonsavgiften vil kunne justeres i forhold til den totale lønnsomheten i havbruksnæringa. I tillegg vil det også kunne etableres bunnfradrag hvis det ønskelig å favorisere de mindre oppdrettsselskapene.
+4. Regjeringas forslag om å innføre en ny overskuddsbasert grunnrenteskatt har ikke vært gjenstand for konsekvensutredning.
+Det hefter stor usikkerhet ved hvilke virkninger forslaget vil få for de framtidige investeringene i næringa. Særlig gjelder dette for den landbaserte delen av næringa, herunder slakterier, videreforedlingsanlegg og settefiskanlegg. Det er betydelig risiko for at det vil bli færre sikre arbeidsplasser i næringa. Leverandørindustrien ligger også an til å bli ramma.
+For mange kystsamfunn er havbruksnæringa en bærebjelke for bosetting og arbeidsplasser. Og for vertskommunene er næringa av vital betydning for kommuneøkonomien.
+Dersom regjeringa bestemmer seg for å gå videre med forslaget, vil Sortland kommune sterkt anbefale at det blir gjennomført ei grundig konsekvensvurdering før det blir gjort vedtak om å innføre ei slik ordning. Det er ikke noe påtrengende behov for å hasteinnføre ei ny skatteordning som det hefter så stor usikkerhet ved.
+5. I regjeringas forslag er det lagt opp til at grunnrenteskatt skal beregnes basert på en normpris fra laksebørsen Fish Pools Nasdaq.
+Sortland kommune meiner det vil være feil å bruke en slik normpris. Det må være det faktiske oppnådde prisen som må ligge til grunn. Normprisen reflekterer ikke den faktiske prisen. I praksis vil bruk av normpris medføre at havbruksnæringa blir beskatta for fiktive inntekter. Vi kan heller ikke se at ei løsning med et såkalt normprisråd som Finansdepartementet i ettertid har lansert som ei løsning, vil være noen god ordning.
+Bruk av en slik normpris vil ha negative konsekvenser for mulighetene til å opprettholde og å øke bearbeidinga av fisk i Norge. Dette vil være stikk i strid med det som har vært ei viktig målsetting både fra myndighetene og havbruksnæringa gjennom mange år.
+6. Det er foreslått fra regjeringa ei ordning med bunnfradrag på mellom fire og femtusen tonn MTB (maksimal tillatt biomasse). Regjeringa har da antatt at selskaper med en lavere MTB ikke vil bli berørt av grunnrenteskatten.
+Denne antakelsen er ikke riktig. Den årlige produksjonen vil være større enn MTB-begrensninga. I praksis vil derfor langt fleire oppdrettsselskaper enn det regjeringa har antatt måtte betale grunnrenteskatt.
+Dersom regjeringas mål om å skjerme de mindre selskapene fra grunnrenteskatten som foreslås, vil bunnfradraget måtte settes vesentlig høyere enn 4-5000 tonn MTB.
+7. Regjeringas forslag til grunnrenteskatt vil ikke tilgodese vertskommunene for havbruk i tilstrekkelig grad. Forslaget vil medføre at bare en mindre andel av inntektene fra skatten vil tilfalle vertskommunene. I praksis vil forslaget innebære ei stor flytting av inntekter fra fjord- og kystkommuner som har lagt til rette for havbruksnæringa og til kommuner som ikke huser havbruk. Det vil bidra til styrke store by- og innlandskommuner på bekostning av kystkommunene.
+Det er nødvendig å endre forslaget slik at vertskommunene får en langt større andel av inntektene.

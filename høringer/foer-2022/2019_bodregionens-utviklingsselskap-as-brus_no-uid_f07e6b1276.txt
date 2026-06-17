@@ -1,0 +1,6 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-nou-2019-18-skattlegging-av-havbruk-manual-20260209102305-d5e71684-918-20260209102359694-1_0000007_sha256_6995701572daf4091bf36ba058ff2d9273a1fad3f228da565fa10f6376384392.pdf
+kilde_type: pdf
+avsender: Bodøregionens Utviklingsselskap AS - BRUS
+uid: no-uid
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing--nou-2019-18-skattlegging-av-havbruk/id2676532/Download/?vedleggId=fe7b0263-c7b0-45fd-a191-93d065f5c874
+

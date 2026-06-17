@@ -1,0 +1,6 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000212_sha256_4c3c58c142639e03f4f135f7d6640f247ed7f0375988c03f190c67827d5695e7.pdf
+kilde_type: pdf
+avsender: Zanzibar Inn as
+uid: no-uid
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/Download/?vedleggId=048f1d70-7610-459d-8119-bb3caff89f43
+

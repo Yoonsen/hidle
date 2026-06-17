@@ -1,0 +1,6 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000209_sha256_e41e51cba12ca3fb6bb5994833af2b658e1834b031980a12a25cc99004d21454.pdf
+kilde_type: pdf
+avsender: Wikborg Rein Advokatfirma AS
+uid: no-uid
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/Download/?vedleggId=80b67e27-d638-4ff5-b1c3-a8ef4afe921b
+

@@ -1,0 +1,6 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-nou-2019-18-skattlegging-av-havbruk-manual-20260209102305-d5e71684-918-20260209102358003-0_0000054_sha256_7bc721025d6b578e45840fa1e05f937792c7a52cbb101fd2b6e8ea40e50574ce.pdf
+kilde_type: pdf
+avsender: Salangen kommune
+uid: no-uid
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing--nou-2019-18-skattlegging-av-havbruk/id2676532/Download/?vedleggId=437f3967-c791-42f3-877a-480b32395e6d
+

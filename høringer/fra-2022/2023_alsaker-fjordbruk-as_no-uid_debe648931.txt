@@ -1,0 +1,6 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000008_sha256_c1ccb14d9c4dfd0a3380b19cb015d00bf25b9070026d2c367aa052d414789a6b.pdf
+kilde_type: pdf
+avsender: Alsaker Fjordbruk AS
+uid: no-uid
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/Download/?vedleggId=98862985-fad4-4c1c-8fe1-10950ae050cb
+

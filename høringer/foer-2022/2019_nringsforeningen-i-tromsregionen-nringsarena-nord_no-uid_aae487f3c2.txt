@@ -1,0 +1,6 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-nou-2019-18-skattlegging-av-havbruk-manual-20260209102305-d5e71684-918-20260209102359694-1_0000038_sha256_f372cf17532e053af4ff0676636bb12328db55d32f645652cae55ee16fbff2c2.pdf
+kilde_type: pdf
+avsender: Næringsforeningen i Tromsøregionen/ Næringsarena Nord
+uid: no-uid
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing--nou-2019-18-skattlegging-av-havbruk/id2676532/Download/?vedleggId=9ea1dd07-6f46-4a27-82b1-6c810f5a8710
+

@@ -1,131 +1,58 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000127_sha256_6ac901c01484d6a8aa68924e1eb33ac767c8acb8d5f66af9c1305ac2b37886ce.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000128_sha256_efc9add660e4e4a700c879719201c6a2d61afc1526073da5391f8422af769612.html
 kilde_type: html
 avsender: Nærøysund og Leka Venstre
 uid: c1af54cf-5957-478e-b859-7c58fe068f1b
 kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=c1af54cf-5957-478e-b859-7c58fe068f1b
-Høringssvar fra Nærøysund og Leka Venstre
+Høringssvar fra Nærøysund Kommune
 
 Dato:
-04.01.2023
+22.12.2022
 
-Høringsuttalelse om innføring av grunnrentebeskatning av fiskeoppdrett i sjø fra Nærøysund og Leka Venstre.
-Rørvik, 4. januar 2023
-Sammendrag
-Bærekraftig vekst må prioriteres opp og kompleksiteten i beskatningen må forenkles for å oppnå den utviklingen alle ønsker innen norsk oppdrettsnæring. Ny grunnrenteskatt er uhensiktsmessig utformet og kommer på toppen av alle særskattene fra før.
-Produksjonen av laks er ikke avhengig av å bruke norske sjøarealer for å vokse. Beskatningen må ikke være høyere enn i land det er naturlig å sammenligne oss med for å sikre næringas tetposisjon, norske arbeidsplasser og mulighetene for utvikling langs kysten.
-Gode og nye arbeidsplasser betyr mer for kystkommune enn noen ekstra kroner i kommunekassen.
-Gjennom dagens ekstraskatter og avgifter betaler oppdrettsnæringa for bruken av felles sjøarealer.
-Med en riktig skattemodell ligger oppdrettsnæringa best an til å gi Norge økte inntekter når petroleumsinntektene blir mindre.
-Sterke argumenter tilsier at forslaget om grunnrenteskatt ikke kan innføres slik som foreslått. For å sikre utvikling av Norges nest største eksportnæring må det etableres en bred politisk enighet som gir gode og forutsigbare rammebetingelser for utvikling.
-Oppdrett er klimavennlig og kan bety mye for den grønne skiftet.
-Innholdsfortegnelse
-Sammendrag
-1. Havbruksskatteutvalgets mandat, sammensetning og delte innstilling
-2.Hurdalserklæringen blir lagt til side
-3. Utformingen av grunnrenteskatten og den totale skattebelastningen er en alvorlig trussel for norsk oppdrettsnæring
-4. Oppdrettsnæringa betaler i dag for bruk av fellesskapets sjøarealer
-5. Oppdrett er klimavennlig og kan bety mye for den grønne skiftet
-6. Oppdrett er en viktig og framtidsrettet distriktsnæring
-7. Utenlandske investorer er viktig og fortjener utbytte
-8. Den internasjonale markedsposisjonen må styrkes, ikke svekkes
-1. Havbruksskatteutvalgets mandat, sammensetning og delte innstilling
-Stortinget fattet følgende vedtak da det ba Regjeringen oppnevne et partssammensatt utvalg om beskatning av havbruk:
-"Stortinget ber regjeringen om å nedsette et partssammensatt utvalg som skal utarbeide en NOU som behandler ulike former for beskatning av havbruksnæringen, herunder produksjonsavgift og grunnrentebeskatning/ressursrenteavgift.
-Ett av målene med utredningen er at vertskommuner
-skal sikres stabile og forutsigbare årlige inntekter for bruk av areal og for å tilrettelegge for nytt areal for oppdrettsnæringen også når det ikke er vekst.
-Utredningen må også vurdere den internasjonale konkurransesituasjonen
-for havbruksnæringen, forutsetninger for lønnsomhet, risikoen ved biologisk produksjon i sjø, samt hvordan skatte- og avgiftssystemet påvirker sysselsettingen og industrialisering i Norge og forholdet mellom norsk og utenlandsk eierskap.
-Beskatningen må innrettes slik at næringen har et godt grunnlag for kunnskapsutvikling, innovasjon, investeringer og bærekraftig vekst.
-Saken må sluttføres i Stortinget våren 2020, med sikte på mulig ikrafttredelse medio 2020. Havbruksfondets innretning og fordeling sees i sammenheng med annen beskatning."
-Utvalget ble sammensatt med fem fagøkonomer og jurister, samt at LO, NHO og KS fikk foreslå et medlem hver. Innstillingen fra utvalget var delt. Fagfolkene som hadde flertall, sto bak utvalgets innstilling hvor det ble lagt vekt på å innføre grunnrenteskatt og høyere total beskatning av næringa. Dette har vært viktigere enn å sikre arbeidsplasser langs kysten, eksportinntekter og bærekraftig vekst.
-Mindretallet fra LO, NHO og KS foreslo en løsning som bygget videre på produksjonsavgiften.
-Disse uenighetene gjenspeiles også i reaksjonene på Regjeringens forslag. Det er sterk motstand mot forslaget fra kystkommunene, oppdrettsnæringa og leverandørindustrien. Oslopressen og folk med mindre tilknytning til oppdrettsnæringa og som vil få fordeler av en økt beskatning, mener det et rett og rimelig med en kraftig beskatning av oppdrettsnæringa.
-Stortinget må ta høringsinnspillene på alvor og komme fram til en bred enighet som gjennom bærekraftig vekst kan sikre arbeidsplasser, natur og økte eksportinntekter for Norge.
-2.Hurdalserklæringen blir lagt til side
-Hurdalserklæringen inneholder flere gode målsetninger for norsk havbruk:
-·
-Regjeringen vil legge til rette for videre vekst for å skape flere arbeidsplasser, mer bearbeiding, større verdiskaping og økte eksportinntekter.
-·
-Dette må skje på en forutsigbar, kontrollert og bærekraftig måte.
-·
-Politikken skal bygge opp under fortrinnet som ligger i oppdrett av fisk i kystnære strøk og fjorder, og samtidig stimulere til innovasjon, nye produksjonsformer og bruk av ny teknologi for å sikre økt bærekraft.
-·
-Målet er at Norge skal lede an i utviklingen av verdens mest produktive og miljøvennlige havbruksnæring med produksjon av matressurser til et voksende verdensmarked.
-I tillegg har Regjeringen et mål om å øke norsk eksport utenom petroleum, med 50% innen 2030. Oppdrettsnæringa er nest størst på eksport, og har de beste forutsetningene for å bidra til at dette målet nås.
-Grunnrenteforslaget er i strid med landsmøtevedtak som har flertall på Stortinget, og kom som et sjokk. Det undergraver målsetningene i Hurdalserklæringen, fordi det skaper meget stor usikkerhet om hvilken retning Regjeringen vil at havbruksnæringa skal gå, og fordi næringas evne til å finansiere en bærekraftig vekst blir kraftig redusert gjennom tapt egenkapital og langt lavere disponibel kontantstrøm etter skatt til investeringer.
-3. Utformingen av grunnrenteskatten og den totale skattebelastningen er en alvorlig trussel for norsk oppdrettsnæring
-Svakheten med forslaget er at det ikke tar hensyn til at havbruk er en næring av en helt annen karakter enn olje og vannkraft. Derfor kan ikke prinsippene fra olje og vannkraft overføres direkte uten at det gir store utilsiktede virkninger.
-·
-Verdiene skapes ikke bare mens fisken vokser i sjøen. Verdiene skapes og selges på verdensmarkedet fra en lang verdikjede fra klekkeri, smoltanlegg, oppdrett i sjø, brønnbåtarbeid, slakting, foredling og logistikk.
-·
-Skatteeffekten av investeringsfradrag i grunnrenteskatten er lavere enn det som framgår i forslaget, og effektiv skattesats høyere enn forutsatt fordi virkeområdet er satt kun til sjøfasen. Dette er den delen av verdikjeden med lavest investeringer slik at beskrevne fradrag i grunnrenteskatten ikke oppnås.
-·
-Staten er heller ikke med på å dele risiko i den grad det er beskrevet. Kapitalbindingen i omløpsmidler var i 2021 drøyt 60 milliarder kroner. I tillegg kommer nødvendige og store investeringer i konsesjoner, smoltanlegg, slakterier, brønnbåter og arbeidsbåter som ikke gir investeringsfradrag. Her er nok sammenligningen med en kraftstasjon strukket for langt.
-·
-Grunnrenteskatten fastsettes ut fra en normpris beregnet ut fra gjennomsnittsprisen oppnådd i spotmarkedet forrige år. Normprisen tar ikke hensyn til at store kvanta selges på langsiktige fastpriskontrakter, som de siste årene har vært vesentlig lavere enn spotprisene. Dermed risikerer oppdretterne å måtte betale grunnrenteskatt av inntekter de ikke har hatt for laks solgt til fastpris.
-·
-Skattesatsen er satt til 40% uten at det er lagt fram noen vurdering av hvilke ringvirkninger en så drastisk økning i skattetrykket vil gi. Forslaget til en ekstraordinær høy beskatning har allerede medført en reduksjon in investeringsnivå langt over det Havbruksskatteutvalget la til grunn.
-·
-Det er ikke vurdert hvordan det totale skattetrykket blir på næringa etter innføring av grunnrenteskatten. Produksjonsavgift
-, ordinær selskapsskatt, eiendomsskatt, formuesskatt, skatt på utbytte for å betale formuesskatten og ny grunnrenteskatt, vil til sammen vil utgjøre 85% av skattbart overskudd for et privateid oppdrettsselskap. I tillegg kommer kjøp av konsesjonene som Staten selger for å få lov til å produsere laks i sjøen.
-·
-Det høye skattetrykket gjør at norsk oppdrett taper konkurransekraft, og blir mindre attraktiv for investorer. Investeringene i oppdrettsnæringa vil i større grad bli flyttet ut av Norge på grunn av det harde skatteregimet. Derfor blir det tøffere å skaffe til veie nødvendig kapital til ønsket bærekraftig vekst i Norge.
-·
-Forslaget om grunnrenteskatt har medført at verdiene på oppdrettsselskapene på Oslo Børs har falt med 65 milliarder kroner, som har gitt Staten et direkte tap i Folketrygdfondet på 3,5 milliarder. I tillegg har verdien av de ikke børsnoterte selskapene falt tilsvarene fordi konsesjonene har falt i verdi. Totalt verdifall på oppdrettsselskapene er opp mot 100 milliarder kroner. Dette er ikke papirpenger. Selskaper med stor grad av lånefinansiering kan få problemer fordi lån til drift og investeringer et tatt opp med sikkerhet i konsesjonsverdiene. Dermed får selskapene mindre evne til å finansiere ønsket bærekraftig vekst. Nye investeringer må derfor avbestilles.
-·
-Eksportinntektene fra oppdrett passerte 100 milliarder i 2022. Ingen andre norske næringer har en lignende størrelse og potensiale til verdiskapning som kan sikre norsk velferd når petroleumsinntektene faller. Derfor er det meget viktig å opprettholde investeringsevnen og veksten i næringa i stedet for å flerdoble skatten for å finansiere økte offentlige utgifter i dag.
-·
-Næringa er meget ung og har stort behov for innovasjon, forskning og utvikling. Fra en primitiv start for femti år siden, og gjennom mange kriser er det kun de siste ti årene det har vært god inntjening. Til tross for gode år, har en meget stor del av netto kontantstrøm blitt brukt til investeringer og finansiering av vekst.
-·
-Også leverandør-/servicenæringen og videreforedling innen oppdrett vil merke en innføring av grunnrenteskatt, i form av vesentlig lavere investeringer i årene framover. Dette vil ramme mange arbeidsplasser hardt.
-·
-Dersom grunnrenteskatt skal innføres som generelt skatteprinsipp i Norge, bør den også omfatte superprofitt ved å eie og selge tomter i pressområder. Sentralisering og urbanisering medfører at det oppstår en grunnrente på urban jord som også må beskattes hardere.
-·
-Dersom argumentet skal være at de rike skal bidra mer til fellesskapet bør det gjelde for alle næringer. Kun 14 av de 200 rikeste på Kapitals liste har blitt rike på oppdrett.
-4. Oppdrettsnæringa betaler i dag for bruk av fellesskapets sjøarealer
-Det blir hevdet at oppdrettsnæringen ikke betaler for bruken av sjøarealene. Det brukes nå som et sterkt argument for å innføre enda en ekstraordinær skattebelastning på vår viktigste kystnæring. Men dette oppleves ikke som et gyldig argument lokalt. Dagens aktivitet og beskatning gir langt større samfunnsvirkninger enn belastningen det er for lokalsamfunnet at anlegget ligger i sjøen.
-·
-Arealene som brukes til oppdrett i sjø fra Lindesnes til Kirkenes tilsvarer arealet til Trondheim kommune, ca. 330 kvadratkilometer. Til sammenligninger det ca. 10.000 kvadratkilometer dyrket mark i Norge. For dette betaler oppdretterne en arealavgift per kilo laks på 40,5 øre. Det gir en inntekt på 680 millioner kroner. Staten solgte nye konsesjoner for 6 milliarder i 2020, og forventningene var 8 milliarder i 2022. Konsesjonene selges annethvert år, og gir en gjennomsnittsinntekt til Staten på ca. 3,5 milliarder årlig. Totalt gir dette en årlig leie til felleskapet for sjøarealene på 4,2 milliarder. En årlig leie på hele 12,7 millioner per kvadratkilometer før innføring av grunnrenteskatten.
-·
-Innføring av grunnrente er i Statsbudsjettet anslått til å gi en merinntekt til fellesskapet på 3,5 til 4 milliarder i 2023. Forslaget har skapt mye usikkerhet i næringa. Årets salg av nye konsesjoner har allerede derfor gitt et tap til Staten like stort som anslagene for den nye grunnrenteskatten.
-·
-Disse skattene betales ikke for landbaserte anlegg, selv om naturinngrepene og energiforbruket er langt høyere. Landbasert anlegg gir nye muligheter, men kan ikke erstatte all produksjon i sjøen. Skattesystemet stimulerer i dag til å vri produksjonen i en i en retning som er mindre vennlig både for klima og natur enn sjøanlegg. Med forslaget om grunnrente på oppdrett i sjø blir det enda verre. Favorisering av landbaserte anlegg vil også svekke vårt konkurransefortrinn, fordi landbaserte anlegg enkelt kan flyttes ut av landet og nærmere markedet.
-·
-Dersom Staten ønsker å øke skatteinntektene fra oppdrettsnæringa, er det langt enklere å øke arealavgiften eller produksjonsavgiften, slik mindretallet i Havbruksskatteutvalget foreslo.
-5. Oppdrett er klimavennlig og kan bety mye for den grønne skiftet
-Oppdrett i sjø er industriell matproduksjon i stor skala, med lite fotavtrykk per kilo laks. Utslippet av CO2 er lavt og på samme nivå som for kyllingen, som er den mest klimavennlige kjøttproduksjonen på land. Utslippene fra fiskeoppdrett kan reduseres med investeringer i teknologi som i dag er tilgjengelig.
-·
-Lus, rømming og utslipp er utfordringer som må løses. Erfaringer fra annen industriomstilling viser at en kombinasjon av pisk og gulrot er effektivt. Trafikklyssystemet er et slikt virkemiddel, men dette kan forsterkes etter prinsippet om at forurenser betaler. En klar og forutsigbar retning må til, og vil redusere usikkerheten for næringa.
-·
-Flere gode løsninger med semilukkede og nedsenkede merder er nå under utprøving hvor laksen slaktes uten å ha vært avluset. Kombinert med oppsamling av slam, åpner de nye driftsformene for at produksjonen kan dobles og skje med mindre fotavtrykk på eksisterende arealer i kystkommuner som Nærøysund.
-·
-Gründere med kapital og kompetanse fra oppdrettsnæringa kan fortsatt bidra med store investeringer i grønn næringsutvikling i distriktene dersom næringa ikke tappes for investeringsevne gjennom en meget kraftig skatteøkning
-6. Oppdrett er en viktig og framtidsrettet distriktsnæring
-Gründere i distriktene som har stått på i femti år har skapt norsk oppdrettsnæring. I dag mobbes de ved å bli kalt laksebaroner. Det er ikke et navn vi som bor nært dem har funnet på.
-Gjennom reinvesteringer har disse gründerne skapt mange nye arbeidsplasser i og rundt næringa.
-Dagens forslag til innføring av grunnrenteskatt bærer preg av manglende forståelse av dagens oppdrettsnæring og dens historie, samt den betydning næringen har for bosetting og arbeidsplasser langs vår langstrakte kyst.
-·
-40% av oppdrettslokalitetene er i Nord-Norge, det er her veksten er størst og mest areal er tilgjengelig.
-·
-Det er oppdrett i sjøen i 140 kommuner langs kysten. I tillegg kommer kommuner med bare landanlegg.
-·
-Ungdommen ser de mulighetene oppdrettsnæringa gir. Det er bruk for dyktige røktere, sjøfolk, dykkere, veterinærer, bygningsarbeidere, elektrikere, mekanikere, økonomer, sjåfører, slakteriarbeidere, biologer, kjemikere og ledere. Kort og godt et spennende arbeidsmarked.
-·
-Mange fagøkonomer og journalister uttrykker med stor tyngde at grunnrente er en riktig måte å beskatte oppdrettsnæringa på. Et fellestrekk for de som uttaler seg er at de sitter langt unna næringa.
-7. Utenlandske investorer er viktig og fortjener utbytte
-Statens pensjonsfond utland har investert over 12.000 milliarder kroner i børsselskaper over hele verden. Det kan slå hardt tilbake på Norge dersom vi fører en skattepolitikk som er fiendtlig til utenlandsk eierskap i Norge.
-Utenlandsk kapital og kompetanse har vært avgjørende for oppbyggingen av norsk industri. Dette gjelder særlig petroleumsindustrien og kraftkrevende industri. Selv om norsk oppdrettsnæring i sjelden stor grad er bygd opp av norske gründere, trenger også den utenlandsk kapital, kompetanse og markeder for å utvikle seg videre.
-·
-Finansministeren har uttalt at det først og fremst er store selskaper med utenlandske eiere som skal betale grunnrenteskatt, særlig MOWI. Da store deler av oppdrettsnæringa lå mange brukket rygg for 20 år siden og knapt hadde penger til å kjøpe fôr til laksen, satset Jon Fredriksen mange milliarder på norsk oppdrettsnæring. MOWI er blitt verdens største lakseoppdretter og befester Norge som verdens største produsent av oppdrettslaks. De store oppdrettsselskapene har en viktig rolle i norsk oppdrettsnæring, og har delvis utenlandsk eierskap som de store andre norske børsselskapene. Det vil være en dårlig næringspolitikk å bekjempe delvis utenlandsk eierskap i norske selskaper, både i og utenfor oppdrettsnæringa.
-·
-Mitsubishi kjøpte i 2014 alle aksjene i Cermaq for 8,86 MRD. Staten eide 56 %, i tillegg var Folketrygdfondet en stor aksjonær. Salgsprosessen ble startet av Stoltenberg-regjeringen og fullført av Solberg-regjeringen.
-Statsråd Monica Meland uttalte etter salget:
-§
-Jeg synes det er positivt at et stort internasjonalt industriselskap nå kjøper Cermaq. Det bekrefter at norsk oppdrettsnæring oppfattes som en spennende sektor i et internasjonalt perspektiv.
-Mitsubishi har til nå investert nærmere 13 milliarder kroner i Cermaq som har sin hovedaktivitet i Nord-Norge. Men ytterligere planlagt investeringer på nærmere 5 milliard er satt på hold på grunn av forslaget om ny grunnrenteskatt.
-8. Den internasjonale markedsposisjonen må styrkes, ikke svekkes
-Kvaliteten er så stabilt høy at norsk oppdrettslaks ifølge Sjømatrådet, er blitt verdens mest populære matfisk. Norge er verdens største produsent av oppdrettslaks, og norsk laks er førstevalget i markedet. Norwegian Salmon er Norges mest kjente merkevare internasjonalt. Denne markedsposisjonen må beholdes og forsterkes. Norsk fisk er populær, og også andre arter selges til bedre priser enn før.
-·
-Norge produserer kun 1,6% av verdens produksjon av biomasse i sjøen. Kina står for 57,9% av produksjonen, og har nok både kapasitet og lyst til å ta en større markedsandel av det meget lønnsomme markedet for oppdrettslaks.
-·
-Polen er det landet som kjøper mest norsk laks. De har bygd opp en stor ferdigvareindustri som selger sine produkter til avtalte priser med relativt lave marginer. Store svingninger i innkjøpsprisen unngås ved at norske oppdrettere selger til fastpris avtalt lang tid i forveien. Dersom norske oppdrettere ikke kan tilby fastpris, vil laks fra andre land ta dette markedet. Mer norsk laks må da selges i spotmarkedet, og da til en mer ustabil og lavere pris.
+Høringssvar - Grunnrenteskatt på havbruk
+Bakgrunn
+Nærøysund kommune viser til Finansdepartementets invitasjon til å komme med innspill til forslaget om å innføre grunnrenteskatt på havbruk med virkning fra og med 1. januar 2023. Forslaget omfatter produksjon av laks, ørret og regnbueørret og innebærer at grunnrenten skattlegges med en effektiv sats på 40 prosent. Reglene foreslås utformet slik at bare de største aktørene vil betale grunnrenteskatt og at det innføres et bunnfradrag. Bunnfradraget vil gjelde alle aktører. Det foreslås videre at skatten utformes som en kontantstrømskatt. Det vil si at inntekter og investeringer skattlegges løpende i det året de opptjenes eller pådras. En sentral del av forslaget er at kommunen som stiller naturressurser til disposisjon, skal sikres en andel av grunnrenteinntekten. Finansdepartementets høringsfrist på forslaget er 04.01.2023.
+Nærøysund kommune er en av landets største oppdrettskommuner. Havbruksnæringen med tilhørende servicenæring er svært viktig for kommunen. I tillegg til den betydelige verdiskapingen knyttet til produksjon av laks, skaper havbruksnæringen store ringvirkninger i tilknyttede næringer. Totalt er om lag 30 prosent av de sysselsatte i Nærøysund kommune ansatt i sjømatnæringen, enten direkte i form av sysselsatte på havbruksanlegg eller indirekte i form av sysselsatte i leverandør- og servicebedrifter. Nærøysund kommune har de seneste årene opplevd en netto tilflytting, hovedsakelig som følge av den veksten som har vært innenfor havbruksnæringen. Havbruket har gitt Nærøysund kommune utviklings- og vekstmuligheter vi ellers ikke ville hatt.
+Havbruksnæringen er en konkurranseutsatt næring, og for Nærøysund kommune vil det kunne føre til store konsekvenser dersom innføringen av en grunnrenteskatt på havbruk svekker konkurransekraften denne næringen har i dag. Havbruksnæringen har i flere år hatt god lønnsomhet. Dette skyldes i all hovedsak stor etterspørsel etter laks, men også et resultat av en periode med høye priser og en relativ svak kronekurs. Det er en åpenbar risiko for at en langt høyere skatt på havbruk sammenlignet med andre næringer vil dempe evnen og viljen til fremtidige investeringer i oppdrettsnæringen og andre tilstøtende næringer langs norskekysten.
+Oppsummering
+Havbruksnæringen gir grunnlag for tunge satsinger innenfor service- og leverandørindustri, og den gir grunnlag for en betydelig innovasjon med internasjonalt potensiale. Nærøysund kommune understreker derfor viktigheten av at denne utviklingen må få fortsette. Nærøysund kommune vil videre peke på at det er viktig at innretninga blir utforma slik at det totale skattetrykket, herunder grunnrenteskatt, produksjonsavgift, naturressursskatt og formueskatt/verdifastsetting av eldre konsesjoner sørger for at mangfold, investeringsevne og økt verdiskaping blir ivaretatt.
+En grunnrente som skissert kommer på toppen av annen beskatning selskapene har i dag. Dette medfører at enkelte selskaper i vår kommune i ytterste konsekvens kan få en total skattebelastning på opp mot 80 prosent med den innretning og det størrelsesforhold som er skissert i forslaget.
+Nærøysund kommune ber om at innføringen av en eventuell grunnrenteskatt på havbruksnæringen utsettes til proposisjonen er vedtatt i Stortinget. Det er riktig at også denne næringen skal bidra til felleskapet gjennom skatter og avgifter, men det er imidlertid viktig at næringen har forutsigbare rammevilkår og at vi vet konsekvensene av det totale skattetrykket næringen får ved innføring av en grunnrenteskatt.
+Videre er det viktig at den totale skattleggingen av næringen har en innretning som gjør at villigheten til å investere og videreutvikle ikke forsvinner.
+Nærøysund kommune mener at skattleggingen av havbruk må innrettes på en måte som både gir staten, fylkeskommunene og vertskommunene inntekter, men samtidig ikke er til hinder for havbruksselskapenes konkurransekraft og investeringsvillighet. På den måten sikrer vi en videre vekst og utvikling, både for bedriftene og samfunnet for øvrig.
+Sammenfatning av innspill fra Nærøysund kommune:
+1.
+Nærøysund kommune ber regjeringen utsette innføringen av grunnrenteskatt til høringsinnspillene har vært vurdert og proposisjonen er vedtatt i Stortinget.
+2.
+Nærøysund kommune mener en innføring av grunnrenteskatt må gjøres på en måte som ivaretar forutsigbarhet og trygghet for arbeidsplassene og legger til rette for økt bearbeiding av laks i Norge. Den foreslåtte normprismodellen må derfor endres. På basis av høringssvarene bør det være mulig å sikre et bredt og forutsigbart flertall på Stortinget, og samtidig ivareta det beregnede provenyet i forslaget.
+3.
+Nærøysund kommune ber om at det utredes hvilke konsekvenser en grunnrenteskatt
+4.
+på havbruk vil få for annet næringsliv i kommuner med stor andel havbruksnæring.
+5.
+Nærøysund kommune mener foreslåtte innretning ikke i stor nok grad skjermer de små og mellomstore aktørene. Derfor må bunnfradraget justeres opp slik at intensjonen i forslaget blir ivaretatt.
+6.
+Nærøysund kommune forventer at en innføring av grunnrente vil gi en økt inntekt til oppdrettskommunene, og at innretningen ikke fører til at den samfunnsøkonomiske kostnaden for kommunen som helhet blir større enn kommunens økte inntekter.
+7.
+Nærøysund kommune legger til grunn at en innføring av grunnrenteskatt ikke går på bekostning av bærekraftige næring og FoU satsninger fremover i tid. Nærøysund kommune tilslutter seg for øvrig til Norske Fjord og Kyst Kommuner sine uttalelser i saken.
+Investeringer
+Det er stor usikkerhet rundt hvordan skatten vil treffe, og hvorvidt dette vil gå ut over den risikovillige kapitalen selskapene besitter. Hvis så er tilfelle, kan dette i neste omgang redusere muligheten for FoU og bærekraftig utvikling, særlig som følge av selskapenes evne til å reinvestere i egne virksomheter. I Nærøysund kommune har både Sinkaberg-Hansen AS og Emilsen Fisk AS hevet kjøp fra auksjonen på nye tillatelser i år som en direkte konsekvens av forslaget om innføring av grunnrente.
+Analyseselskapet Kontali har på vegne av Norske fjord- og kystkommuner (NFKK) gjennomført en analyse på konsekvenser av forslaget om innføring av grunnrente. I denne analysen estimeres det at for hver kilo laks som blir slaktet, gjennomføres det investeringer for 7 kroner. Dette betyr at investeringer lokalt også medfører betydelige ringvirkninger lokalt. Dette bekreftes også i en rapport skrevet av Junior Consulting og NHHS Consulting på oppdrag av flere næringsklynger, næringsforeninger og banker langs kysten. I rapporten beskrives det at frafallet i investeringer har store ringvirkninger hos leverandører og tredjeparter og kan føre til at færre miljø- og biologiprosjekter iverksettes, mindre grad av forskning og utvikling og generelt lavere verdiskapning langs kysten.
+Det er de siste årene investert for flere milliarder kroner i anlegg fra enkeltaktører i Nærøysund kommune. Slike store investeringer medfører naturlig nok økt aktivitet og sysselsetting fra lokale og regionale næringsaktører. I Nærøysund kommune ser vi spesielt at havbruksnæringen bruker andre lokale aktører i kommunen som sine leverandører. Disse lokale leverandørene, som ofte har havbruksnæringen som sine største kunder, vil derfor oppleve store konsekvenser av lavere aktivitet i havbruket.
+I regjeringens forslag vises det til at staten skal være en «medinvestor» i investeringer som gjennomføres. Dette er et grep som skal sørge for at forslaget er investeringsnøytralt og at selskapene skal fortsette å investere, også etter innføringen av nytt skatteregime gjennom et fradrag på investeringene. Det er imidlertid bare investeringer i sjø som vil være fradragsberettiget i henhold til forslaget. Dette kan være utfordrende når vi gjennom analysene til NFFK vet at om lag halvparten av investeringene fremover i tid, vil være på land i form av slakteri- og smoltanlegg. Dersom ikke investeringer i tilknytning til produksjon på land også blir fradragsberettiget, kan det medføre at det tar lengre tid å bygge opp kapital for å gjennomføre investeringer tilsvarende dem vi de senere årene har sett i Nærøysund kommune. Det er derfor helt avgjørende at forslaget som legges fram faktisk er investeringsnøytralt.
+For Nærøysund kommune vil konsekvensen av reduserte fremtidige investeringer fra de største havbruksaktørene bidra til en kraftig oppbremsing av den samfunnsutviklingen vi har sett de senere år. Dersom investeringsaktiviteten til havbruksnæringen bremses opp og det blir færre nye arbeidsplasser enn det som ligger til grunn for kommunens planlegging i dag, vil det ha en direkte konsekvens for det tjenestetilbud og den arealtilretteleggingen som Nærøysund kommune kontinuerlig tilrettelegger for. Senest tredje kvartal 2022, viser befolkningsutviklingen i Nærøysund kommune at vi er en kommune med vekst og utvikling med en netto befolkningsvekst på 1,1 prosent. Det er derfor viktig at forslaget på grunnrenteskatt er investeringsnøytralt så ikke investeringene bremser opp. Nærøysund kommune mener derfor at det er stort behov for å utrede hvilke konsekvenser en grunnrenteskatt på havbruk vil få for annet næringsliv i kommuner med stor andel havbruksnæring.
+Størrelse/innretning
+I forslaget ligger det en intensjon om at det kun er de aller største havbruksaktørene som først og fremst skal treffes av skatteforslaget. Forslaget skisserer et totalt skatteproveny på mellom 3,65 og 3,8 mrd. kroner. I rapporten fra Junior Consulting og NHHS Consulting estimeres det at skattesatsen vil gi en langt høyere skatteproveny enn det forslaget skisserer, samt at det vil treffe flere aktører enn intensjonen i forslaget. Det beregnes at det totale provenyet vil ligge mellom 8 og 10 milliarder, og at om lag 63 prosent av bedriftene som driver havbruk vil beskattes.
+Mange av virksomhetene i vårt nærområde er lokale aktører med relativt lite produksjonsvolum sammenlignet med de aller største. Imidlertid vil disse likevel treffes av en grunnrenteskatt slik som forslaget nå er utformet. Nærøysund kommune mener det er behov for å utrede om forslaget faktisk treffer selskapene den mener å treffe, og eventuelt gjøre justeringer for å sikre at det er riktig målgruppe som treffes.
+Normprismodell
+Det legges opp til at skatten skal beregnes ut ifra en normpris satt på NASDAQ-børsen. Aktørene som holder til i Nærøysund kommune opererer i førstehåndsmarkedet. Dette innebærer at de i mindre grad påvirkes av den varierende normprisen på laks, og først og fremst har fastpriskontrakter. Når skatten beregnes ut ifra en varierende normpris vil dette gi utilsiktede effekter for havbruksselskapene. På grunn av et eventuelt avvik mellom normprisen på børsen og en fastpris, vil det potensielt føre til at havbruksselskapene må skatte av en pris som er høyere enn det den de har oppnådd i markedet. Nærøysund kommune mener det er viktig å finne en modell som sikrer at det er
+den reelle inntekten
+som ligger til grunn for en eventuell beskatning.
+Nærøysund kommune merker seg finansministerens brev til Stortinget 5.12 der finansministeren slår fast at det for 2023 skal være faktiske priser som er grunnlaget for beskatning, og at selskapene må legge frem dokumentasjon på reell prising for et nyetablert normprisråd. Om skisserte modell blir innført etter høringen og behandling i Stortinget, er dette er en ordning for verdifastsettelse som bør ligge til grunn for grunnrentebeskatningen også utover 2023.
+Kommunens inntekter
+Som følge av havbruksnæringen mottar også Nærøysund kommune en andel av havbruksfondet hvert år, og vil således også påvirkes direkte økonomisk ved innføring av grunnrenteskatt som skissert i forslaget. Det legges opp til at provenyet som skal hentes inn skal fordeles likt mellom staten og kommunal sektor. Det etterlatte inntrykket er at vertskommunene for havbruk skal få en tilleggskompensasjon som følge av den tilretteleggingen og arealavsetningen kommunene gjør for næringen. I tillegg har Regjeringen i etterkant kommet med en tilleggsfinansiering til havbruksfondet på 800 millioner kroner for 2022 for å sikre at havbrukskommunene får en økt inntekt sammenlignet med 2020 og 2021. Dette innebærer at Nærøysund kommune vil motta økte inntekter som følge av forslaget. Kontali Analyses bekrefter dette i sine beregninger av inntekter for Nærøysund kommune.
+Imidlertid viser andre analyser gjort av Kontali Analyse for NFKK at kommunal sektors andel av provenyet blir langt lavere enn halvparten. For havbrukskommunene betyr dette at kun en mindre andel av inntektene vil tilfalle vertskommunene. Forslaget legger opp til en kapitalflytting fra vertskommuner til kommuner i sentrale strøk som i dag ikke har inntekter fra havbruk. Det er viktig at fordelingsregimet sikrer en økt inntekt til de kommunene som stiller areal for havbruk til disposisjon og tilrettelegger for næringen. Videre er det viktig at forslaget i sin helhet ikke fører til færre nye investeringer og lavere aktivitet. Dette kan føre til at den samfunnsøkonomiske kostnaden for kommunen som helhet kan bli større enn de økte inntektene kommunen vil få som følge av innføringen av en grunnrenteskatt.
+Grønn utviklingskraft - Kråkøya biopark & energihub
+Det fryktes at svekket evne og/eller vilje til å investere i grønn FoU/teknologiutvikling og bygge nødvendig kapital til planlagt flåtefornyelse vil forsinke overgangen til nullutslippsfartøyer og dermed redusere skissert etterspørsel og lønnsomhet for det planlagte hydrogenknutepunktet på Kråkøya. Dette vil være i strid med de vedtatte planer Nærøysund kommune har for å følge opp FNs bærekraftsmål. Nærøysund kommune legger til grunn at en innføring av grunnrenteskatt ikke vil gå på bekostning av bærekraftig næringssatsinger.
+Kråkøya biopark & energihub
+er et utviklingsprosjekt i regi av Nærøysund kommune knyttet til industriområdet Kråkøya rett nord for Rørvik. Målet er at dette skal bli landets mest klimavennlige marine og maritime industripark med et samlet sysselsettingspotensial på flere hundre arbeidsplasser. Her skal det blant annet bygges et landbasert oppdrettsanlegg for laks og en hydrogenfabrikk med finansiell støtte fra ENOVA. Det foreligger også planer om både oppsamling av lakseslam, biokullproduksjon og fôrfabrikk. Alt dette i et bio- og sirkulærøkonomisk perspektiv.
+Store deler av kapitalen som planlegges reist i forbindelse med etablering av flere av de planlagte aktivitetene på Kråkøya kommer fra havbruksnæringen og tilstøtende næringer. Dagens forslag om innføring av grunnrente kan derfor ha direkte betydning for kapitaltilgang og markedsutvikling for etablering av virksomheter i denne næringsparken. Samtidig vet vi at mange av rederiene som har signert intensjonsavtaler for framtidig kjøp av grønt hydrogen fra Kråkøya er en del av havbrukets leverandørnæring.

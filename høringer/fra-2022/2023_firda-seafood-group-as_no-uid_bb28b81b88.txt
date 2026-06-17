@@ -1,0 +1,6 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000039_sha256_3fa18b2f98abc4b01636a36f9509a7a7faf4037937370986e6d82bba4f65affe.pdf
+kilde_type: pdf
+avsender: Firda Seafood Group AS
+uid: no-uid
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/Download/?vedleggId=84961350-39f9-4d16-a750-93650c1742a7
+

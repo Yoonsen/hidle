@@ -1,0 +1,6 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000208_sha256_8c7cbfe09b2cf3b2d3e40b1edd5963c42bfa57cf8f66684d5729bf7ecb230474.pdf
+kilde_type: pdf
+avsender: Watermoon AS
+uid: no-uid
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/Download/?vedleggId=275dcfee-015c-4fb2-87de-8146bce8e28a
+

@@ -1,0 +1,6 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000071_sha256_446e74e1dc03f3618d2f134f377cda92fe82804098de5be7203f4d4de9676e8a.pdf
+kilde_type: pdf
+avsender: Incentive AS
+uid: no-uid
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/Download/?vedleggId=8446a4cc-dec2-4f2b-aa25-581571373787
+

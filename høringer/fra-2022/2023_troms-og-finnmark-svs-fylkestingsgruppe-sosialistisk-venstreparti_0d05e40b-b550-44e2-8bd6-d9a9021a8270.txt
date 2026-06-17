@@ -1,14 +1,15 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000190_sha256_2f23b0142e031872e12f40cad1120eeaf1013c7620cff5900f3391556bd93da2.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000191_sha256_f43ce1ac2d97b589c6ab66831f6d3d1b68ca0badeb2ee06e31caa233528a0dd0.html
 kilde_type: html
 avsender: Troms og Finnmark SVs fylkestingsgruppe(sosialistisk venstreparti)
 uid: 0d05e40b-b550-44e2-8bd6-d9a9021a8270
 kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=0d05e40b-b550-44e2-8bd6-d9a9021a8270
-Høringssvar fra Troms og Finnmark SVs fylkestingsgruppe(sosialistisk venstreparti)
+Høringssvar fra Toril Mongstad
 
 Dato:
 04.01.2023
 
-1.
-Troms og finnmark SV (Sosialistisk venstreparti)s fylkestingsgruppe vil innledningsvis uttrykke sin støtte til forslaget om grunnrentebeskatning av havbruksnæringa. Fylkestingsgruppa er særlig fornøyd med regjeringens målsetning om en beskatning som bygger opp under målene om flere arbeidsplasser og større verdiskaping i lokalsamfunnene og ser det som viktig at eventuelle endringer som gjøres etter høringsrunden sikrer at denne målsetningen fastholdes.
-2.
-Troms og finnmark Svs fylkestingsgruppe registrerer at regjeringen arbeider aktivt for å komme fram til en god og fremtidsrettet løsning for normprisberegning som vil ivareta målsetningene om et mest mulig riktig skattegrunnlag samtidig som man unngår at det åpnes for insentiver til å redusere inntekten i særskattegrunnlaget. Fylkestingsgruppa støtter denne tilnærmingen og er glad for at regjeringen er tydelig på prinsippet om at det er de reelle inntektene som skal ligge til grunn for grunnrenteskatten.
+Eg støttar regjeringa sitt forslag om grunnrenteskatt på havbruk. Det gjer eg ut frå fleire grunnar. Den eine er prinsippet om at det ikkje skal vera gratis å bruka landets felleseige til eiga vinning. Norske fjordar tilhøyrer det norske folket, og bruk av desse er det heilt rimeleg at det skal betalast skatt for.
+Ein annan viktig grunn til at eg støttar forslaget er den omfordelande effekten dette vil ha. Det er god og sosialdemokratisk skattepolitikk at det skal ytast etter evne. Ingen kan vera i tvil om at havbruk er ei verksemd som gjev svært god avkastning, langt over det som er snittet for norske bedrifter (når me ser bort frå olje og gass).
+I ei tid med aukande ulikskap tar regjeringa grep ved å mellom anna innføra grunnrenteskatt på havbruka. Slik vil det hentast meir penger inn i statskassa for å sikra at innretninga på velferdsstaten kan halda fram, og kanskje til og med verta betre.
+Signaleffekten er viktig. Det bør vera grunnrente på all verksemd som nyttar felleseiget, og som har forteneste utover det som må kunna seiast å vera nødvendig ut frå kostnadsdekning, vedlikehald og investeringsbehov. Det er ingen grunn til at havbruka skal vera fritekne, slik sett burde denne skatten ha vore innført for lenge sidan.
+Det er å håpa at regjeringa ikkje bøyer av, men gjennomfører grunnrenteskatt på havbruk etter intensjonane i forslaget.

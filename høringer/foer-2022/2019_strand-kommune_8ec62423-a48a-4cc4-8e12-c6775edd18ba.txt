@@ -1,12 +1,21 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-nou-2019-18-skattlegging-av-havbruk-manual-20260209102305-d5e71684-918-20260209102358003-0_0000068_sha256_3a83ea390165be8406c31f90cc767a4f190db4437def9aa17f95017df5d26b32.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-nou-2019-18-skattlegging-av-havbruk-manual-20260209102305-d5e71684-918-20260209102358003-0_0000070_sha256_e7d52a55b827bc41c26202bf5240fbf473bcd079379570d1d16fca99fc1127c4.html
 kilde_type: html
 avsender: Strand Kommune
 uid: 8ec62423-a48a-4cc4-8e12-c6775edd18ba
 kilde_uri: https://www.regjeringen.no/no/dokumenter/horing--nou-2019-18-skattlegging-av-havbruk/id2676532/?uid=8ec62423-a48a-4cc4-8e12-c6775edd18ba
-Høringssvar fra Strand Kommune
+Høringssvar fra Tromsø kommune
 
 Dato:
-14.01.2020
+22.01.2020
 
-Høringssvar fra Strand Kommune:
-Kommunestyret i Strand mener det ikke bør innføres en grunnrenteskatt for havbruksnæringen, og at dagens modell for innhenting av grunnrente gjennom auksjoner av ny produksjonskapasitet bør videreføres.
+Tromsø kommunes høyringssvar til Finansdepartementet på høring om skattelegging av havbruk.
+Havbruksnæringen er en viktig kystnæring med høy verdiskaping og stort potensiale for vekst–spesielt i Nord-Norge. For å lykkes med vekststrategien må det være et samspill mellom næringen og kommunene hvor vekst og verdiskaping både i bedriftene og i samfunnet står i fokus.
+Regjeringen ønsker vekst i havbruksnæringen og målet er en 5 dobling av verdiskapingen i næringen innen 2050. En lang kystlinje er vårt fortrinn i kampen om økt verdiskaping, men for å få tilgang til dette fortrinnet bør regjeringen spiller på lag med kommunen om tilrettelegging for vekst. For kommunene handler dette om langsiktighet og forutsigbarhet – både i tilrettelegging av areal og i forventede inntekter av den tilrettelegging kommunene gjør.
+Bærekraftig utvikling av norsk sjømatproduksjon avhenger av et best mulig samspill mellom vertskapskommunene og næringene der næringen bidra til å skape lokal aksept og flere arbeidsplasser langs kysten og næringens bruk av areal gir inntekter til de kystsamfunn som avser disse arealene.
+Tromsø kommune mener at skatteleggingen av havbruk må innrettes slik at den bidrar til en bærekraftig vekst og videreutvikling av næringen. Videre må skatteleggingen utformes slik at det stimulerer til langsiktighet og størst mulig lokal verdiskaping samtidig som inntektene blir mer forutsigbare.
+1. Tromsø kommune føreset at kommunane får føreseielege inntektar frå oppdrettsnæringa som legg til rette for lokal verdiskaping og utvikling.
+2. Tromsø kommune er positiv til ein skatt basert på tre komponentar
+a. Ei arealleie basert på ei fast avgift per kilo produsert laks som går direkte til kommunen. Denne bør utgjere 50 prosent av total skattelegging innafor dette skatteregimet.
+b. Ei produksjonsavgift som er ein fast andel av marknadsprisen for laks som går inn i havbruksfondet. Denne bør utgjere 25 prosent av total skattelegging innafor dette skatteregimet.
+c. Ei konsesjonsavgift for nye konsesjonar som går inn i havbruksfondet. Denne bør utgjere 25 prosent av total skattelegging innafor dette skatteregimet.
+3. Tromsø kommune meiner havbruksfondet i sin heilskap skal tilfalle vertskommunane og vertsfylka for anlegga.

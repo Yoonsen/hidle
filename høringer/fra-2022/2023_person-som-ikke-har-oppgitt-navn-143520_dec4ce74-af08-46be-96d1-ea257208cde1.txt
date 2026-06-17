@@ -1,4 +1,4 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000137_sha256_40c9c260fbf8853856cf14f79a5618528335d5fbd17a55e7f2a955f7b07fd322.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000142_sha256_a11b7337bef8e81ac614069a0eae5f19c9bffe6188933c4c248e8d13910f8155.html
 kilde_type: html
 avsender: Person som ikke har oppgitt navn (143520)
 uid: dec4ce74-af08-46be-96d1-ea257208cde1
@@ -6,12 +6,8 @@ kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-ha
 Høringssvar fra Person som ikke har oppgitt navn
 
 Dato:
-09.10.2022
+07.11.2022
 
-Innføring av grunnrente som foreslått, vil ikke bare ha en stor negativ innvirkning på aktørene sin investeringsevne- og vilje.
-Jeg håper også at en i totalen her, ser på det som allerede viser seg som ekstremt negativ effekt i leverandørindustrien til havbruksnæringen. Som igjen vil over tid gi utslag i arbeidsledighet, konkurser.
-Havbruksnæringen skal bidra skattemessig inn mot kystsamfunnene som de opererer i. Det er for så vidt ingen uenighet i det - men å plukke ut tilfeldig næring og pålegge hele 62 % skatt - vil det føre til at store planlagte ivesteringer flyttes utenlands, slik flere aktører allerede varsler? Jeg trir vi vil kraftig redusere Norges konkurransekraft i næringen - en næring vi pr tid er størst på i verden.
-Når gjelder fordeling av skatten 50/50 kommune og stat, så er det heller ikke definert at kommune i dette tilfellet er vertskommuner for havbruk. Det betyr at feks Oslo kommune vil dra inntekter på havbruk og verdier som skapes i en kommune i Nord-Norge. Rettferdig?
-Hva med feks torskeoppdrett? Hvordan skal de oppleve vekst? For kommunene vil det jo nå evt med økt beskatning, være økonomisk hensiktsmessig å gå for laks.
-Det er riktig om vertskommuner får mer ut fra næringen, men da må dette tydelig presises i lovforslaget. Videre legger en ved evt innføring nye føringer opp mot andre næringer; fiskeri - hva med denne? De bruker opp av ressursene, det gjelder ikke havbruk.
-Jeg har (desverre) stemt Sp i mange år, grunnet partiets (tidligere) fokus på kyst og distrikt. Min stemme går for all tid heretter til andre partier, enn Sp - og selvsagt heller ikke til Ap. Det er mismodig som en vanlig nordmann, uten næringsinteresser, ei heller store politiske meninger - å se at en ministerpost og/eller regjeringsplass kan flytte fokus så til de grader langt fra det politiske ståstedet.
+Banenrepublikk...
+...er det investorer tenker om Norge når vi hører dette forslaget. Vi tenker at dette ikke er et politisk stabilt land å investere i. Det er vanligvis bare diktaturer i Afrika og svært ustabile land som PLUTSELIG innfører en 40 prosentpoeng skatteøkning, og har en total selskapsskatt på 62% (Ja, det er selskapsskatt, selv om dere velger å separere denne ut og kalle det noe annet, akkurat som at arbeidsgiveravgift er inntektsskatt selv om dere kaller det noe annet).
+Skaden har skjedd allerede. Dere har jagd investorer bort fra å investere i Norge ved å bare foreslå denne skatten. Men dere kan redusere skaden ved å trekke dette bananforslaget bort og ALDRI igjen gjøre noe så dumt. Fy skamme dere, Johan Gahr Støre og Trygve Slagsmål Vedum.

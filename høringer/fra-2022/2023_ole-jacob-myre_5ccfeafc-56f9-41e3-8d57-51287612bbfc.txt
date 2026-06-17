@@ -1,27 +1,131 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000126_sha256_8b67e3f832edf4d5e04df2abf4d397311f5e9f73502ee7fff164864c3c2f5475.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000127_sha256_6ac901c01484d6a8aa68924e1eb33ac767c8acb8d5f66af9c1305ac2b37886ce.html
 kilde_type: html
 avsender: Ole Jacob Myre
 uid: 5ccfeafc-56f9-41e3-8d57-51287612bbfc
 kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=5ccfeafc-56f9-41e3-8d57-51287612bbfc
-Høringssvar fra Ole Jacob Myre
+Høringssvar fra Nærøysund og Leka Venstre
 
 Dato:
-29.11.2022
+04.01.2023
 
-Denne prosessen er ulik alle tidligere skattereformer både i form og omfang.
-Forslaget kom mildt sagt overraskende på både bransjen og investorer. Dette har ført til:
-50 milliarder i børsfall for sjømatselskapene. (Folketrygdfondet tapte ca 5 mrd)
-Et sannsynlig like stort verdifall i de privateide selskapene
-4,5 milliarder i reduserte inntekter fra lakseauksjonen (30 % lavere pris og 25 % usolgt volum).
-35 milliarder i investeringer stanset pr slutten av november (mange vil aldri bli gjennomført)
-Hundrevis av permitterte og oppsigelser i leverandør industrien pga kanselleringer
-Mer enn 1500 permitterte i videreforedling grunnet stans i kontrakts markedet (uklar normpris)
-Ny teknologi fra utviklingstillatelser stopper opp, under halvparten er realisert/igangsatt 5 år etter fristen.
-En underskog av innovative tidligfase selskaper vil miste sitt kundegrunnlag
-Summen av disse tapene må holdes opp mot de ca 4 milliardene som bidrag i budsjettet på 2850 milliarder.
-Dette utgjør altså 0,14 %.
-En av Norges få fortrinn i næringsliv har vært politisk stabilitet. Tilliten fra internasjonale investorer på norsk sjømat er kraftig redusert, og de flytter pengene sine andre steder.
-Videre har Norge en flott leverandørindustri som i dag er blitt en egen eksportindustri med stadig økende lønnsomhet. Uten et innovativt hjemmemarked vil denne krympe. Dette er også i stor grad også en distriktsnæring, med tilhørende tap av arbeidsplasser.
-Hva skal vi leve av etter oljen? Det blir neppe laks med et slikt forslag.
-Med vennlig hilsen
-Ole Jacob Myre
+Høringsuttalelse om innføring av grunnrentebeskatning av fiskeoppdrett i sjø fra Nærøysund og Leka Venstre.
+Rørvik, 4. januar 2023
+Sammendrag
+Bærekraftig vekst må prioriteres opp og kompleksiteten i beskatningen må forenkles for å oppnå den utviklingen alle ønsker innen norsk oppdrettsnæring. Ny grunnrenteskatt er uhensiktsmessig utformet og kommer på toppen av alle særskattene fra før.
+Produksjonen av laks er ikke avhengig av å bruke norske sjøarealer for å vokse. Beskatningen må ikke være høyere enn i land det er naturlig å sammenligne oss med for å sikre næringas tetposisjon, norske arbeidsplasser og mulighetene for utvikling langs kysten.
+Gode og nye arbeidsplasser betyr mer for kystkommune enn noen ekstra kroner i kommunekassen.
+Gjennom dagens ekstraskatter og avgifter betaler oppdrettsnæringa for bruken av felles sjøarealer.
+Med en riktig skattemodell ligger oppdrettsnæringa best an til å gi Norge økte inntekter når petroleumsinntektene blir mindre.
+Sterke argumenter tilsier at forslaget om grunnrenteskatt ikke kan innføres slik som foreslått. For å sikre utvikling av Norges nest største eksportnæring må det etableres en bred politisk enighet som gir gode og forutsigbare rammebetingelser for utvikling.
+Oppdrett er klimavennlig og kan bety mye for den grønne skiftet.
+Innholdsfortegnelse
+Sammendrag
+1. Havbruksskatteutvalgets mandat, sammensetning og delte innstilling
+2.Hurdalserklæringen blir lagt til side
+3. Utformingen av grunnrenteskatten og den totale skattebelastningen er en alvorlig trussel for norsk oppdrettsnæring
+4. Oppdrettsnæringa betaler i dag for bruk av fellesskapets sjøarealer
+5. Oppdrett er klimavennlig og kan bety mye for den grønne skiftet
+6. Oppdrett er en viktig og framtidsrettet distriktsnæring
+7. Utenlandske investorer er viktig og fortjener utbytte
+8. Den internasjonale markedsposisjonen må styrkes, ikke svekkes
+1. Havbruksskatteutvalgets mandat, sammensetning og delte innstilling
+Stortinget fattet følgende vedtak da det ba Regjeringen oppnevne et partssammensatt utvalg om beskatning av havbruk:
+"Stortinget ber regjeringen om å nedsette et partssammensatt utvalg som skal utarbeide en NOU som behandler ulike former for beskatning av havbruksnæringen, herunder produksjonsavgift og grunnrentebeskatning/ressursrenteavgift.
+Ett av målene med utredningen er at vertskommuner
+skal sikres stabile og forutsigbare årlige inntekter for bruk av areal og for å tilrettelegge for nytt areal for oppdrettsnæringen også når det ikke er vekst.
+Utredningen må også vurdere den internasjonale konkurransesituasjonen
+for havbruksnæringen, forutsetninger for lønnsomhet, risikoen ved biologisk produksjon i sjø, samt hvordan skatte- og avgiftssystemet påvirker sysselsettingen og industrialisering i Norge og forholdet mellom norsk og utenlandsk eierskap.
+Beskatningen må innrettes slik at næringen har et godt grunnlag for kunnskapsutvikling, innovasjon, investeringer og bærekraftig vekst.
+Saken må sluttføres i Stortinget våren 2020, med sikte på mulig ikrafttredelse medio 2020. Havbruksfondets innretning og fordeling sees i sammenheng med annen beskatning."
+Utvalget ble sammensatt med fem fagøkonomer og jurister, samt at LO, NHO og KS fikk foreslå et medlem hver. Innstillingen fra utvalget var delt. Fagfolkene som hadde flertall, sto bak utvalgets innstilling hvor det ble lagt vekt på å innføre grunnrenteskatt og høyere total beskatning av næringa. Dette har vært viktigere enn å sikre arbeidsplasser langs kysten, eksportinntekter og bærekraftig vekst.
+Mindretallet fra LO, NHO og KS foreslo en løsning som bygget videre på produksjonsavgiften.
+Disse uenighetene gjenspeiles også i reaksjonene på Regjeringens forslag. Det er sterk motstand mot forslaget fra kystkommunene, oppdrettsnæringa og leverandørindustrien. Oslopressen og folk med mindre tilknytning til oppdrettsnæringa og som vil få fordeler av en økt beskatning, mener det et rett og rimelig med en kraftig beskatning av oppdrettsnæringa.
+Stortinget må ta høringsinnspillene på alvor og komme fram til en bred enighet som gjennom bærekraftig vekst kan sikre arbeidsplasser, natur og økte eksportinntekter for Norge.
+2.Hurdalserklæringen blir lagt til side
+Hurdalserklæringen inneholder flere gode målsetninger for norsk havbruk:
+·
+Regjeringen vil legge til rette for videre vekst for å skape flere arbeidsplasser, mer bearbeiding, større verdiskaping og økte eksportinntekter.
+·
+Dette må skje på en forutsigbar, kontrollert og bærekraftig måte.
+·
+Politikken skal bygge opp under fortrinnet som ligger i oppdrett av fisk i kystnære strøk og fjorder, og samtidig stimulere til innovasjon, nye produksjonsformer og bruk av ny teknologi for å sikre økt bærekraft.
+·
+Målet er at Norge skal lede an i utviklingen av verdens mest produktive og miljøvennlige havbruksnæring med produksjon av matressurser til et voksende verdensmarked.
+I tillegg har Regjeringen et mål om å øke norsk eksport utenom petroleum, med 50% innen 2030. Oppdrettsnæringa er nest størst på eksport, og har de beste forutsetningene for å bidra til at dette målet nås.
+Grunnrenteforslaget er i strid med landsmøtevedtak som har flertall på Stortinget, og kom som et sjokk. Det undergraver målsetningene i Hurdalserklæringen, fordi det skaper meget stor usikkerhet om hvilken retning Regjeringen vil at havbruksnæringa skal gå, og fordi næringas evne til å finansiere en bærekraftig vekst blir kraftig redusert gjennom tapt egenkapital og langt lavere disponibel kontantstrøm etter skatt til investeringer.
+3. Utformingen av grunnrenteskatten og den totale skattebelastningen er en alvorlig trussel for norsk oppdrettsnæring
+Svakheten med forslaget er at det ikke tar hensyn til at havbruk er en næring av en helt annen karakter enn olje og vannkraft. Derfor kan ikke prinsippene fra olje og vannkraft overføres direkte uten at det gir store utilsiktede virkninger.
+·
+Verdiene skapes ikke bare mens fisken vokser i sjøen. Verdiene skapes og selges på verdensmarkedet fra en lang verdikjede fra klekkeri, smoltanlegg, oppdrett i sjø, brønnbåtarbeid, slakting, foredling og logistikk.
+·
+Skatteeffekten av investeringsfradrag i grunnrenteskatten er lavere enn det som framgår i forslaget, og effektiv skattesats høyere enn forutsatt fordi virkeområdet er satt kun til sjøfasen. Dette er den delen av verdikjeden med lavest investeringer slik at beskrevne fradrag i grunnrenteskatten ikke oppnås.
+·
+Staten er heller ikke med på å dele risiko i den grad det er beskrevet. Kapitalbindingen i omløpsmidler var i 2021 drøyt 60 milliarder kroner. I tillegg kommer nødvendige og store investeringer i konsesjoner, smoltanlegg, slakterier, brønnbåter og arbeidsbåter som ikke gir investeringsfradrag. Her er nok sammenligningen med en kraftstasjon strukket for langt.
+·
+Grunnrenteskatten fastsettes ut fra en normpris beregnet ut fra gjennomsnittsprisen oppnådd i spotmarkedet forrige år. Normprisen tar ikke hensyn til at store kvanta selges på langsiktige fastpriskontrakter, som de siste årene har vært vesentlig lavere enn spotprisene. Dermed risikerer oppdretterne å måtte betale grunnrenteskatt av inntekter de ikke har hatt for laks solgt til fastpris.
+·
+Skattesatsen er satt til 40% uten at det er lagt fram noen vurdering av hvilke ringvirkninger en så drastisk økning i skattetrykket vil gi. Forslaget til en ekstraordinær høy beskatning har allerede medført en reduksjon in investeringsnivå langt over det Havbruksskatteutvalget la til grunn.
+·
+Det er ikke vurdert hvordan det totale skattetrykket blir på næringa etter innføring av grunnrenteskatten. Produksjonsavgift
+, ordinær selskapsskatt, eiendomsskatt, formuesskatt, skatt på utbytte for å betale formuesskatten og ny grunnrenteskatt, vil til sammen vil utgjøre 85% av skattbart overskudd for et privateid oppdrettsselskap. I tillegg kommer kjøp av konsesjonene som Staten selger for å få lov til å produsere laks i sjøen.
+·
+Det høye skattetrykket gjør at norsk oppdrett taper konkurransekraft, og blir mindre attraktiv for investorer. Investeringene i oppdrettsnæringa vil i større grad bli flyttet ut av Norge på grunn av det harde skatteregimet. Derfor blir det tøffere å skaffe til veie nødvendig kapital til ønsket bærekraftig vekst i Norge.
+·
+Forslaget om grunnrenteskatt har medført at verdiene på oppdrettsselskapene på Oslo Børs har falt med 65 milliarder kroner, som har gitt Staten et direkte tap i Folketrygdfondet på 3,5 milliarder. I tillegg har verdien av de ikke børsnoterte selskapene falt tilsvarene fordi konsesjonene har falt i verdi. Totalt verdifall på oppdrettsselskapene er opp mot 100 milliarder kroner. Dette er ikke papirpenger. Selskaper med stor grad av lånefinansiering kan få problemer fordi lån til drift og investeringer et tatt opp med sikkerhet i konsesjonsverdiene. Dermed får selskapene mindre evne til å finansiere ønsket bærekraftig vekst. Nye investeringer må derfor avbestilles.
+·
+Eksportinntektene fra oppdrett passerte 100 milliarder i 2022. Ingen andre norske næringer har en lignende størrelse og potensiale til verdiskapning som kan sikre norsk velferd når petroleumsinntektene faller. Derfor er det meget viktig å opprettholde investeringsevnen og veksten i næringa i stedet for å flerdoble skatten for å finansiere økte offentlige utgifter i dag.
+·
+Næringa er meget ung og har stort behov for innovasjon, forskning og utvikling. Fra en primitiv start for femti år siden, og gjennom mange kriser er det kun de siste ti årene det har vært god inntjening. Til tross for gode år, har en meget stor del av netto kontantstrøm blitt brukt til investeringer og finansiering av vekst.
+·
+Også leverandør-/servicenæringen og videreforedling innen oppdrett vil merke en innføring av grunnrenteskatt, i form av vesentlig lavere investeringer i årene framover. Dette vil ramme mange arbeidsplasser hardt.
+·
+Dersom grunnrenteskatt skal innføres som generelt skatteprinsipp i Norge, bør den også omfatte superprofitt ved å eie og selge tomter i pressområder. Sentralisering og urbanisering medfører at det oppstår en grunnrente på urban jord som også må beskattes hardere.
+·
+Dersom argumentet skal være at de rike skal bidra mer til fellesskapet bør det gjelde for alle næringer. Kun 14 av de 200 rikeste på Kapitals liste har blitt rike på oppdrett.
+4. Oppdrettsnæringa betaler i dag for bruk av fellesskapets sjøarealer
+Det blir hevdet at oppdrettsnæringen ikke betaler for bruken av sjøarealene. Det brukes nå som et sterkt argument for å innføre enda en ekstraordinær skattebelastning på vår viktigste kystnæring. Men dette oppleves ikke som et gyldig argument lokalt. Dagens aktivitet og beskatning gir langt større samfunnsvirkninger enn belastningen det er for lokalsamfunnet at anlegget ligger i sjøen.
+·
+Arealene som brukes til oppdrett i sjø fra Lindesnes til Kirkenes tilsvarer arealet til Trondheim kommune, ca. 330 kvadratkilometer. Til sammenligninger det ca. 10.000 kvadratkilometer dyrket mark i Norge. For dette betaler oppdretterne en arealavgift per kilo laks på 40,5 øre. Det gir en inntekt på 680 millioner kroner. Staten solgte nye konsesjoner for 6 milliarder i 2020, og forventningene var 8 milliarder i 2022. Konsesjonene selges annethvert år, og gir en gjennomsnittsinntekt til Staten på ca. 3,5 milliarder årlig. Totalt gir dette en årlig leie til felleskapet for sjøarealene på 4,2 milliarder. En årlig leie på hele 12,7 millioner per kvadratkilometer før innføring av grunnrenteskatten.
+·
+Innføring av grunnrente er i Statsbudsjettet anslått til å gi en merinntekt til fellesskapet på 3,5 til 4 milliarder i 2023. Forslaget har skapt mye usikkerhet i næringa. Årets salg av nye konsesjoner har allerede derfor gitt et tap til Staten like stort som anslagene for den nye grunnrenteskatten.
+·
+Disse skattene betales ikke for landbaserte anlegg, selv om naturinngrepene og energiforbruket er langt høyere. Landbasert anlegg gir nye muligheter, men kan ikke erstatte all produksjon i sjøen. Skattesystemet stimulerer i dag til å vri produksjonen i en i en retning som er mindre vennlig både for klima og natur enn sjøanlegg. Med forslaget om grunnrente på oppdrett i sjø blir det enda verre. Favorisering av landbaserte anlegg vil også svekke vårt konkurransefortrinn, fordi landbaserte anlegg enkelt kan flyttes ut av landet og nærmere markedet.
+·
+Dersom Staten ønsker å øke skatteinntektene fra oppdrettsnæringa, er det langt enklere å øke arealavgiften eller produksjonsavgiften, slik mindretallet i Havbruksskatteutvalget foreslo.
+5. Oppdrett er klimavennlig og kan bety mye for den grønne skiftet
+Oppdrett i sjø er industriell matproduksjon i stor skala, med lite fotavtrykk per kilo laks. Utslippet av CO2 er lavt og på samme nivå som for kyllingen, som er den mest klimavennlige kjøttproduksjonen på land. Utslippene fra fiskeoppdrett kan reduseres med investeringer i teknologi som i dag er tilgjengelig.
+·
+Lus, rømming og utslipp er utfordringer som må løses. Erfaringer fra annen industriomstilling viser at en kombinasjon av pisk og gulrot er effektivt. Trafikklyssystemet er et slikt virkemiddel, men dette kan forsterkes etter prinsippet om at forurenser betaler. En klar og forutsigbar retning må til, og vil redusere usikkerheten for næringa.
+·
+Flere gode løsninger med semilukkede og nedsenkede merder er nå under utprøving hvor laksen slaktes uten å ha vært avluset. Kombinert med oppsamling av slam, åpner de nye driftsformene for at produksjonen kan dobles og skje med mindre fotavtrykk på eksisterende arealer i kystkommuner som Nærøysund.
+·
+Gründere med kapital og kompetanse fra oppdrettsnæringa kan fortsatt bidra med store investeringer i grønn næringsutvikling i distriktene dersom næringa ikke tappes for investeringsevne gjennom en meget kraftig skatteøkning
+6. Oppdrett er en viktig og framtidsrettet distriktsnæring
+Gründere i distriktene som har stått på i femti år har skapt norsk oppdrettsnæring. I dag mobbes de ved å bli kalt laksebaroner. Det er ikke et navn vi som bor nært dem har funnet på.
+Gjennom reinvesteringer har disse gründerne skapt mange nye arbeidsplasser i og rundt næringa.
+Dagens forslag til innføring av grunnrenteskatt bærer preg av manglende forståelse av dagens oppdrettsnæring og dens historie, samt den betydning næringen har for bosetting og arbeidsplasser langs vår langstrakte kyst.
+·
+40% av oppdrettslokalitetene er i Nord-Norge, det er her veksten er størst og mest areal er tilgjengelig.
+·
+Det er oppdrett i sjøen i 140 kommuner langs kysten. I tillegg kommer kommuner med bare landanlegg.
+·
+Ungdommen ser de mulighetene oppdrettsnæringa gir. Det er bruk for dyktige røktere, sjøfolk, dykkere, veterinærer, bygningsarbeidere, elektrikere, mekanikere, økonomer, sjåfører, slakteriarbeidere, biologer, kjemikere og ledere. Kort og godt et spennende arbeidsmarked.
+·
+Mange fagøkonomer og journalister uttrykker med stor tyngde at grunnrente er en riktig måte å beskatte oppdrettsnæringa på. Et fellestrekk for de som uttaler seg er at de sitter langt unna næringa.
+7. Utenlandske investorer er viktig og fortjener utbytte
+Statens pensjonsfond utland har investert over 12.000 milliarder kroner i børsselskaper over hele verden. Det kan slå hardt tilbake på Norge dersom vi fører en skattepolitikk som er fiendtlig til utenlandsk eierskap i Norge.
+Utenlandsk kapital og kompetanse har vært avgjørende for oppbyggingen av norsk industri. Dette gjelder særlig petroleumsindustrien og kraftkrevende industri. Selv om norsk oppdrettsnæring i sjelden stor grad er bygd opp av norske gründere, trenger også den utenlandsk kapital, kompetanse og markeder for å utvikle seg videre.
+·
+Finansministeren har uttalt at det først og fremst er store selskaper med utenlandske eiere som skal betale grunnrenteskatt, særlig MOWI. Da store deler av oppdrettsnæringa lå mange brukket rygg for 20 år siden og knapt hadde penger til å kjøpe fôr til laksen, satset Jon Fredriksen mange milliarder på norsk oppdrettsnæring. MOWI er blitt verdens største lakseoppdretter og befester Norge som verdens største produsent av oppdrettslaks. De store oppdrettsselskapene har en viktig rolle i norsk oppdrettsnæring, og har delvis utenlandsk eierskap som de store andre norske børsselskapene. Det vil være en dårlig næringspolitikk å bekjempe delvis utenlandsk eierskap i norske selskaper, både i og utenfor oppdrettsnæringa.
+·
+Mitsubishi kjøpte i 2014 alle aksjene i Cermaq for 8,86 MRD. Staten eide 56 %, i tillegg var Folketrygdfondet en stor aksjonær. Salgsprosessen ble startet av Stoltenberg-regjeringen og fullført av Solberg-regjeringen.
+Statsråd Monica Meland uttalte etter salget:
+§
+Jeg synes det er positivt at et stort internasjonalt industriselskap nå kjøper Cermaq. Det bekrefter at norsk oppdrettsnæring oppfattes som en spennende sektor i et internasjonalt perspektiv.
+Mitsubishi har til nå investert nærmere 13 milliarder kroner i Cermaq som har sin hovedaktivitet i Nord-Norge. Men ytterligere planlagt investeringer på nærmere 5 milliard er satt på hold på grunn av forslaget om ny grunnrenteskatt.
+8. Den internasjonale markedsposisjonen må styrkes, ikke svekkes
+Kvaliteten er så stabilt høy at norsk oppdrettslaks ifølge Sjømatrådet, er blitt verdens mest populære matfisk. Norge er verdens største produsent av oppdrettslaks, og norsk laks er førstevalget i markedet. Norwegian Salmon er Norges mest kjente merkevare internasjonalt. Denne markedsposisjonen må beholdes og forsterkes. Norsk fisk er populær, og også andre arter selges til bedre priser enn før.
+·
+Norge produserer kun 1,6% av verdens produksjon av biomasse i sjøen. Kina står for 57,9% av produksjonen, og har nok både kapasitet og lyst til å ta en større markedsandel av det meget lønnsomme markedet for oppdrettslaks.
+·
+Polen er det landet som kjøper mest norsk laks. De har bygd opp en stor ferdigvareindustri som selger sine produkter til avtalte priser med relativt lave marginer. Store svingninger i innkjøpsprisen unngås ved at norske oppdrettere selger til fastpris avtalt lang tid i forveien. Dersom norske oppdrettere ikke kan tilby fastpris, vil laks fra andre land ta dette markedet. Mer norsk laks må da selges i spotmarkedet, og da til en mer ustabil og lavere pris.

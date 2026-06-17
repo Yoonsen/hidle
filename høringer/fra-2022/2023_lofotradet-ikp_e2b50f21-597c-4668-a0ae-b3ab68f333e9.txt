@@ -1,20 +1,41 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000100_sha256_f1b9a9efc3d4bbf5a86cce855b98c82a506ca7bd43f2e70c10546fdddfa7ff3f.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000101_sha256_437792cb7acc54f953a57026a99dd8f050fecdaaa20de5a200994b67c698c799.html
 kilde_type: html
 avsender: Lofotrådet IKP
 uid: e2b50f21-597c-4668-a0ae-b3ab68f333e9
 kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=e2b50f21-597c-4668-a0ae-b3ab68f333e9
-Høringssvar fra Lofotrådet IKP
+Høringssvar fra Midsund Idrettslag
 
 Dato:
-20.12.2022
+02.01.2023
 
-Til Finansdepartementet
-Høringssuttalelse fra Lofotrådet - Grunnrenteskatt på havbruk
-Vedtatt i Lofotrådets arbeidsutvalg, 15. desember 2022
-1. Lofotrådet er for innføring av grunnrenteskatt på havbruk, det forutsettes dog at det endelige forslaget til økt beskatning av havbruksnæringen må utformes slik at det totale skattetrykket, herunder grunnrenteskatt, produksjonsavgift, formueskatt og naturressursskatt gjør at mangfold, norsk eierskap, forutsigbare rammevilkår, miljøteknologisk utvikling og verdiskaping ivaretas.
-2. Grunnrenten må innrettes slik at det også i fremtiden er mulig å investere i industrianlegg både i hav og på land, for å sikre utvikling av eksisterende og nye helårlige arbeidsplasser langs kysten.
-3. Beskatningen må innrettes slik at de minste selskapene skjermes.
-4. Det endelige forslaget må sikre at vertskommuner og vertsfylkeskommuner får minst 60% av grunnrenteinntektene, og at disse ikke inngår i skatteutjevningen over inntektssystemet.
-Med vennlig hilsen
-Elisabeth Mikalsen
+Høringssvar fra Midsund Idrettslag
+Midsund IL ble stiftet i 1946 og fyller 77 år i 2023. Vi er ett idrettslag driftet utelukkende på frivillig basis.
+Midsund IL er et lite idrettslag som har omtrent 500 medlemmer. Vi skaper aktivitet, primært for barn og unge, innen fotball, handball, klatring og friidrett.
+Midsund IL står også bak prosjektet «Midsundtrappene» som legger til rette for fysisk aktivitet for både lokalbefolkning i Molde og i regionen Møre og Romsdal.
+Som et lite idrettslag i ett kystsamfunn så er vi helt avhengig av våre lokale bedrifter og den sponsorstøtten vi får fra disse.
+Vi er veldig bekymret for at den foreslåtte grunnrenteskatten på havbruk, samt den økningen som er foreslått på grunnrenteskatten til kraftproduksjon vil være ødeleggende for våre muligheter til å få sponsorstøtte fra næringslivet som blir rammet av dette.
+De fleste store sponsorene våre er tilknytt ett av disse to segmentene, enten som kraftprodusent eller som produsent eller underleverandør av havbruksnæringen.
+Idrettslag og frivillige lag og organisasjoner langs hele kysten har i mange år fått store summer i støtte fra disse bedriftene, og vi er helt avhengig av at disse selskapene både har gode og forutsigbare rammevilkår i fremtiden.
+Disse bedriftene er veldig klar på sitt samfunnsansvar og bidrar med støtte for å ha levende og attraktive samfunn langs hele kysten, og vi kan med sikkerhet si at ingen andre aktører i distriktene har mulighet til å bidra på linje med hva eksempelvis havbruksnæringen kan og gjør.
+Vi har tidligere erfart hva som skjer når lokale/norske eiere blir byttet med utenlandske eiere, da vil også sponsorstøtte til de lokale organisasjonene lett bli strøket fra budsjettet. Det er derfor utrolig viktig at den politikken som blir ført sikrer at lokalt norsk eierskap blir verdsatt.
+Midsund Idrettslag har som sagt mange store sponsorer innen kraftproduksjon og havbruk, her kan nevnes:
+Romsdal Processing AS (eid av Salmar og Lerøy)
+Rostein AS
+Salmar AS
+Hofseth Biocare AS
+Istad Kraft AS
+Øylaks AS
+Vi har også store sponsorer innen fiskeri, og reagerer på skatteutvalget sitt forslag og iver etter å fortsette å skattlegge også disse distriktsnæringene (forslag om grunnrenteskatt på fiskeri) her kan nevnes som våre sponsorer:
+Nybo AS
+Havsnurp AS
+Nybonia Hav AS
+Vi frykter også at konsekvensene av innføringen av grunnrenteskatt på våre lokale bedrifter vil stoppe investeringer i lokale små kystsamfunn. Dette vil igjen bety vesentlig mindre oppdrag til lokale underleverandører, som elektrikere, rørleggere, byggefirma, verftsindustri med mer.
+Vi har også her mange små sponsorer, i likhet med mange andre idrettslag og frivillige lag og organisasjoner langs hele kysten.
+Kystsamfunn i Norge har ikke det store mangfoldet av næringer som større kommuner og byer har, og vi er helt avhengig av disse for å drifte våre tilbud til barn og unge i små samfunn.
+Vi er bekymret for at selskapene, som får vesentlig forringet sine rammevilkår ved innføring av grunnrenteskatt, økt arbeidsgiveravgift, økt formueskatt og økt utbytteskatt,
+vil måtte legge budsjetter der de kutter vesentlig eller alt av sponsormidler.
+For Midsund IL vil det, med de økonomiske forpliktelsene vi har, bety konkurs og nedlegging av all aktivitet i Midsund samfunnet. Dette vil ha store konsekvenser for ett helt kystsamfunn, og vi er veldig bekymret også for andre små samfunn som er avhengig av disse primærnæringene som nå foreslås skattlagt.
+Vi håper regjeringen kan sette en fot i bakken og konsekvens utreder hva innføring og økning i grunnrenteskatt vil medføre. En innføring av en eventuell grunnrenteskatt bør tidligst skje etter at en slik utredning har blitt foretatt og bør være på et nivå som gjør det attraktivt for aktørene å fortsette å investere i små lokalsamfunn.
+For Midsund Idrettslag
+Robin Sørlie
 Leder

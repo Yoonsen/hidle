@@ -1,27 +1,26 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000158_sha256_bee748ad4055835f95ce9eb20827e4732e8a990cbf2ba951ecd0b58de6cae106.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000159_sha256_3ea1b2905c8c50c30a7fad9735f8fae2712118307a2a91c48946c2aa519c31f9.html
 kilde_type: html
 avsender: Politiske posisjonen i Saltdal kommune
 uid: 8b28f7ae-fb73-40fa-b19e-2749a5e2aed6
 kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=8b28f7ae-fb73-40fa-b19e-2749a5e2aed6
-Høringssvar fra Politiske posisjonen i Saltdal kommune
+Høringssvar fra Robert Næss
 
 Dato:
-04.01.2023
+01.12.2022
 
-Finansdepartementet
-Postboks 8008 Dep
-0030 Oslo
-Rognan 04.01.2023
-Høringssvar- Høringsnotat - Grunnrenteskatt på havbruk
-Det vises til Finansdepartementets høringsnotat av 28.september 2022. Samme dag fremmet regjeringen forslag om å innføre grunnrenteskatt på norsk havbruk. Saltdal kommune vil bli omfattet av forslaget til grunnrenteskatt på havbruk, og vi vil redegjøre for noen av våre synspunkter.
-Vi er ikke negativ til skatt, men innretninga mener vi er feil, og vil i stor grad gå ut over distrikts kommuner langs kysten. Det er helt greit med lakseskatt, men for familiebedriften Edelfarm i Saltdal kommune vil dette slå hardt ut, og til slutt også for Saltdal kommune. Edelfarm har også gjennom mange år bidradd sterkt til lag, foreninger og frivillighet. Dette vil nå ikke kunne fortsette, og det blir et stort savn for mange.
-Vi er i mot forslaget om grunnrenteskatt på havbruk slik det framlegges nå, men det er rett at næringa blir skattlagt. Vi mener dette må innrettes på en måte som gjør det slik at ikke små familieeide bedrifter som Edelfarm blir så belastet slik vi ser dette gjennom framlegget i høringa. Edelfarm har de siste årene tatt svært store investeringer, og vi er bekymret for framtiden for bedriften med det samlede økte skattetrykket.
-Vi frykter for konsekvensene for de små familieeide havbruksaktører langs kysten og i distriktene, og slik forslaget ligger nå vil dette være særs uheldig for den videre utviklingen av arbeidsplasser og samfunnet langs kysten.
-Saltdal kommune som verdskap for havbruk, har gjennom blant annet gjennom havbruksfondet nytt godt av å tilrettelegge for Edelfarm som har etablert havbruk og skapt viktige arbeidsplasser og viktige inntekter til kommunen. Dette er svært viktig for små distriktskommuner. Det hevdes at havbrukskommuner vil komme enda bedre ut med innføring av grunnrenteskatt. Det er derfor merkelig å se det motsatte skjer, og at de som virkelig kommer godt ut er de store kommunene uten verdiskapning, slik som eks Oslo m.fl.
-Havbruksfondet må heller brukes for å gi kommunene incentiv og mulighet for å legge til rette for næringsvirksomhet gjennom plansystemet, infrastruktur og andre tilbud som i grisgrendte strøk er nødvendig for å opprettholde bo - og bli - lyst. Det som bekymrer oss er hvordan en liten familiebedrift som Edelfarm skal greie omstilling og invistering inn i det grønne skiftet når skattetrykket blir så til de grader skjerpet, som igjen har så stor betydning for en liten distrikts kommune som Saltdal.
-Forslaget, slik det ligger i dag, rammer dermed ekstra hardt for Edelfarm, og for Saltdal kommune so potensielt kan bli en enda mer betydelig næring. Forslaget går i favør av store folkerike kommuner og vil atter føre til en nedgang og belastning av små distriktskommuner.
-Vi ber om at det endelige forslaget til økt beskatning av havbruksnæringen må utformes slik at det totale skattetrykket, herunder grunnrenteskatt, produksjonsavgift, formueskatt og naturressursskatt gir forutsigbare rammevilkår for havbruksnæringa, og at utviklingsmuligheter og verdiskapning ivaretas.
-All skatt på havbruk må innrettes sli at det også i framtiden er mulig å videreutvikle næringa både i hav og på land. For distriktskommunene langs kysten er det viktig at de små familieeide bedriftene ikke får urimelig økt beskatning. Vi ber om at det endelige forslaget sikrer at verdskommuner og verts fylkeskommuner får minst 60% av inntektene fra havbruket. Inntektene fra havbruket må ikke inngå i skatteutjevninga over inntektssystemet.
-Med hilsen
-Rune Berg Sverre Breivik Ole Bøhlerengen
-Saltdal Senterparti Saltdalslista Saltdal Høyre
+Den foreslåtte frigrensen for grunnrenteskatt vil medføre at selskapene ganske raskt vil tilpasse seg og man risikerer at ingen selskap vil betale grunnrenteskatt. For samfunnet vil likevel verdiene bli negative da selskapene vil bruke kostnader på å tilpasse seg samt at mange selskap vil få en størrelse som er mindre enn optimalt.
+Tilpasning
+I forslaget til grunnrenteskatt kan man selge laks for opptil 400 millioner kroner i året uten å betale grunnrenteskatt. Hvis Per og Jens eier et selskap sammen som selger for 800 millioner kroner i året så kan de unngå grunnrenteskatten ved å splitte opp selskapet i to og så eie hver sin del. I selskap hvor det bare er én eier må man på det åpne markedet. Men siden oppdelingen av selskapet senker skatten fra 62 til 22 prosent og dermed mer enn dobler resultat etter skatt bør det bli trivielt å finne en ny eier.
+Siden det bare er deler av virksomheten som gir grunnrenteskatt kan det være fristende å spørre om sjømatselskapene trenger å
+produsere
+laksen? Det høres kanskje ut som et dumt spørsmål. Men husk at Apple er ansvarlig for design og software og lar andre ta seg av produksjonen. Det samme gjelder Hennes&Mauritz som forlengs har overlatt produksjonen av klær til andre. Sjømatselskapene kan derfor ta en tilsvarende rolle som Wilhelmsen Holding har innen shipping. Wilhelmsen drifter en stor del av verdens skipsflåte og dette gir de en lønnsom og lite kapitalkrevende virksomhet. For skipseierne er dette en løsning som gjør at de kan fokusere på risikostyring og avkastning.
+Dette kan gjøres ved at de store aktørene skiller ut eierskapet i merdene hvor fisken vokser. Selve eierskapet her krever mye kapital i form av konsesjoner. I tillegg vil volatile laksepriser medføre at inntjeningen kan svinge mye. Denne virksomheten passer dermed godt for finansielle investorer. De tradisjonelle sjømatselskapene kan
+drifte
+merdene og stå for det praktiske rundt salg og innkjøp slik at eierskapet i merdene kan gjøres om til selskap uten egne ansatte. Sjømatselskapene vil trolig få en god pris for selskapene da kjøperne bare må betale 22 prosent skatt. Oppgjøret for selskapene kan betales ut til aksjonærene i form av ekstraordinære utbytter. Dermed kan eierne av de store sjømatselskapene motta mesteparten av verdien i utbytte og i tillegg eie et industriselskap med stabil og god lønnsomhet.
+Vi så i siste konsesjonsrunde at prisene på nye konsesjoner falt betydelig. Det betyr at den fremtidige lønnsomheten ligger an til å bli enda bedre i årene fremover for de som ligger under grensen for grunnrenteskatt.
+Er det virkelig så lett?
+Det er usikkert hvor stor frigrensen egentlig er. En omsetning på 400 millioner kroner i året er basert på den antyde frigrensen på opptil 5000 tonn og lakseprisen så langt i år på 80 kr/kg.
+I flere medieoppslag er Finansministeren
+forklart frigrensen med at de ønsker å ramme de rikeste sjømatselskapene og et yndet eksempel er steinrike John Fredriksen.
+John Fredriksen er største eier i Mowi men han eier også mye annet og Mowi-aksjene utgjør bare én prosent av hans samlede verdier. For nordmenn flest kan konsekvensene bli større. De aller fleste nordmenn har en pensjonsordning hvor deler av verdiene er plassert i norske aksjer. I et typisk norsk aksjefond utgjorde sjømatsektoren hele 11 prosent av verdiene før aksjekursene kollapset.
+De som derimot er vinnerne er de aller fleste sjømatselskapene langs kysten hvor eierne kan håve inn flere titalls millioner kroner i året uten å måtte betale grunnrenteskatt. De vil til og med kunne øke lønnsomheten i årene fremover siden prisen på nye konsesjoner har falt.

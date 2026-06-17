@@ -1,26 +1,25 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000075_sha256_eee143cec59bbc03d8a2406c038a8ae3f24b9c3841fc8bd7a3f92dea17b0ed4b.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000078_sha256_671a0aeb8e8aa87ce8dfcb9d721e968c7d15f540f252cda61f4db86921a4c314.html
 kilde_type: html
 avsender: Jørgen Christiansen
 uid: b27bc376-f08b-44b5-ba8b-17f884f627e4
 kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=b27bc376-f08b-44b5-ba8b-17f884f627e4
-Høringssvar fra Jørgen Christiansen
+Høringssvar fra KN Entreprenør AS
 
 Dato:
-22.12.2022
+20.12.2022
 
-Det vises til departementets høringsbrev av 28. september 2022.
-Undertegnede arbeidet som kommunikasjonsdirektør i daværende Marine Harvest fra januar 2009 til juni 2012. Jeg har etter dette jevnlig arbeidet som rådgiver for virksomheter innen fiskeri, havbruk og videreforedling. Gjennom dette arbeidet har jeg hatt tett kontakt med næringen, forvaltningen, fagmiljøer, politikere og andre interessenter.
-Jeg har ingen oppdrag knyttet til den pågående prosessen, men en klar interesse i at næringen fortsetter å utvikle verdier, og trekker med seg kysten i denne utviklingen.
-Jeg vil her helt kort påpeke et par spesielle forhold ved den foreslåtte skatten, og dialogen mellom næringen og departementet.
-Som økonom finner jeg det pussig at departementet mener å vite at det eksisterer noen ekstraordinær avkastning (rente) fra bruk av naturen innen havbruk. Det var ingen slik ekstraordinær avkastning i næringen i ti-årene frem til 2012. Den ekstra høye avkastningen de senere årene ser ut til å være forårsaket av at myndighetenes reguleringer har begrenset tilbudet av laks slik at prisen har økt kraftig, noe som har gitt opphav til en svært høy avkastning. Dette er da en regulatorisk rente og ikke noen naturressurs-rente. Hvorvidt den typen ekstraordinær avkastning kan beskattes, og i så tilfelle hvordan, bør utredes nøye.
-Dersom avkastningen skal beskattes, bør prinsippet om «samme hav, samme båt», videreføres. Trafikklyssystemet er kjent som et regulatorisk grep for å håndtere risiko for at næringen skader miljøet. Ordningen har også den effekten at den plasserer havbruks-selskap som dyrker mat i samme hav, i «samme båt» regulatorisk, slik at selskapene i samme sone er tjent med å samarbeide om risiko-reduserende drift.
-Denne tankegangen bør videreføres ved en eventuell innføring av en ekstra skatt. De som tjener på at det dyrkes mat i det samme havet bør i størst mulig grad «sitte i den samme båten» og høste gevinster sammen. Dette betyr i praksis at de lokalmiljøene som tilrettelegger for god og lønnsom drift i næringen også bør høste gevinster fra denne innsatsen.
-Et eksempel på behovet for denne tilnærmingen, er de havbrukslokalitetene som med fordel kan flyttes slik at man oppnår bedre drift, bedre fiskehelse og lavere miljø-risiko. Slike forbedringer krever et samarbeid mellom havbrukere, forvaltning og lokal-samfunn som det nå ikke umiddelbart er lett å se at man tjener på lokalt.
-Dersom en ny beskatning kun resulterer i at skattene sendes til en allerede velfylt statskasse i hovedstaden, uten tydelige insentiver til forbedringer lokalt, så kan samfunnet gå glipp av betydelige effektivitets-gevinster.
-I Norge er vi pionerer i «den blå åkeren». Vi må innrette oss deretter, og utvikle forvaltningsmodeller og beskatningsmodeller som fungerer lokalt der verdiene skapes, og løser utfordringer ingen tidligere har løst. Gode økonomiske prinsipper må finne sin anvendelse på måter som er verdiskapende i virkeligheten og ikke bare ser bra ut på papiret. Det ser ut til at man i arbeidet med den foreslåtte ordningen ikke har tatt seg tid til å tenke godt gjennom dette.
-I denne sammenhengen merker jeg meg at næring og forvaltning ikke er spesielt gode til å snakke med hverandre. Man snakker i stedet til hverandre. Tilsnakk fungerer generelt dårlig som kommunikasjon. De som opplever at de ikke blir hørt, hever stemmen. Det virker som kjent ikke, men skaper støy.
-Jeg tillater meg derfor å foreslå to tiltak for Finansdepartementet. Først bør departementet vise vilje til å lytte. Det gjøres best ved at ansatte bytter ut kontorklær med arbeidsklær, tar en tur ut på kysten, mater fisk og snakker med røkterne. Dere vil bli godt mottatt av bra folk.
-Deretter kan departementet invitere noen ansatte i selskapene tilbake til Oslo for å lære litt til om budsjettbalansen og behovet for å unngå at noen næringer over tid får drive med super-profitt. De har godt av å lytte litt, de også.
-Denne kommunikasjonsformen virker bedre enn møter mellom statsråden og toppene i næringsorganisasjonene.
-Med ønske om et bedre 2023.
-Jørgen Christiansen
+Grunnrenteskattens betydning for den lokale entreprenørvirksomheten på Frøya og Hitra.
+KN Entreprenør AS er et lokalt entreprenørselskap som har sin hovedbase på Frøya.
+Selskapets 52 ansatte er i all hovedsak hjemmehørende på Frøya eller Hitra. KN Entreprenør er ett av flere selskap som har vokst på den lokale aktiviteten og veksten i øyregionen.
+Veksten har vært fra 7 ansatte og 6 MNOK i omsetning i 2007 til en omsetning på 152,8 MNOK i 2021
+.
+De siste års blomstende vekst og selskapsetableringer i øyregionen favner mange tverrfaglige områder og vi har opplevd en stor tilflytting av kompetanse utenifra. Den kraftige veksten i næringsetableringer og tilflytting, har medført behov for opparbeidelse og utvidelser av infrastruktur som vei, vann og avløp i tillegg til opparbeidelse av små- og store eiendomsutviklingsprosjekter. Nærmere 60% av vår omsetning kommer direkte fra virksomhet som er tilknyttet oppdrettsnæringen.
+Denne veksten til KN Entreprenør er kun muliggjort som følge av oppdrettsindustriens ringvirkninger og det konstante behovet for næringsutvikling og arbeidskraft, som har gjort Hitra og Frøya til vinnere på landsbasis når det kommer til befolkningsvekst.
+KN Entreprenør AS med sine tilknyttede søsterselskaper, sysselsetter i dag mer enn 60 personer og har investert i nytt verksted, lager- og administrasjonsbygg for mer enn 50 MNOK i tillegg til anleggsmaskiner og materiell.
+Innen utgangen av 2026 var forventningen at antall ansatte ville passere 100 personer.
+Regjeringens forslag om en grunnrentebeskatning på 40% i tillegg for oppdrettsnæringen, har allerede medført avlysninger og utsettelser av planlagte prosjekter for vår entreprenørvirksomhet og noen av våre søsterselskaper.
+I tillegg til avlysninger og utsettelser av nye prosjekter, kommer økt arbeidsgiver avgift, økt formuesbeskatning, for å nevne noe.
+Driftsresultatet for entreprenørbransjen ligger typisk på 2-5%, og vi er helt avhengig av stabile og forutsigbare rammevilkår for å drive lønnsomt og sikre arbeidsplassene til våre ansatte.
+Når man legger de nevnte økte skatter og avgifter sammen med økning i dieselpriser på 70% og en dobling av rentekostnadene for investeringer, blir fremtiden svært utfordrende for aktører i bransjen.
+Dette gjør at våre planer om vekst må reverseres kraftig og vi må nå i stedet forberede en reduksjon i vår aktivitet.
+KN Entreprenør AS ber derfor Regjeringen innstendig om å utsette innføringen av grunnrentebeskatningen og heller sikre en god og grundig evalueringsprosess som ivaretar vårt felles ønske om økt norsk verdiskaping for kystkommunene.

@@ -1,4 +1,4 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000153_sha256_42f7e93eeecee1e623666357ee7ae262376dad3680a1b0329f5fbd491a35bae6.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000154_sha256_6d02ce814fefea79a60d17bb99b920375e2239b175599e47a441ce1acf973843.html
 kilde_type: html
 avsender: Person som ikke har oppgitt navn (596936)
 uid: 7819d92b-3ee2-45d6-a20b-a74850b20a44
@@ -6,16 +6,9 @@ kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-ha
 Høringssvar fra Person som ikke har oppgitt navn
 
 Dato:
-06.12.2022
+04.01.2023
 
-Grunnrenteskatten fører til dette for meg:
-Den 28.sep.22 ble Grunnrenteskatt på havbruk» publisert.
-Dette har ført til så langt:
--
-35 milliarder i investeringer stanset pr november (mange vil aldri bli gjennomført)
--
-Hundrevis av permitterte og oppsigelser i leverandør-industrien
-For meg vil det bety::
--
-Som ansatt i leverandørindusrien til oppdrettsnæringen er det dessverre med stor sannsynlighet at jeg vil bli
-oppsagt i 2023. Dette pga stans i investeringer og stopp i salg til oppdrettsnæringen, takket være forslaget om grunnrenteskatt. I en alder av 60 år vil det bety at arbeidsledighet og veldig vanskelig, nesten umulig å få ny jobb. Trodde aldrig at en AP/SP regjering ville fremme forslag som fører til at jeg skulle bli arbeidsledig. Ber innstendig om at grunnrenten fjernes slik at investeringene kommer på plass snarest som vil føre til at jeg beholder jobben min. Lite hyggelig å gå inn i julen med så dårlige fremtidsutsikter.
+Genetisk rente - Del 2
+Vedlagt er bakgrunnsinfo for effekten av den genetiske renten.
+Med vennlig hilsen
+Ola Nordmann

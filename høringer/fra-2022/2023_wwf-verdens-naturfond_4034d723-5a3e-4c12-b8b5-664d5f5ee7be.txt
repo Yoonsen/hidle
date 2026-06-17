@@ -1,16 +1,17 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000206_sha256_794b269754f7b82ddbcc66e134cfb56206b3821d2093b099276476f2502e0177.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000207_sha256_947fc1a405601a56d175d67ee16e61ad6c88eab5454dae4fd46d1248e6694a8c.html
 kilde_type: html
 avsender: WWF Verdens naturfond
 uid: 4034d723-5a3e-4c12-b8b5-664d5f5ee7be
 kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=4034d723-5a3e-4c12-b8b5-664d5f5ee7be
-Høringssvar fra WWF Verdens naturfond
+Høringssvar fra VOLT Service
 
 Dato:
-22.11.2022
+03.01.2023
 
-Vi viser til
-høring om grunnrenteskatt på havbruk
-med frist 4. januar 2023.
-Den største delen av verdiskapingen i havbruksnæringen er knyttet til naturressursene, heller enn innsatsfaktorene i produksjonen. WWF Verdens naturfond mener derfor det er fornuftig at de som forbruker felles naturressurser betaler tilbake til fellesskapet. Samtidig er det viktig å understreke at det er snakk om verdier og tjenester produsert av økosystemene.
-Derfor bør grunnrenteskatten ikke bare gå tilbake til befolkningen, men også tilbake til naturen. Særlig når disse næringene også påvirker økosystemene negativt. Eksempelvis påvirker oppdrettsindustrien villaksbestandene negativt og har en stor påvirkning på lokale økosystemer.
-Det er et stort behov for tiltak for å bevare og restaurere naturmangfold i Norge. WWF vil derfor be om at grunnrenteskatten også kommer naturen til gode. Både for naturen sin del, for befolkningen sin del, og ikke minst for næringslivets del som er avhengig av økosystemene de påvirker.
+VOLT Service er et selskap innen havbruksnæringen som opererer fire bløggefartøy for frakt av oppdrettsfisk. I tillegg har selskapet to nybygg under konstruksjon. I 2023 vil selskapet ha en bemanning på rundt 80 årsverk. Den planlagte innføringen av grunnrenteskatt på havbruk har ført til at VOLT Service har lagt planer om ytterligere to nybygg på vent. Selskapet har hatt fokus på å bygge fartøyene sine i Norge, noe som har gjort dem til en stor kunde for norske verftsindustri- og maritime leverandører. Selskapet har også satset på lav- og nullutslippsteknologi på sine fartøyer.
+VOLT Service mener at havbruk er en særdeles viktig del av Norges økonomi og samfunn, og at det derfor er viktig å legge til rette for en lønnsom og bærekraftig havbruksnæring. Samtidig mener vi at skatter og avgifter på havbruk ikke bør bidra til uønskede effekter eller hindre vekst, utvikling og det grønne skifte i næringen.
+Derfor mener vi at en eventuell innføring av grunnrenteskatt på havbruk bør vurderes nøye, og at eventuelle negative konsekvenser for næringen, lokalsamfunn og underleverandører som er avhengige av havbruk, må tas hensyn til. Det bør også vurderes om en slik skatt vil være rettferdig og sosialt berettiget i et nasjonalt perspektiv.
+Vi mener videre at det bør tas hensyn til eksisterende skatter og avgifter på havbruk, og at det bør vurderes om en eventuell grunnrenteskatt vil være forholdsmessig og ikke gi uheldige skjevheter i skattesystemet.
+I vurderingen av en eventuell grunnrenteskatt på havbruk, bør det også tas hensyn til den internasjonale konkurransesituasjonen for norsk havbruk. Det er viktig at skatter og avgifter ikke bidrar til å svekke Norges konkurranseevne sammenlignet med andre havbruksland. Norske oppdrettsaktører og investorer vil ved innføringen av en høy grunnrenteskatt få vesentlig mindre frie midler til å drive videreutvikling av oppdrettsmetoder og produktutvikling. Dette vil over tid svekke konkurransekraften til norske aktører som blir truffet av grunnrenteskatten.
+Samtidig må det tas hensyn til at havbruksnæringen også har store positive ringvirkninger for andre deler av samfunnet, for eksempel i form av andre arbeidsplasser og verdiskaping i lokalsamfunn som mer eller mindre er bygget rundt oppdrettsvirksomhet. Det er derfor viktig at eventuell grunnrenteskatt på havbruk er tilpasset slik at den ikke hemmer denne positive utviklingen.
+Alt i alt mener vi at en eventuell innføring av grunnrenteskatt på havbruk bør utsettes og eventuelt innføres når den er tilstrekkelig utredet og alle konsekvenser av den er beskrevet og vurdert.

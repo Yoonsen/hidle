@@ -1,17 +1,13 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000068_sha256_797c747b13ec6784476f8d59b76668e399a7cadd26c8f2e31ad124a2d7a53792.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000069_sha256_0523c88c2806d5a78f21d0c91407fc523ae4305b27bef35e98378ca55e6605e1.html
 kilde_type: html
 avsender: Hitra kommune
 uid: bd9521f2-5d38-41b1-92d4-1153fb5027af
 kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=bd9521f2-5d38-41b1-92d4-1153fb5027af
-Høringssvar fra Hitra kommune
+Høringssvar fra Hussain Rafiq Iqbal Javed
 
 Dato:
-03.01.2023
+28.09.2022
 
-Vedtak i Hitra kommunestyre i sak 90/2022 den 15.12.2022:
-Høringsuttalelse - Grunnrenteskatt på havbruk
-Hitra kommune er sterkt imot forslaget om grunnrenteskatt på havbruk slik det nå foreligger. Utformingen av grunnrenteskatten må utformes gjennom dialog med næringen og vertskommunene slik at partene kan bli omforent med en akseptabel innretning på skatten.
-Hitra kommune mener derfor at innføringen av grunnrenteskatt på havbruk må utsettes til 01.01.2024 slik at partene sammen kan finne akseptable løsninger som ikke hindrer videre vekst, investeringslyst og satsing på FOU-tiltak som fremmer bærekraftige løsninger for næringen.
-Hitra kommune mener videre at det må konsekvensutredes hvilken betydning grunnrenteskatten har for selve havbruksnæringen (1.ledd), leverandører/underleverandører (2.ledd) og andre indirekte næringer (3.ledd). I tillegg må man også se på hvilke konsekvenser dette har for lokalsamfunnene langs kysten som helhet.
-Hitra kommune mener at inntekter fra grunnrentebeskatningen må i hovedsak gå til vertskommuner for havbruk. Hitra kommune mener at departementet og staten undervurderer de faktiske kostnadene kommunene har knyttet til å inneha rollen som vertskommune.
-Hitra kommune viser for øvrig til uttalelsen fra Nettverk for fjord- og kystkommuner (NFKK) og gir sin fulle støtte til deres høringsinnspill.
+Høringsforslaget er meget bra.
+Det er en skremmende utvikling i Norge med forretningsdrivende og mektige organisasjoner som gjør det de kan for å unndra seg sitt ansvar for å dele av godene de har oppnådd ved at andre har gitt dem muligheten og tillit til å utnytte våre felles ressurser.
+Jeg håper forslaget fremmes og får flertall i Stortinget.

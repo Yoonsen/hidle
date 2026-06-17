@@ -1,14 +1,58 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000062_sha256_904a05ea55dc1186b0ff87334b397a378abe4b824361b77ec2392765642fcc82.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000063_sha256_cff352152fbeac65f4a97fa2d3e0ce48f4ee47fa9284bb4daac230e4a1ffe14b.html
 kilde_type: html
 avsender: Hammerfest kommune
 uid: 1bf82e9a-2a9d-48d5-b842-5c87214b3048
 kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=1bf82e9a-2a9d-48d5-b842-5c87214b3048
-Høringssvar fra Hammerfest kommune
+Høringssvar fra Herøy kommune
 
 Dato:
-12.12.2022
+15.12.2022
 
-Grunnrenteskatt på havbruk - høringsuttalelse. Hammerfest kommunestyre 8.12.22 - sak 125/22 vedtak:
-Hammerfest kommunestyre er positiv til at kommunene og staten bør få en rettferdig og større andel av det som skapes ved utnyttelse av fellesskapets naturressurser slik som det i dag er fra petroleums- og kraftnæringen.
-Kommunestyre er positiv til at det innføres grunnrenteskatt på havbruk. For å imøtekomme havbruksnæringens ønske om fremtidsrettet utvikling må grunnrenteskatten få en innretning hvor målrettet omstilling mot miljøkrav og bærekraft, gir fordeler i skattesammenheng.
-Innretninga av ordningen må derimot gjennomgås nøye og det må være gode prosesser sammen med næringen, leverandørindustri og andre berørte aktører som kommunene. Størrelsen på grunnrenteskatten må vurderes, gradvis innføring og evt andre vesentlige faktorer bør vurderes som eksempelvis produksjonsavgift.
+Herøy kommunestyre viser til høringsnotatet «Grunnrenteskatt på havbruk» av 28. september 2022 og uttaler følgende:
+Innledning
+:
+I 2022 er det 50 år siden den første smolten ble satt ut i Herøy, Nordland og ei ny næring var i oppstartsfasen. I løpet av disse årene har næringa hatt mange opp -og nedturer, utvikling og avvikling, men har likevel bidratt til arbeidsplasser og optimisme i kommunen.
+I 2022 frykter vi nå for fremtidens arbeidsplasser, ikke bare innen havbruksnæringa, men også for leverandørindustrien. Bransjen bidrar med arbeidsplasser, velferd og skatteinntekter. Havbruksselskapene pløyer overskudd ned i utvikling av bedriften og vekst i annet lokalt næringsliv. Folketallet har økt i vår kommune og lokale eiere har forvaltet sine verdier på en god måte, også for fellesskapet. Færre investeringer og færre arbeidsplasser vil bli skapt når optimismen faller.
+Dette er enkel matematikk, ingen skremselspropaganda som næringa blir avfeid med i dag. Det myndighetene sier med denne politikken er at de er i bedre stand til å bygge næringsliv og øke sysselsetting i distriktene enn folk langs norskekysten. Regjeringens kurs vil trolig skape flere offentlig arbeidsplasser i sentral strøk innenfor byråkrati og forvaltning, men færre blant de som skaper verdiene.
+Manglende konsekvensutredning:
+I Herøy kommune har vi to lokaleide selskap og ett stort slakteri. Dersom kostnadene ved driften av dette slakteriet ikke er fradragsberettiget, gir staten eierne et incentiv til å flytte sin slaktevirksomhet. Det er mulig at staten synes dette er en god løsning for å maksimere grunnrenteskatten, men for en kommune som Herøy er dette katastrofalt.
+Kommunestyret konstaterer at det legges opp til at havbrukskommunene skal få beholde deler av ressursskatten. Isolert er dette en tankegang vi støtter, men vil samtidig peke på at antallet arbeidsplasser i privat sektor er viktigere for folketallet, og dermed Herøy kommunes samlede inntekter, enn litt mer skatteinntekt.
+Herøy kommune har følgende innspill til forslaget om å innføre grunnrenteskatt på havbruk:
+1.
+Herøy kommune krever at regjeringen utsetter ikrafttredelsen av endringen til 1.1.24. Vi ber regjeringen om å foreta nødvendige endringer i forslaget for å sikre et skattesystem som ivaretar mangfold og privat lokalt eierskap, samt sikrer langsiktige og forutsigbare rammevilkår som bidrar til økte investeringer og verdiskapning for næringen. En slik vurdering og utredning må for øvrig harmoniseres best mulig med de kommende utredninger fra hhv. «Skatteutvalget» (Rattsø) og «Havbruksutvalget» (Nøstbakken).
+2.
+Herøy kommune mener at den totale skattebelastningen for havbruksnæringen må utredes for å sikre utvikling, vekst og norske eierskap.
+3.
+Bunnfradraget må økes
+4.
+Herøy kommune savner en reell diskusjon knyttet til om det faktisk er grunnlag for en grunnrente i havbruk eller om årsaken til den ekstraordinære avkastningen skyldes reguleringsrente.
+5.
+Herøy kommune mener at modellen for grunnrentebeskatning er unødvendig byråkratisk og vil kreve mye svært mye oppfølging for å fungere i praksis.
+6.
+Herøy kommune mener at modellen for grunnrentebeskatning er heftet med mye usikkerhet og gir svært uheldige virkninger på bekostning av vertskommunene, og at den foreslått modellen bidrar til sentralisering av kapital fra vertskommuner og over til mere sentrale strøk.
+Bunnfradrag
+I forslaget er det lagt opp til et bunnfradrag på mellom 4000-5000 tonn i maksimal tillatt biomasse (MTB). Selskaper som har en MTB på mindre enn 4000-5000 tonn er ikke tiltenkt å bli pålagt å betale grunnrenteskatt.
+Det er uttalt at forslaget om grunnrenteskatt kun skal treffe de største aktørene i markedet, tilsvarende omtrent en tredjedel av næringen. Analyser av den foreslåtte modellen med bunnfradrag på 4000-5000 tonn viser at bunnfradraget er satt såpass lavt at det i praksis berører nærmere to tredjedeler av næringen, herunder små lokalt eide selskaper.
+Etter det vi forstår er det regnet på feil tallgrunnlag ved at det er tatt utgangspunkt i både tillatt MTB og produsert mengde. I tillegg er det lagt til grunn en lavere reell oppnådd salgspris enn normprisen. Det betyr i praksis at grunnrenteskatten vil slå inn rundt 1830 tonn MTB.
+Vi mener at bunnfradraget er satt på feil tallgrunnlag, noe som medfører at grunnrenteskatten ikke vil skåne de mindre lokalt eide selskapene. Dette er stikk i strid med regjeringens intensjon med bunnfradraget. Ønskes det at grunnrenteskatten kun skal treffe de største, må bunnfradraget økes med minst ti-gangen.
+Ambisjoner om økt sjømatproduksjon og videreforedling
+Utviklingen av havbruksnæringen har for Herøy kommune vært det samme som utvikling av hele kommunen. Arbeidsplassene innen havbruk utgjør fremtidsrettede sysselsettinger som er stabile, og som utvikles til flere kompetansearbeidsplasser. Forutsigbare og stabile rammevilkår for sektoren som legger utvikling og vekst til grunn er svært viktige distriktspolitiske virkemidler. Grunnrenteforslaget på havbruk, slik det foreligger, skader den videre utvikling.
+En velfungerende skatte- og avgiftspolitikk for en distriktskommune, er den politikk som best bidrar til lokal verdiskapning og produksjon i det private næringslivet. I forslaget til loven §19-8 listes det opp kostnader som skal være fradragsberettiget. For Herøy kommunestyre kan det se ut som om kostnader ved slakting og bearbeiding av laks og ørret ikke er fradragsberettiget før grunnrenten beregnes. Dersom dette medfører riktighet, vil det gi sterke incentiv til at mest mulig av bearbeidingen av laks og ørret flyttes dit produksjonen er billigst.
+Underleverandører
+Skatteøkningen vil primært omfatte de bedriftene på kysten som produserer laks og ørret, men også andre. I Herøy vi direkte leverandører, underleverandører og tredjeparter utgjøre mange flere arbeidsplasser enn oppdretterne selv, og gi svært negative ringvirkning til andre bedrifter. Som en av de største arbeidsgiverne i mange små kommuner vil derfor en nedgang i aktiviteten medføre større usikkerhet for andre fremtidige arbeidsplasser og vekstmuligheter. I Nordland fylke står havbruksnæringen for 3600 arbeidsplasser. 2700 og 900 i leverandørindustrien.
+Fordeling av proveny til kommunal sektor
+Det er tydelig uttalt at provenyet som hentes inn med forslaget om grunnrenteskatt på havbruk skal fordeles likt mellom staten og kommunal sektor. Det er videre kommunisert på en måte som har skapt et etterlatt inntrykk av at det er vertskommunene som eksklusivt skal tilgodeses.
+Forslaget som er på høring, vil ikke bidra til dette. Herøy kommune mener det må vurderes om det blir riktig og rettferdig i forhold hvem som er berettiget kompensasjon for ulemper og hvem det er som bør få insitament. For øvrig er forslaget rigget slik at det nødvendiggjør både såkalte «ekstrabevilgninger», og årlige bevilgningsvedtak i Stortinget. Analyser gjennomført av Kontali Analyse viser at det totale provenyet forslaget legger opp til å hente inn, er kraftig underestimert. Når kommunenes inntekter skal fordeles gjennom produksjonsavgift og naturressursskatt (fastsatt til 750 millioner NOK hver) og en ekstrabevilgning (fastsatt til 325/400 millioner i 2023), blir kommunalsektors andel langt lavere enn halvparten. Forslaget støtter altså ikke opp om uttalelsene om at kommunal sektor skal få halvparten.
+Nødvendigheten av forslaget?
+Kommunestyret vil også stille spørsmål ved nødvendigheten av forslaget.
+Havbruksnæringen bør selvsagt betale skatt og avgifter på lik linje med andre næringer, og kommuner som gir tilgang på naturressurser bør få kompensasjon for det. Slik sett er det fornuftig av regjeringen å se på hvordan man skattlegger. I dag betaler havbruksnæringa for vekst til staten, havbrukskommunene og fylkene. I tillegg kommer produksjonsavgift til kommunene og fylkene, også kalt lakseskatten, som ble innført i 2021. Denne skatten ble innført i samarbeid med næringen, men da med forventninger om at ideen om grunnrenteskatt ble lagt vekk. Næringen opplever allerede i dag kravene for vekst og produksjonsavgift som en grunnrenteskatt i havbruket.
+Det er også grunn til å peke på at konsekvensene av forslaget har vært store:
+-Børsverdien til de børsnoterte selskapene falt med cirka 60 milliarder kroner.
+-Det er gjennomført en mislykket auksjon.
+-Selskap etter selskap har varslet at de utsetter/avlyser investeringer i milliardklassen.
+Herøy kommune er ukomfortable med at statens skattepolitikk har påført oss – og en rekke andre lokalsamfunn – unødvendig risiko.
+Oppsummering knyttet til særskilte utfordringer ved forslaget om grunnrenteskatt på havbruk
+Herøy kommunestyre mener at modellen for grunnrentebeskatning er heftet med mye usikkerhet og gir svært uheldige virkninger på bekostning av vertskommunene.
+Regjeringen har fremmet forslaget uten en grundig konsekvensutredning. Vi frykter de langsiktige virkningene dersom forslaget står seg slik det er foreslått. Forslaget slik det er fremlagt bør forkastes og det bør settes i gang en grundig prosess som sikrer politikk som ivaretar nasjonale mål om vekst og økt bearbeiding i samspill med vertskommunene og næringen selv. En slik vurdering og utredning må for øvrig harmoniseres best mulig med de kommende utredninger fra h.h.v. «Skatteutvalget» (Rattsø) og «Havbruksutvalget» (Nøstbakken).
+Herøy kommunestyre ber regjeringen snarest om å sette i gang en grundig konsekvensutredning av forslaget og vurdere det opp imot de utredninger vi nevner over og de langsiktige målene og ambisjonene for økt sjømatproduksjon og mer bearbeiding på land i Norge. Det er videre svært viktig at regjeringen forkaster forslaget om bruk av normpris istedenfor markedspris og reelle inntekter, slik at vi opprettholder og videreutvikler arbeidsplasser på land i videreforedlingsindustrien. Regjeringen må også sikre at vertskommunene og -fylkene får halvparten av det totale provenyet som hentes inn, i tråd med de politiske signalene som er gitt, og sikre forutsigbarhet ved å hjemle vertskommunenes inntekter fra havbruksnæringen i egen forskrift.
+Forslaget om grunnrenteskatt på havbruk, slik det foreligger kan i ytterste konsekvens være nærings- og distriktsfiendtlig politikk, som i verste fall vil kunne medvirke til å svekke og stoppe utviklingen av Norge sin viktigste framtidsnæring. Kapitalen og produksjonen kan tilpasse seg og flytte. Vil vi være med på å gjøre levende kystsamfunn til den store taperen? Er det greit at kysten taper sjansen for flere arbeidsplasser? Vil regjeringen sine gode intensjoner stoppe lokal verdiskaping, i stedet for å bygge landet?

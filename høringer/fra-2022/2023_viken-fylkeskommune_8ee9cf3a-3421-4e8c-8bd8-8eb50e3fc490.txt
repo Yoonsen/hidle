@@ -1,17 +1,16 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000204_sha256_572db5fcae085512815fe08d1a2e77fdd4ba64b2d36dae6884066075ea68076b.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000206_sha256_794b269754f7b82ddbcc66e134cfb56206b3821d2093b099276476f2502e0177.html
 kilde_type: html
 avsender: Viken fylkeskommune
 uid: 8ee9cf3a-3421-4e8c-8bd8-8eb50e3fc490
 kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=8ee9cf3a-3421-4e8c-8bd8-8eb50e3fc490
-Høringssvar fra Viken fylkeskommune
+Høringssvar fra WWF Verdens naturfond
 
 Dato:
-20.12.2022
+22.11.2022
 
-Fylkesrådet i Viken fylkeskommune har fattet følgende vedtak om høringsuttalelse den 16. desember 2022:
-Regjeringens forslag berører viktige prinsipper om hvordan vi forvalter fellesskapets verdier. Grunnrenteskatt og naturressursskatt handler i hovedsak om at fellesskapet stiller sine naturressurser til disposisjon for et selskap som får store overskudd som følge av dette.
-Regjeringens forslag om å innføre grunnrenteskatt på havbruk sammenfaller med fylkesrådet i Viken sin samarbeidsplattform med det prinsipielle syn at naturressursene er vårt felleseie. Selskaper som gis tillatelse til å utnytte naturressursene og som får store overskudd som følge av avkastningen fra naturressursene, bør betale deler av overskuddet tilbake til fellesskapet.
-Dette vil være viktig for det norske samfunnet med tanke på næringsutvikling og skatteinntekter i fremtiden.
-Belastningen av å ha
-et havbruk i sine hav-, sjø- og kystområder har både plassmessige konsekvenser og betydelige miljøkonsekvenser for havbunnen, vannkvaliteten og for de nære fiskearter og fiskeområder ellers. Det kan være at systemet for grunnrenteskatten bør inneha en belønningsandel eller incentiv for å forurense nærområdene mindre der de ligger.
-Viken fylkeskommune slutter seg derfor til regjeringens forslag på prinsipielt grunnlag.
+Vi viser til
+høring om grunnrenteskatt på havbruk
+med frist 4. januar 2023.
+Den største delen av verdiskapingen i havbruksnæringen er knyttet til naturressursene, heller enn innsatsfaktorene i produksjonen. WWF Verdens naturfond mener derfor det er fornuftig at de som forbruker felles naturressurser betaler tilbake til fellesskapet. Samtidig er det viktig å understreke at det er snakk om verdier og tjenester produsert av økosystemene.
+Derfor bør grunnrenteskatten ikke bare gå tilbake til befolkningen, men også tilbake til naturen. Særlig når disse næringene også påvirker økosystemene negativt. Eksempelvis påvirker oppdrettsindustrien villaksbestandene negativt og har en stor påvirkning på lokale økosystemer.
+Det er et stort behov for tiltak for å bevare og restaurere naturmangfold i Norge. WWF vil derfor be om at grunnrenteskatten også kommer naturen til gode. Både for naturen sin del, for befolkningen sin del, og ikke minst for næringslivets del som er avhengig av økosystemene de påvirker.

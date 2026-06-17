@@ -1,81 +1,18 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000086_sha256_c24fdb8eb05abda4d2198dc537f76b3bf2956b86ae73db12ebab89112d2a862e.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000093_sha256_3e3219eb2d34d88c1b9e6262cfd9930eaf0c91ad4147ff14c2d6c39d0895ab56.html
 kilde_type: html
 avsender: Kristiansund og Nordmøre Næringsforum
 uid: 9f388cdd-a413-470c-8126-67899e3870ea
 kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=9f388cdd-a413-470c-8126-67899e3870ea
-Høringssvar fra Kristiansund og Nordmøre Næringsforum
+Høringssvar fra Kvitsøy kommune
 
 Dato:
-03.01.2023
+20.12.2022
 
-Til Finansdepartementet
-Kristiansund 3. januar 2023
-INNSPILL TIL HØRING - GRUNNRENTESKATT PÅ HAVBRUK (ref. 22/4989)
-Vi viser til Finansdepartementets høringsnotat som gjelder grunnrenteskatt på havbruk datert 28.9.2022. Kristiansund og Nordmøre Næringsforum (KNN) vil med dette komme med noen innspill angående forslaget.
-KNN består av 330 medlemsbedrifter på Nordmøre og en stor del av disse har tilknytning til havet.
-Dette er også en næring som gir stor verdiskaping i regionen og som har et stort potensial for vekst fremover.
-Oppsummerende vurdering
-Kristiansund og Nordmøre Næringsforum vil sterkt anbefale at:
-·
-Høringsfristen forlenges, og fremtidig modell for beskatning av havbruket i Norge vurderes sammen med innstillingen fra skatteutvalget.
-·
-Eventuell ny skattemodell
-ikke
-gis tilbakevirkende kraft og innføres ikke før den er behandlet i Stortinget, tidligst 1.1.2024.
-·
-Regjeringen etablerer dialog med partene i arbeidslivet og partigruppene på Stortinget med sikte på å oppnå bred enighet om en modell og et nivå som sikrer næringens lønnsomhet og utviklingskraft i Norge.
-·
-En fremtidig skattemodell som har bred politisk forankring, gir næringen stabile og forutsigbare skattevilkår.
-·
-Inntil bred enighet om en eventuell ny modell, bør særbeskatningen av havbruk baseres på modellen det var politisk enighet om i 2020, med auksjon på nye tillatelser, kombinert med produksjonsavgift.
-Bakgrunn
-Næringslivet i Møre og Romsdal er i stor grad sentrert om havet. Maritim næring, oppdrett, fiskeri, petroleumsutvinning og andre havbaserte næringer dominerer. Havbruksnæringen alene er en svært viktig næring i Møre og Romsdal, og sammen med leverandørnæringene blir ringvirkningene betydelige.
-I et møte med Mørebenken 6. desember ble også følgende presentert fra næringslivet i Møre og Romsdal:
-Faktum per desember 2022:
-·
-Ingen nye kontrakter for medlemmer siden 28. september 2022
-·
-En rekke oppsigelser og permitteringer er iverksatt etter 28. september
-·
-Målsettingen om en femdobling av biomasse innen 2050 er nå totalt urealistisk
-·
-For hver dag med usikkerheten og mangel på avklaringer, så stoppes prosjekter, også for underleverandører og andre aktører
-·
-Arbeidsplasser går tapt og fremtiden er svært usikker
-·
-Stor risiko for at kompetansen forsvinner fra kystkommunene
-·
-Verdiskapingen forvitrer i hele landet
-·
-Nye investeringer vil skje i utlandet
-KNN er en av medbestillerne av en kartlegging av mulige effekter av den foreslåtte grunnrenteskatten på havbruk - rapporten er kalt «Lakseskattens utfordringer». Junior Consulting (JrC) og NHHS Consulting (NC) ble engasjert av åtte store regionale næringsforeninger og fire næringsallianser som omfatter en rekke mindre foreninger langs norskekysten, samt åtte regionale sparebanker fra Rogaland til Troms/Finnmark, for å utrede regjeringens foreslåtte grunnrenteskatt på havbruk.
-Rapporten tar for seg skattens utforming, dens påvirkning på kapitaltilgangen til bedriftene og ringvirkningene dette har på Kyst-Norge.
-Rapporten har følgende hovedfunn:
-●
-Skatten påvirker langt flere havbruksbedrifter enn skissert
-●
-Normpris svekker kontraktsmarkedet og fører til volatile innkjøpspriser
-●
-Normpris øker effektiv beskatning og risiko
-●
-Prosjekter for omtrent 35 mrd. NOK er stanset eller satt på pause
-●
-Overskuddet fra havbruk reinvesteres langs kysten og en redusert kontantstrøm vil påvirke denne verdiskapingen negativt
-●
-Ringvirkningene påvirker også det offentlige Norge negativt. Grunnrenteskatt kan bli et nullsumspill
-●
-Tilliten til norske investeringer er svekket
-For Midt-Norge fokuserer rapporten bl.a på følgende:
-●
-Sjømat er bærebjelken i flere lokalsamfunn. Dette er en region som særlig vil få føle redusert kapitaltilgang i havbruksnæringen på kroppen
-Om skatteforslaget
-Innføring av grunnrenteskatt innen havbruksnæringen vil ha en rekke negative konsekvenser for både produsenter, forbrukere og lokalsamfunn. Disse negative effektene vil inkludere økt kostnad for produsenter, redusert lønnsomhet og arbeidsplasser i næringen, konkurransevridning og svært negative konsekvenser for miljøet. Det er derfor helt avgjørende å vurdere alle mulige konsekvenser av en slik skatt nøye før den eventuelt iverksettes.
-Konklusjon
-Kristiansund og Nordmøre Næringsforum mener som flere andre at grunnrenteskatten ikke er nøytral og vil føre til svært høye skattesatser for enkelte selskap. En forutsetning for innføring av grunnrenteskatt er at den skal være nøytral, avkastning skal være lik før og etter skatt. Grunnrenteskatt som ikke er investeringsnøytral vil føre til at det blir mindre attraktivt for bedrifter å investere i næringen, noe som vil føre til lavere vekst og lønnsomhet. Dette vil igjen påvirke arbeidsplasser og lokaløkonomien i områder som er avhengige av næringen.
-KNN mener det må utføres en konsekvensutredelse som vurderer det totale skattetrykket på havbruksnæringen og dens påvirkning på utstyrsleverandørleddet. Med innretningen slik den er foreslått er det for leverandørindustrien svært stor fare for nedbemanninger og konkurser.
-KNN og våre medlemmer er ikke imot at næringen skal bidra til felleskapet ved å betale mer i skatt, men innretningen på skatten må ikke være til hinder for økte investeringer, økt omstilling, økt sysselsetting og økt eksport i årene fremover.
-Vi ser allerede nå at innføring av grunnrenteskatt innen havbruksnæringen vil ha en rekke negative effekter, avhengig av hvordan skatten gjennomføres og hvilke andre faktorer som påvirker næringen. Innføringen av grunnrenteskatt vil bidra til å demotivere investeringer og innovasjon innen havbruk. Dette vil føre til lavere produktivitet og lavere lønnsomhet i næringen, noe som igjen vil påvirke den økonomiske utviklingen på Nordmøre, langs kysten og landet ellers.
-Med vennlig hilsen
-Kristiansund og Nordmøre Næringsforum
-Ole Jonny Rugset
-Daglig leder
+Kvitsøy kommune syner til høyringa på grunnrente for havbruk. Det har ikkje vore mogleg å handsama høyringa politisk, så uttalen er administrativ. Den vert fyrst handsama i kommunestyret den 14.2.23.
+Kvitsøy kommune gjer fylgjande uttale:
+"Kvitsøy kommune tykkjer det er naturleg at den bruk av fellesskapet sine ressursar som havbruk utgjer vert skattlagt, og at det vert innført ein eller anna form for grunnrenteskatt. Me er usikre på om det forslag som no er framlagt har tilstrekkeleg utgreiing. Vidare er me særs uroa over den manglande tillit som forslaget har skapt mellom næringa og offentleg mynde. Me trur det vil vere lurt at det vart gjennomført ytterlegare utgreiingar, og at næringa i god kooperativ ånd tek del i desse.
+Som ein liten kommune i havgapet stod Kvitsøy kommune på terskelen til et mogleg nytt havbrukseventyr. Både Grieg Seafood og Blár var godt i gang med prosjekt knytt til å skulle teste ut Offshore Aquakultur i Kvitsøy kommune, og investeringar for fleire hundre millionar kroner er no parkert. Dette er prosjekt som vil vere essensielle om regjeringa skal klare å gjennomføre dei nasjonale måla knytt til auke i biomasse, og havbruk til havs. Me er sterkt uroa over at innretninga gjer det mindre sannsynleg å lukkast med ynskja om havbruk i Norskerenna Sør.
+Det er ofte i dei små samfunna du fyrst merkar konsekvensane av vedtak som vert gjort, så også i denne saka. Kvitsøy sjøtjenester leverer tenester til havbruksnæringa, og dei rapporterer om skilnad i aktivitet knytt til næringa i forkant og etterkant av regjeringa sin lansering av forslaget om grunnrenteskatt. Me trur dette vil syne seg å vere indikativ for korleis mange av servicenæringane til havbruksnæringa vil oppleve situasjonen framover.
+Kvitsøy kommune er glad for at regjeringa tykkjer at dei samfunn som stiller fellesskapet sine areal til disposisjon, skal vere premierte for dette. Diverre er situasjonen slik at forslaget om at den kommunale delen av grunnrenteskatt skal inngå i skatteutjamninga i røynda gjer at inntektene vert fordelt frå distriktskommunar til pressområde. Kvitsøy kommune ber difor om at størst mogleg av den kommunale delen vert liggande att i dei kommunane som stillar sine areal til disposisjon."
+Vegard Thise
+rådmann

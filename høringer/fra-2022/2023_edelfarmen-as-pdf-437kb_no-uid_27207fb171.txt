@@ -1,0 +1,6 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000027_sha256_351bc39d329b339853b57af199061b51b53f2f26a7f394aa9155ee1ac893162e.pdf
+kilde_type: pdf
+avsender: Edelfarmen AS (PDF, 437KB)
+uid: no-uid
+kilde_uri: https://www.regjeringen.no/contentassets/456ce38960ac44e4a3af04b3438d252a/edelfarmen-as.pdf?uid=Edelfarmen_AS
+

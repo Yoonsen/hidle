@@ -1,0 +1,6 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-nou-2019-18-skattlegging-av-havbruk-manual-20260209102305-d5e71684-918-20260209102359694-1_0000050_sha256_79ceb217bf6a48c45ed0599044eaa131ef7db9db5e28686183d77172cd02895e.pdf
+kilde_type: pdf
+avsender: Sjømatbedriftene
+uid: no-uid
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing--nou-2019-18-skattlegging-av-havbruk/id2676532/Download/?vedleggId=5ff78d51-bdf8-484b-bbfb-70d7ee2f8e3f
+

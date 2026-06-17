@@ -1,0 +1,6 @@
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802380-0_0000204_sha256_640ea6c7789efe17e637547099ab51fb3d51bf8f60cdd85a6a59ae602e2fd3a5.pdf
+kilde_type: pdf
+avsender: Viplast AS
+uid: no-uid
+kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/Download/?vedleggId=31fc1b37-118f-4d5d-ae1f-765d698bac75
+

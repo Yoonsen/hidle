@@ -1,4 +1,4 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000147_sha256_2df31f7c0b3f63936bd4e6ca4b90e61e36c745725b8226304315e1ac7b63d8a2.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000148_sha256_f8abae39e41fdeb2ca97a235aec2655d72344cb2af43c1c3f4e79f9a3f0e8c0d.html
 kilde_type: html
 avsender: Person som ikke har oppgitt navn (214810)
 uid: ef1773ca-6ee6-41ae-8957-3c7a0c1bf86d
@@ -6,9 +6,6 @@ kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-ha
 Høringssvar fra Person som ikke har oppgitt navn
 
 Dato:
-04.11.2022
+14.11.2022
 
-Som nyutdannet student, har jeg flyttet ut til kysten og distriktene. Det er ekstremt skuffende politikk fra regjeringen, som arbeidstaker er den eneste forutsetningen for å bo i kommunen oppdrettsselskapet og "baronen" som gir oss arbeidsplassene.
-En privat næring som ene og alene klarer å drive produktivt bærekraftig produksjon skal nå strupes og arbeidsplasser skal vekk fra distriktene igjen. Det er skummelt som ung å se hvordan ministere fordeler penger fra produktive næringer som burde utvikles videre, til ulønnsomme næringer (er det et mål at næringslivet skal være uproduktivt?).
-Den politiske risikoen i Norge er nå skyhøy, jeg skjønner godt at stigmatiserte grundere flytter ut. Hvorfor er det sånn at selskapene på kysten må bidra mer en selskapene i byene (bruk av naturresurser et dårlig argument, det er det flere næringer som gjør, men de er vel nasjonalromantisk vernet)
-Jeg som bor på bygda har kanskje misforstått - Lys i husene hører til i Oslo
+Dette blir for dumt, er det null kødd Julebord på jobb hver dag nå eller?

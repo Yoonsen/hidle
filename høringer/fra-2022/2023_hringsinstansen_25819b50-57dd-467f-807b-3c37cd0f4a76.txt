@@ -1,17 +1,17 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000067_sha256_8c67c121c37a59220de1359c7896b583d1dc2d5de4d446f0b59a871872487f13.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000068_sha256_797c747b13ec6784476f8d59b76668e399a7cadd26c8f2e31ad124a2d7a53792.html
 kilde_type: html
 avsender: Høringsinstansen
 uid: 25819b50-57dd-467f-807b-3c37cd0f4a76
 kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=25819b50-57dd-467f-807b-3c37cd0f4a76
-Høringssvar fra Høringsinstansen
+Høringssvar fra Hitra kommune
 
 Dato:
-04.01.2023
+03.01.2023
 
-Høringsinstansen takker for muligheten til å komme med innspill om grunnrente på oppdrettsnæringen og havbruket generelt.
-Høringsinstansen vil bemerke at høringen har frist 4. januar 2023, men ordningen vil tre i kraft fra nyttår av. Dette fremmer ikke formålene bak utredningsinstruksen. Høringsinstansen stiller seg kritiske til hastverket bak denne lovendringen.
-Høringsinstansen mener forslaget til grunnrenteskatt er god skattepolitikk. Virksomheter med særlig høy profitt bør bidra i økt grad til samfunnet for å sikre velferdsstaten.
-Regjeringen skriver at halvparten av inntektene skal gå til kommunesektoren. Dette stiller Høringsinstansen seg positive til. Skatten bør innføres med et bunnfradrag på 4000 tonn.
-Videre, mener Høringsinstansen følgende: At torsk, torskeoppdrett og annen hvit fisk også bør omfattes av ordningen.
-Med vennlig hilsen
-Høringsinstansen /v Jone Trovåg
+Vedtak i Hitra kommunestyre i sak 90/2022 den 15.12.2022:
+Høringsuttalelse - Grunnrenteskatt på havbruk
+Hitra kommune er sterkt imot forslaget om grunnrenteskatt på havbruk slik det nå foreligger. Utformingen av grunnrenteskatten må utformes gjennom dialog med næringen og vertskommunene slik at partene kan bli omforent med en akseptabel innretning på skatten.
+Hitra kommune mener derfor at innføringen av grunnrenteskatt på havbruk må utsettes til 01.01.2024 slik at partene sammen kan finne akseptable løsninger som ikke hindrer videre vekst, investeringslyst og satsing på FOU-tiltak som fremmer bærekraftige løsninger for næringen.
+Hitra kommune mener videre at det må konsekvensutredes hvilken betydning grunnrenteskatten har for selve havbruksnæringen (1.ledd), leverandører/underleverandører (2.ledd) og andre indirekte næringer (3.ledd). I tillegg må man også se på hvilke konsekvenser dette har for lokalsamfunnene langs kysten som helhet.
+Hitra kommune mener at inntekter fra grunnrentebeskatningen må i hovedsak gå til vertskommuner for havbruk. Hitra kommune mener at departementet og staten undervurderer de faktiske kostnadene kommunene har knyttet til å inneha rollen som vertskommune.
+Hitra kommune viser for øvrig til uttalelsen fra Nettverk for fjord- og kystkommuner (NFKK) og gir sin fulle støtte til deres høringsinnspill.

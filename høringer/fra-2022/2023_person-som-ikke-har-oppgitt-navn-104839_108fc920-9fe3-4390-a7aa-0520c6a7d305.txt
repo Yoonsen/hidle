@@ -1,12 +1,13 @@
-kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000134_sha256_73264a67ae54ae434848fe97bbfc32ff808b921063d482b331c0522c26c8ee33.html
+kilde_fil: data/content/nasjonalbiblioteket-svar-horing-prop-78-2022-grunnrenteskatt-laks-manual-20260209222706-4c59c2e3-738-20260209222802945-1_0000135_sha256_ea9300a13aacf22ba7d7f7bbeb2742dc6ee20e78b238f1b5bc422e67b9123318.html
 kilde_type: html
 avsender: Person som ikke har oppgitt navn (104839)
 uid: 108fc920-9fe3-4390-a7aa-0520c6a7d305
 kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/?uid=108fc920-9fe3-4390-a7aa-0520c6a7d305
-Høringssvar fra Person som ikke har oppgitt navn
+Høringssvar fra P.G.D. Svensson
 
 Dato:
-05.10.2022
+29.12.2022
 
-Jeg håper lovverket kun gjelder villaksfangst. Hvis det er noen innsats fra et selskap for å dyrke laks, er det ikke en naturressurs lenger, ellers burde vi også ha denne avgiften på oppdrett av kylling?
-også, etter hvert vil kostnadene (av skatten) overføres til forbrukeren hvis selskapene må holde marginene intakte, så det kan bety dyrere middag for vanlige mann, og da tjener det neppe noen hensikt og tar faktisk bort ett alternativ for sunn mat fra bordet til fattige.
+Utöver de brister som förslaget kring "grunnrenteskatt" uppvisar i förhållande till modellen med normpris, samt snedvridning av konkurens genom olika behandling baserat på MTB etc., så finns det ingen logik kring jämförelsen med oljenäringen och den beskattningsmodell som används där.
+Olja och gas förbrukas och skall betraktas som "konsumtion" i förhållande till framtida generationer och samhället då den förbrukade resursen inte kan återskapas under överskådlig tidperiod. Mot bakgrund av detta är det rimligt att beskatta vinsterna hårt för samhället och framtida generationers nytta.
+Produktion av marina livsmedel är inte en förbrukning av den resurser som samhället har tillgång till. De gemensamma resurserna skalla betraktas som en "katalysator" för att skapa värden för så väl verksamheter som samhälle. Självklart är det rimligt att resonera kring om och i så fall hur mycket som verksamheter skall betala för att nyttja denna resurs. Men att ta utgångspunkt i och referera till modellen kring olja/gas saknar all logik och därför finns det inte heller någon logik i att sammanlikna skattesattsen och skattemodellen.
