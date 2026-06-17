@@ -5,6 +5,9 @@ import csv
 import hashlib
 import logging
 import re
+import shutil
+import subprocess
+import tempfile
 import unicodedata
 import xml.etree.ElementTree as ET
 from collections import defaultdict
@@ -33,6 +36,7 @@ UID_RE = re.compile(r"uid=([a-f0-9-]{36})", re.IGNORECASE)
 TITLE_RE = re.compile(r"<title>(.*?)</title>", re.IGNORECASE | re.DOTALL)
 SPACE_RE = re.compile(r"\s+")
 WORD_RE = re.compile(r"\b\w+\b", re.UNICODE)
+OCR_DPI = "300"
 
 logging.getLogger("pypdf").setLevel(logging.ERROR)
 
@@ -301,7 +305,44 @@ def extract_pdf_text(pdf_path: Path) -> str:
         page_text = normalize_ws(page_text)
         if page_text:
             pages.append(page_text)
-    return "\n\n".join(pages)
+    if pages:
+        return "\n\n".join(pages)
+    return extract_pdf_text_with_ocr(pdf_path)
+
+
+def extract_pdf_text_with_ocr(pdf_path: Path) -> str:
+    if shutil.which("pdftoppm") is None or shutil.which("tesseract") is None:
+        return ""
+
+    with tempfile.TemporaryDirectory(prefix="hidle-ocr-") as tmp_dir:
+        tmp_path = Path(tmp_dir)
+        image_prefix = tmp_path / "page"
+        try:
+            subprocess.run(
+                ["pdftoppm", "-r", OCR_DPI, "-png", str(pdf_path), str(image_prefix)],
+                check=True,
+                stdout=subprocess.DEVNULL,
+                stderr=subprocess.DEVNULL,
+            )
+        except subprocess.CalledProcessError:
+            return ""
+
+        page_texts: list[str] = []
+        for image_path in sorted(tmp_path.glob("page-*.png")):
+            result = subprocess.run(
+                ["tesseract", image_path.name, "stdout"],
+                cwd=tmp_path,
+                stdout=subprocess.PIPE,
+                stderr=subprocess.DEVNULL,
+                text=True,
+                check=False,
+            )
+            if result.returncode != 0:
+                continue
+            ocr_text = clean_block_text(result.stdout)
+            if ocr_text:
+                page_texts.append(ocr_text)
+        return "\n\n".join(page_texts)
 
 
 def write_output(

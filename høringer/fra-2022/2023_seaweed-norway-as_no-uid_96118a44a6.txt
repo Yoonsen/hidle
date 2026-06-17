@@ -3,4 +3,660 @@ kilde_type: pdf
 avsender: Seaweed Norway AS
 uid: no-uid
 kilde_uri: https://www.regjeringen.no/no/dokumenter/horing-grunnrenteskatt-pa-havbruk/id2929159/Download/?vedleggId=15f2efc1-e0ff-4928-8010-426ec1e90c6c
+“ily
+NORTHERN LIGHTS
+SALMON s SPRROLLNESFISK AS
+Til Finansdepartementet
+Balteskard, 21.12.22
+H¢gringssvar - Grunnrenteskatt pa havbruk
+Det vises til Finansdepartementets h¢ringsbrev av 28. september 2022, hvor Finansdepartementet
+sendte pa hgring forslag om 4 innfgre grunnrenteskatt pa havbruk med virkning fra og med 1. januar
+2023 og inviterte til 4 gi hdringssvar innen hgringsfristen den 4. januar 2023.
+Northern Lights Salmon AS og S¢rrollnesfisk AS er to privateide oppdrettsselskap som driver
+oppdrettsvirksomhet i samdrift i Astafjorden og Grovfjorden i Troms fylke. Selskapene er eid av hver
+sin familie, henholdsvis Balteskard-familien og Olsen-familien, men har samarbeidet, i forskjellige
+former, over mange ar og har valgt a avgi et felles hdringssvar. Omsetningen til selskapene har for
+2021 veert henholdsvis ca. kr 388 millioner og kr 291 millioner. Selskapene er saledes aktgrer av
+temmelig begrenset betydning i nasjonal malestokk, men virksomhetene har likevel stor betydning
+for lokalsamfunnene.
+Skatteetaten har for noen ar tilbake kommet til den konklusjon at selskapenes samdrift i realiteten
+utgjgr et indre selskap og vi vil i vart hgringssvar szerlig rette oppmerksomheten pa spesielt ett punkt
+relatert til indre selskap som etter vart syn ikke har veert tilstrekkelig drgftet i hdringsnotatet.
+Oppsummering av vart h¢ringssvar
+Vi er motstander av ikke bare hgringsforslaget om grunnrenteskatt, men ogsa skattesystemet slik det
+pr i dag er bygd opp. Vedrgrende hgringsforslaget sa mener vi at bade stgrrelsen pa en eventuell
+grunnrente i havbruksneeringen, og utformingen av skatten slik at den kun vil belaste en slik
+grunnrente, er for darlig utredet. | tillegg mener vi at det ikke synes som om Finansdepartementet
+har tatt inn over seg hvor kraftig naeringen allerede i dag er beskattet, samt hvor uhensiktsmessig
+denne beskatningen er bygd opp med tanke pa at beskatningen i stor grad er avhengig av
+bostedslandet til selskapenes aksjonzrer. Vi gir ogsa oppmerksom pa at neeringen na antagelig star
+ovenfor et veiskille og at det er viktig at ikke den norske delen av neeringen far rammebetingelsene
+sine sa forringet at de ikke er i stand til 4 fglge med i den teknologiske utviklingen som na pagar.
+Dette vil kunne permanent gdelegge dagens skattegrunnlag da den teknologiske utviklingen vil
+medf¢gre at konkurransemessige fordelene Norge tidligere har nytt godt av ikke lenger vil veere like
+relevante i fremtiden.
+Vi foreslar at det settes ned et eget utvalg for 4 gjgre en uhildet analyse av st@rrelsen pa eventuell
+grunnrente i havbruksneeringen, at det naveerende forslaget om grunnrenteskatt trekkes tilbake,
+samt at det utformes et helt nytt system for eventuell grunnrenteskatt som inneberer progressiv
+beskatning av selskapenes resultater. Slik at den prosentvise skattebelastningen ker med
+resultatgraden. Dette i motsetning til dagens skattesystem, og det naveerende forslaget om
+grunnrenteskatt, hvor skattebelastningen i prosent i praksis faller jo bedre resultatet til selskapet er.
+il
 
+NORTHERN LIGHTS
+SALMON i SORROLLNESFISK AS
+Vi papeker ogsa enkelte utfordringer i hvordan reglene om bunnfradrag er utformet i det naveerende
+forslaget, herunder at det bgr klargjgres at grunnrentebeskatningen, i de tilfellene det foreligger
+indre selskap, skjer pa deltakernes hand og ikke hos det indre selskapet. Videre sa kommenterer vi
+kort de szerskilte utfordringene forslaget om normpris volder og hvorfor denne tanken, selv om
+hensikten og formalet bak normprisforslaget er god, absolutt ikke ma gjennomfgres.
+Generelle synspunkter og betraktninger til innfgring av grunnrenteskatt pa havbruk
+Prinsipielt s4 er det vanskelig 4 benekte at grunnrentebeskatning gir mening i den utstrekning
+grunnrentebeskatningen beskatter merinntekten en skattyter oppnar fra en vederlagsfri eller sterkt
+rabattert tildeling av rett til utnyttelse av en begrenset naturressurs som tilhgrer fellesskapet. Dette
+er jo ogsa bakgrunnen for hvorfor det pr i dag er innfgrt grunnrentebeskatning for bade
+petroleumsutvinning og vannkraft. Etter prinsippet om at det ikke er noen grunn til a finne opp
+kruttet pa nytt tillater vi oss a sitere fra departementets betraktninger i Ot.prp nr 23 (1995-96)
+vedrgrende skattlegging av kraftforetak:
+«Departementet legger vekt pa at grunnrente er et godt skatteobjekt. En skatt som kun belaster
+grunnrenten, dvs. der normalavkastningen er skjermet fra skatten pa grunnrenten, virker ngytralt pa
+bedriftenes investeringsbeslutninger i den forstand at samfunnsgkonomisk Ignnsomme investeringer
+gjennomf@res uavhengig av skatten pad grunnrenten. Dessuten har skattlegging av grunnrente den
+fordelen at skattegrunnlaget ikke kan flyttes over landegrensene.»
+Hvis vi skal oppsummere departementets betraktninger sa er altsa synspunktet at grunnrente er et
+godt skatteobjekt grunnet falgende faktorer og forutsetninger:
+1. Grunnrenteskatten ma bare belaste grunnrenten, altsa at normalavkastning er skjermet fra
+ekstra beskatning.
+2. Grunnrenteskatten ma virke ngytralt pa bedriftenes investeringsbeslutninger slik at ikke
+samfunns¢konomiske Ignnsomme investeringer blir ulgnnsomme for skattyter som fdlge av
+grunnrenteskatten.
+3. Skattegrunnlaget kan ikke flyttes over landegrensene.
+La oss sa ga igjennom dette punkt for punkt. Vi starter med forutsetningen om at grunnrenteskatten
+bare ma belaste grunnrenten, altsa at normalavkastning er skjermet fra ekstra beskatning. Dette
+medf¢rer at det foreligger en underliggende forutsetning om at det eksisterer en meravkastning pa
+havbruk som skyldes grunnrente. | tillegg sa ma grunnrenteskatten veere utformet slik at den ikke
+beskatter normalavkastning, grunnrenteskatten kan ikke overstige den faktiske grunnrenten.
+For & avgjgre spgrsmalet om det eksisterer en grunnrente i havbruk, samt denne eventuelle
+grunnrentens stgrrelse, har departementet vist til flere analyser i punkt 2.2 i hgringsnotatet.
+Herunder Greaker og Lindholt (2019) og Flaten og Pham (2019). Det er ogsa tatt med en figur 4 som
+viser anslatt grunnrente for havbruk og kraftproduksjon i perioden 1994-2021 og som det er oppgitt
+at er basert pa en oppdatert beregning fra Greaker og Lindholt fra 2022. Figuren er kopiert inn under:
+
+NORTHERN LIGHTS
+SALMON i SARROLLNESFISK AS
+Figur 4 Ansldtt grunnrente i havbruk og kraftproduksjon i perioden 1 994-2021
+60 +
+50 -
+40 -
+30
+20
+Mrd, 2021-kroner
+10
+1994
+1995
+1996
+1997
+1998
+1999
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+r=}
+6o0 85
+rs)
+2000
+2001
+2002
+—Havbruk —Vannkraft
+Kilde: Statistisk sentralbyra (2022).
+Hvis man aksepterer at denne figuren er en korrekt beregning av grunnrente i havbruk for perioden
+1994-2021, vi kommer tilbake til akkurat det, sa fremgar det sdledes at grunnrenten har veert sveert
+beskjeden eller tilnzermet ikke-eksisterende for perioden 1994-2008. Det har veert to sma topper i
+2000 og 2006, men ellers har den veert tilnzermet null og vedvarende negativ i mange ar, se f.eks.
+perioden 2001-2004. Sa har det veert en ny topp i 2010 fgr grunnrenten igjen blir tilnzermet null i
+2012. Deretter i perioden 2013-2021 viser grafen en betydelig grunnrente med en kjempetopp i 2016
+og deretter en gradvis reduksjon.
+Selv hvis man aksepterer denne beregningen som korrekt sa viser den klart at grunnrenten i havbruk
+er svzert ustabil og at det, med unntak av de siste 10 arene, regelmessig forekommer at grunnrenten
+er tilncermet null og i en del tilfeller faktisk negativ for det aktuelle aret.
+sa kommer vi til sp¢rsmalet om korrektheten av beregningene i figuren pa forrige side. Som nevnt er
+figuren basert pa beregningen til Greaker og Lindholt av grunnrente i havbruksneeringen. Hvis vi tar
+utgangspunkt i deres oppdaterte beregning fra 2021 og slar opp i punkt 3.5 hvor de forklarer hvordan
+de har beregnet kapitalkostnaden sa fremkommer blant annet fdlgende forutsetninger:
+1. Investert kapital i varelageret i form av fisk i havet er ikke inkludert i beregningen av
+kapitalkostnaden.
+2. Avkastningskravet som er benyttet i beregningen av kapitalkostnaden er 4%.
+Vi kan ikke forsta hva begrunnelsen for hvorfor investert kapital i varelageret ikke skal hensyntas ved
+beregningen av kapitalkostnaden skulle vaere. Greaker og Lindholt har i sin analyse begrunnet dette
+med at innkjgp av smolt og for trekkes fra inntekten som en kostnad ved salget og i tillegg er Ipende
+skattemessig fradragsberettiget. Vi kan ikke se at disse argumentene har noen logikk eller reelt
+innhold. Et enkelt tankeeksempel demonstrerer tydelig det meningsldse i argumentet: La oss se for
+oss Varesalg AS, dette selskapet lever av a selge varer og ma ha et varelager pa kr 1.000 for a kunne
+
+NORTHERN UcHTel
+SALMON h S@RROLLNESFISK AS
+drive virksomheten. Selskapet leier ferdig innredede lokaler og har ingen egne driftsmidler, netto
+arbeidskapital utenom varelageret er kr 0. Dermed har selskapet netto ikke investerte i noe annet
+enn varelageret. Etter logikken til Greaker og Lindholt vil dermed investert kapital i selskapet veere kr
+0 og avkastningen pa investert kapital vil veere uendelig. Hele avkastningen fra virksomheten vil
+dermed veere grunnrenteavkastning. Dette er jo apenbart absurd, «alle» forstar jo at eierne til
+virksomheten har investert kr 1.000 og at avkastningen ma males ut i fra dette. Hvis man ikke forstar
+dette sa foreslar vi at departementet snarest begynner utredning av grunnrenteskatt pa varehandel i
+Norge, for her ma det da vere et stort ubenyttet potensial som langt vil overstige mulighetene
+innenfor havbruksneeringen.
+Vedrgrende avkastningskravet ved beregningen sa er det for oss sveert vanskelig 4 forsta hvordan det
+er mulig 4 mene at et avkastningskrav for havbruksnzeringen pa 4% gir noen som helst form for
+mening. Avkastningskravet ma ses opp mot hva en investor kunne tjent pa en alternativ investering
+med samme risiko. Det fremgar av Greaker og Lindholt sin egen analyse en graf, figur 6 se nedenfor,
+som viser den faktiske avkastningen av kapital i den norske gkonomien i perioden 1984-2020.
+Figure 6. Actual return on capital in the Norwegian economy 1984-2020.
+16% —— —
+14 %
+12%
+10%
+oe Market related
+mainland industries
+a%
+om Manufacturing
+6%
+4% m= Normal return on
+capital
+2%
+o%
+1984 1987 1990 1993 1996 1999 2002 2005 2008 2011 2014 2017 2020
+Source: Statistics Norway (2021)
+Hvis vi ser bort fra perioden 1984-1993 da denne perioden bade er eldst og saledes minst
+interessant, samt ogsa at selv Greaker og Lindholt sin analyse viser at grunnrenten fra havbruk i den
+perioden var klart negativ, sa ser vi at fastlands neeringen i Norge ikke for et eneste ar i den aktuelle
+tidsperioden har hatt en faktisk avkastning sa lav som det benyttede avkastningskravet pa 4%.
+Underindeksen for produksjonsindustrien klarer faktisk 4 tangere et sa lavt avkastningskrav en
+eneste gang, i 2008 under finanskrisen! Med andre ord sa gir avkastningskravet mening hvis man
+forutsetter at oppdrettsnzeringen har en risikoprofil tilsvarende gjennomsnittet for
+produksjonsindustrien og at finanskrisen i 2008 er normalsituasjonen. Dette er apenbart uholdbare
+forutsetninger og analysen til Greaker og Lindholt er derfor etter vart syn beheftet med sa store
+svakheter at den ma sees helt bort fra.
+
+NORTHERN cute
+SALMON \ SORROLUNESFISK AS
+H@ringsnotatet viser ogsa til analysen til Flaten og Pham (2019). Vi kommenterer i denne forbindelse
+at den aktuelle analysen begrenser seg kun til a analysere aret 2016. Det er ikke gjort noe forsgk i
+analysen pa a vurdere bransjen over en lengre tidsperiode, kun et ayeblikksbilde for 2016. Det eri
+denne forbindelse verdt 4 merke seg at 2016 var det aret algeoppblomstring i Chile drastisk kuttet
+produksjonen i landet og lakseprisene hoppet i veeret samtidig som kronekursen svekket seg. Aret
+2016 var det beste aret vi som oppdrettere noensinne har hatt og bade Northern Lights Salmon AS
+og Sgrrollnesfisk AS hadde sitt best arsresultat noensinne i akkurat dette ret. Alle historiske data
+viser at oppdrettsnzeringen har ustabile resultater og fremstar som syklisk med oppturer etterfulgt av
+nedturer. Vi er enige om at det beste aret noensinne ma tas med i beregningen av en eventuell
+grunnrente over en lengre tidsperiode, men a ta utgangspunkt i det beste aret noensinne, beregne
+meravkastning over normalavkastning i dette ene aret og sa si at hele denne meravkastningen utgj@r
+grunnrenten i et normalar kan vi ikke akseptere som hverken rimelig eller fornuftig. Analysen til
+Flaten og Pham er ikke egnet til noe mer enn a bekrefte det alle vet, at 2016 var et fantastisk ar for
+oppdretterne.
+Det er saledes vart standpunkt at man mangler en tilfredsstillende analyse eller annet grunnlag for a
+kunne konkludere med tilfredsstillende grad av sikkerhet om det i det hele tatt eksisterer en
+grunnrente i oppdrettsnzeringen, langt mindre et grunnlag for a kunne tallfeste stgrrelsen pa
+grunnrenten.
+Under denne situasjonen sa er det apenbart umulig a oppfylle forutsetning nr. 1 ovenfor om at
+grunnrenteskatten bare ma belaste grunnrenten, altsa at normalavkastning er skjermet fra ekstra
+beskatning. Var anbefaling er at det settes ned et utvalg for a gjennomf¢re en uavhengig analyse av
+om det foreligger en grunnrente, samt stgrrelsen pa denne. Dette utvalget bgr i all hovedsak besta av
+fagfolk innenfor dkonomisk analyse som ikke har deltatt i offentlig debatt vedrgrende dette temaet
+og som ikke har tidligere uttalelser og kommentarer 4 forsvare. | tillegg bgr en eller to personer med
+detaljert kunnskap om oppdrettsnzringen delta for a sikre at de spesielle problemstillingene knyttet
+til nzeringen tilfredsstillende blir hensyntatt.
+For a kunne oppfylle forutsetningen om at eventuell grunnrenteskatt bare ma belaste grunnrenten sa
+ma man ikke bare ha et forsvarlig estimat pa stgrrelsen pa en eventuell grunnrente, man ma ogsa
+utforme en eventuell grunnrenteskatt slik at grunnrenteskatten ikke overstiger grunnrenten.
+Hensynet til fordeling av verdier i fellesskapet tilsier ogsa at grunnrenteskatten ikke bgr veere
+vesentlig mindre enn grunnrenten. Disse forholdene anser vi som kanskje de aller viktigste
+momentene i utformingen av en grunnrenteskatt. Vi finner det derfor overraskende at sa kritiske
+forhold ikke er gjenstand for noen reell drgfting i hgringsnotatet. Vi gjentar var anbefaling om at
+settes ned et nytt utvalg for 4 beregne den faktiske stdrrelsen pa eventuell grunnrente i
+oppdrettsneeringen, etter at denne er beregnet ma skattesatsen for en eventuell grunnrenteskatt
+tilpasses slik at den faktiske beskatningen star i stil til grunnrenten.
+Den neste forutsetningen departementet tidligere har lagt til grunn for at grunnrente skal veere et
+godt skatteobjekt er at grunnrenteskatten ma virke ngytralt pa bedriftenes investeringsbeslutninger
+slik at ikke samfunns¢konomiske Ignnsomme investeringer blir ulgnnsomme for skattyter som fdlge
+av grunnrenteskatten. | teorien sa skal en kontantstrgmbasert grunnrenteskatt, slik som foreslatt,
+ikke pavirke investeringsbeslutninger. Dette da staten, i teorien, vil ta en like stor andel av
+investeringsutgiftene som av resultatet av investeringsprosjektet. | praksis sa ser vi at maten
+5
+
+ily
+NORTHERN LIGHTS f
+SALMON | SORROLLNESFISK AS
+forslaget er utformet pa medf¢rer praktiske virkninger som ikke helt star i samsvar med den nevnte
+teorien og som etter vart syn b@r vurderes neermere.
+Det fremgar av hgringsforslaget at det, for 4 kompensere for vederlag betalt til staten for kjgp av
+tillatelser for innfgring av grunnrenteskatt, innfgres et bunnfradrag pa enten 54 eller 67,5 millioner
+kroner. Eventuelt manglende utnyttet bunnfradrag for de enkelte ar er foreslatt 4 ikke veere
+fremfgrbare. Vi gnsker a ta opp at det kontantstrgmbaserte fradraget for investeringskostnader kun
+blir en realitet for skattyter hvis skattyter i 4ret investeringen finner sted faktisk har en
+grunnrenteinntekt som overstiger dette bunnfradraget.
+Hvis grunnrenteinntekten for det aktuelle aret er positiv, men lavere enn bunnfradraget, sa vil
+investert belgp riktignok redusere grunnrenteinntekten, men denne reduksjonen far ingen effekt
+siden det ikke ilignes grunnrenteskatt pa grunnrenteinntekt som er lavere enn bunnfradraget,
+samtidig som ubenyttet bunnfradrag ikke kan fremfgres til fremtidige ar. | et slikt tilfelle vil skattyter
+ha sterke incentiver til a utsette investeringen til et fremtidig ar hvor grunnrenteinntekten enten
+overstiger bunnfradraget eller er negativ. Dette fremstar for oss som en sveert ugunstig effekt av
+utformingen av forslaget om grunnrenteskatt.
+Hvis grunnrenteinntekten for det aktuelle aret istedenfor er negativ sa vil skattyter ha adgang tila
+fremfgre denne negative grunnrenteinntekten og dermed presumptivt kunne utnytte den en gang i
+fremtiden. Det faktum at fradrag for negativ grunnrenteinntekt ikke kan komme til utbetaling, men
+kun kan fremfgres mot eventuell fremtidig positiv grunnrenteinntekt samtidig som positiv
+grunnrenteinntekt, utover bunnfradrag, Igpende kommer til betaling medfgrer at det oppstar en
+uheldig tidfestingsforskjell som underminerer ngytraliteten til den foreslatte grunnrenteskatten.
+Etter vart syn bgr ikke utnyttet bunnfradrag, all den tid det er ment a veere en kompensasjon for
+vederlag betalt til staten for kjgp av tillatelser for innfgring av grunnrenteskatt, komme direkte til
+fradrag som negativ beregnet grunnrenteinntekt. Eller, subsidizert, i alle fall vaere fremf¢rbart slik at
+det kan utnyttes i fremtidige ar. Samtidig sa bgr eventuell negativ grunnrenteinntekt ikke vere
+fremfgrbart, men Igpende komme til utbetaling, dette vil sikre ngytraliteten til bedriftenes
+investeringsbeslutninger.
+Den siste forutsetningen departementet tidligere har lagt til grunn for at grunnrente skal veere et
+godt skatteobjekt er at skattegrunnlaget ikke kan flyttes over landegrensene. Med tanke pa direkte
+effekter er vi enige i at forslaget til grunnrenteskatt ikke vil medfgre at skattegrunnlaget flyttes over
+landegrensene. Nar det kommer til mer indirekte effekter er vi ikke nddvendigvis enig i at bildet er
+like klart. Norge er i dag ledende innenfor oppdrett av laks pa grunn av kombinasjonen av mange
+fjorder med tilstrekkelig vanngjennomstrgmning og samtidig tilfredsstillende ly fra vaer og vind,
+ledende teknologiutvikling innenfor biologi, fiskehelse, for og utstyr, samt risikovillige investorer som
+har veert villige til 4 finansiere nzeringen gjennom mange darlige ar og som beholdt troen og fortsatte
+driften selv gjennom dype daler som begynnelsen av 90-tallet, hvor mange oppdrettsselskap gikk
+konkurs. Det er dog mye som tyder pa at oppdrettsnzeringen star ovenfor et tidsskille hvor nye
+driftsformer med landbasert oppdrett og havmerder i ulike former i stgrre grad vil overta. |
+kombinasjon med innf¢gring av grunnrenteskatt er dette en apenbar trussel mot den sterke
+posisjonen Norge i dag har innenfor lakseoppdrett.
+
+NORTHERN LIGHTS
+SALMON \ SORROLLNESFISK AS
+De nye Idsningene krever betydelig teknologisk kompetanse og store investeringer. Fér annonsering
+av hgringsnotatet om innfgring av grunnrenteskatt var troen tilstede for at nzeringen skulle klare a
+finansiere dette loftet, men vi er na usikre pa om neeringen er i stand til a beere dette hvis overskudd
+faktisk skal skattlegges med en effektiv skattesats pa minst 62%.
+For de nye Igsningene som er pa trappene er ikke lenger Norge sin unike geografi lenger noe
+konkurransefortrinn. Ved landbasert oppdrett er det ikke nddvendigvis noe fordel a ligge skjermet i
+en fjord i Nord-Norge, det kan vere like praktisk a ligge langs kysten av Frankrike. De nye
+havmerdene er ogsa betydelig mer motstandsdyktige mot veer og vind og plassering langt til havs kan
+faktisk veere fordelaktig med tanke pa lakselus. Geografien til Norge med lang avstand til markedene
+og foredler kan faktisk ga fra 4 veere et konkurransefortrinn til 4 veere en betydelig
+konkurranseulempe. Hvis plasseringen i fjordene ikke lenger er noen produksjonsfordel sa blir det
+umiddelbart mer ¢gkonomisk gunstig 4 plassere produksjonen nzermere markedene for 4 redusere
+transportkostnadene.
+Slik vi ser det sa er det en ikke ubetydelig risiko for at innfgring av den foreslatte grunnrenteskatten
+vil medfgre at oppdrettsnzeringen i Norge ikke klarer a folge med i det teknologiske tidsskillet som
+antagelig na er i ferd med 4 komme i oppdrettsnzeringen. Dette kan faktisk lett fore til at
+produksjonsformen vii dag driver med blir utkonkurrert og skattegrunnlaget som i dag eksisterer, og
+Apenbart tas for gitt, faktisk forsvinner ut av landet, med betydelig konsekvens for statsbudsjettet og
+katastrofale konsekvenser for lokalsamfunnene som i dag lever av oppdrett. Hvis dette skulle skje vil
+ogsa leverandgrkjedene kollapse og stordriftsfordelene som oppdrettsneeringen i Norge i dag nyter
+godt av vil forsvinne. Det vil da bli en nesten umulig oppgave a gjenvinne sin tidligere posisjon i
+markedet.
+Stgrrelse pa bunnfradrag
+Departementet har i hdringsforslaget foreslatt at det gis et bunnfradrag i grunnrenteskatten. Dette
+synes begrunnet delvis i et gnske om a skjerme mindre aktgrer fra de stgrste konsekvensene av
+grunnrenteskatteforslaget og delvis for 4 kompensere for at det ikke gis fradrag for den enkelte
+aktgrs faktiske betalte vederlag for historiske kjgp av tillatelser. Departementet har i hgringsnotatet
+vist til at det kun er tre navngitte selskap som har kjgpt tillatelser som overstiger 5.000 tonn MTB i
+perioden 2018-2020. Det er videre foreslatt at dette nevnte bunnfradraget gis i form av et
+kronebelgp tilsvarende gjennomsnittlig fortjeneste pa antall tonn biomasse og basert pa en
+gjennomsnittlig fortjeneste pa om lag 13,5 kroner pr kilo, og en MTB pa 4.000 eller 5.000 tonn,
+foreslas det et bunnfradrag pa enten 54 millioner eller 67,5 millioner kroner.
+| denne forbindelse sA gnsker vi a papeke at en oppdretter normalt kan forvente a produsere rundt
+1,5 tonn fisk pr tonn MTB. For at man tilfredsstillende skal unnta en MTB pa enten 4.000 tonn eller
+5.000 tonn, og en Ignnsomhet pa kr 13,5 pr kilo, fra grunnrenteskatt sa ma derfor bunnfradraget
+settes til 81 millioner eller 101,25 millioner kroner. De naveerende forslagene om bunnfradrag vil ikke
+skjerme sma oppdrettere fra grunnrenteskatt slik som den oppgitte intensjonen er, uavhengig av om
+bunnfradraget settes til 54 millioner eller 67,5 millioner.
+Seerskilt om bunnfradrag i relasjon til indre selskap
+Som nevnt i ingressen opplevde vi for noen ar siden at Skatteetaten kom til den konklusjonen at var
+samdrift i realiteten utgjgr et indre selskap. Dette var en overraskelse for oss da vi aldri har sett for
+7
+
+“willy
+NORTHERN LIGHTS
+SALMON i SARROLLNESFISK AS
+oss 4 etablere noe slikt indre selskap og var helt ukjent med at noe slikt var etablert, men av
+praktiske arsaker aksepterte vi likevel Skatteetaten sitt synspunkt og har forholdt oss til dette siden.
+H¢ringsnotatet om innfgring av grunnrenteskatt synes for oss noe uklart i relasjon til spesielt
+fordelingen av bunnfradrag i de tilfellene hvor det foreligger indre selskap. La oss eksemplifisere med
+utgangspunkt i var naveerende situasjon hvor Northern Lights Salmon AS og S¢rrollnesfisk AS er
+innehavere av sine respektive akvakulturtillatelser, men har stilt de vederlagsfritt til disposisjon til
+det indre selskapet som forestar den faktiske aktiviteten. Det indre selskapet har like
+stemmerettsandeler slik at hver av partene har 50% av stemmene. Det er ingen likhet i eierskapet til
+Northern Lights Salmon AS og S¢rrollnesfisk AS, de har helt forskjellige eiere.
+Det fglger at foreslatt lovtekst i foreslatt ny paragraf § 19-2 i skatteloven at «/nnehaver av
+antallsbegrenset akvakulturtillatelse til matfiskoppdrett av laks, grret og regnbuegrret i sjavann, skal
+svare...». Dette tolker vi som at det er innehaver av tillatelsene, Northern Lights Salmon AS og
+S¢rrollnesfisk AS, som skal svare grunnrenteskatt og som mottar bunnfradrag, jfr. foreslatt ny § 19-7.
+Dette vil saledes medfgre at hver av partene (Northern Lights Salmon AS og S¢rrollnesfisk AS) mottar
+sitt eget bunnfradrag og at det indre selskapet ikke mottar noe bunnfradrag og fremstar som logisk i
+relasjon til at indre selskap jfr. sktl. § 2-2 (2) cikke regnes som eget skattesubjekt.
+Hvis man derimot leser teksten i hdgringsnotatet pa side 20 sa fremgar det folgende: «Departementet
+foreslar at skattesubjektet for grunnrenteskatteplikten til enhver tid skal veere den som forestar
+aktiviteten, og dermed opparbeider grunnrenten.» Den faktiske aktiviteten blir jo i dette tilfellet
+utfgrt i det indre selskapet og ut i fra teksten i hgringsnotatet er det saledes det indre selskapet som
+blir skattesubjektet. Dette synes i utgangspunktet 4 veere noe i motstrid til den faktiske lovteksten
+som er foreslatt i § 19-2, men kan nok tolkes slik at utgangspunktet er at innehaver av tillatelsene er
+skattesubjekt, dog slik at hvis det er noen andre som faktisk driver virksomheten sa vurderes de i
+relasjon til foreslatt § 19-2 som innehaver av tillatelsen. Hvis man legger dette til grunn sa vil det
+indre selskapet veere skattesubjekt for grunnrenteskatten og vil motta bunnfradrag uavhengig av
+deltakerne (Northern Lights Salmon AS og S¢rrollnesfisk AS).
+En slik tolkning reiser jo da Apenbart spgrsmal om forholdet til skattelovens § 2-2 (2) c hvor det
+fremgar at indre selskap ikke regnes som eget skattesubjekt. Det vil jo etter denne paragrafen ikke
+veere mulig for det indre selskapet 4 vere skattesubjekt slik som tolkningen ovenfor tilsier. Det kan
+derimot argumenteres for at foreslatt ny § 19-2 er en spesialregel akkurat for grunnrenteskatt som
+har forrang over eksisterende § 2-2 (2) c, slik at indre selskap likevel kan veere skattesubjekt nar det
+kommer til grunnrenteskatt.
+pa denne bakgrunn finner vi det i dag umulig svare pa hvor mange bunnfradrag virksomheten til
+Northern Lights Salmon AS og S¢rrollnesfisk AS vil bli innvilget ved vedtak av de foreslatte reglene om
+grunnrenteskatt. Vi mener at det er et sterkt behov for at departementet klargjgr dette for
+lovforslaget eventuelt legges frem for Stortinget. Videre sa mener vi at reelle hensyn, og risikoen for
+omeaelse, taler for at det bgr gjgres helt eksplisitt at skattelovens § 2-2 (2) c ogsa gjelder for
+grunnrenteskatt og at bunnfradragene beregnes hos deltakerne i det indre selskapet.
+Vedrgrende reelle hensyn sa viser vi til at Northern Lights Salmon AS og S¢rrollnesfisk AS er
+forskjellige selskap, med helt forskjellig aksjonzerstruktur og ledelse, eier sine egne tillatelser, har
+8
+
+til
+NORTHERN LIGHTS
+SALMON iI SPRROLLNESFISK AS
+hovedkvarter pa forskjellige steder, har helt andre oppfatninger om utbyttepolitikk og investeringer,
+og pa ingen mater har noen oppfatning om at vi har slatt sammen virksomhetene vare. Det fremstar
+som ulogisk for oss at vi ikke skal anses som separate virksomheter bare fordi at vi av rent praktiske
+hensyn har valgt a drive langvarig i samdrift. Vi vil anta at det samme vil gjelde de fleste andre
+selskap som samarbeider over tid i samdrift.
+Vedrgrende risiko for omgaelse sa viser vi til at det 4 Apne for egne bunnfradrag for indre selskap vil
+gjgre det sveert gunstig a opprette nye indre selskap. To selskap som driver utenom hverandre vil da
+fa incentiver til 4 innga et begrenset samarbeid, med et utvalg av tillatelsene sine, ved samdrift med
+opprettelse av et indre selskap slik at de da sammen oppnar tre bunnfradrag istedenfor bare to.
+Dette vil da vaere mulig sa lenge ingen av deltakerne har mer enn 50% av stemmene i det indre
+selskapet. Det fremstar for oss som sveert uheldig med en Igsning som gir sterke incentiver for slike
+tilpasninger. Var oppfatning er at det bare vil skape usikkerhet og mange fremtidige rettskonflikter
+mellom aktgrer i neeringen og Skatteetaten vedrgrende gjennomskjering og andre forhold knyttet til
+slik organisering. Vi foreslar at dette unngas ved at det gjgres helt eksplisitt at skattelovens § 2-2 (2) c
+ogsa gjelder for grunnrenteskatt. Saledes at grunnrentebeskatningen, herunder ogsa
+bunnfradragene, beregnes hos deltakerne i de tilfellene det foreligger indre selskap.
+Noen kommentarer knyttet til dagens samlede skattetrykk og oppbyggingen av denne
+Nar man leser de fgrste sidene av hgringsnotatet vedr@rende forslaget om grunnrenteskatt pa
+havbruk sa far man et inntrykk av at forfatterne er av den oppfatning at oppdrettsnaeringen pr i dag
+nesten ikke betaler noen skatt i det hele tatt og er en ren parasitt som suger livet ut av fellesskapet.
+Det er mulig at vi legger mer i departementets uttalelser her enn det som var ment, men vi stiller oss
+likevel spgrsmalet om departementet for publisering av forslaget om grunnrenteskatt har reflektert
+noe szrlig over hva det reelle skattetrykket for oppdrettsselskap med norske aksjonzerer egentlig er
+pr i dag? Vi gnsker ogsa 4 henlede oppmerksomheten litt til hvor uheldig utformet oppbyggingen og
+sammensetningen av dette skattetrykket er.
+For a vise dette sa har vi tatt utgangspunkt i de faktiske regnskapstallene til Northern Lights Salmon
+AS og Sgrrollnesfisk AS for arene 2021, 2020 og 2019, vi har deretter beregnet hva den effektive
+skattebelastningen ville blitt for disse rene basert pa skattesatsene og skattereglene slik de na er,
+for eventuell innfgring av grunnrentebeskatning. Det presiseres at dette ikke er noe hypotetisk
+regneeksempel, men basert pa faktiske regnskapstall for de siste 3 arene (tall i hele tusen). For
+selskapene sa har szerlig 2021, men ogsa 2020, veert gode ar med sveert tilfredsstillende resultater,
+mens 2019 har veert et mindre tilfredsstillende ar. Sistnevnte skyldes i det vesentligste et algeangrep
+som drepte store deler av fisken, men pa grunn av gode priser pa den delen av varelageret som man
+klarte 4 redde ble det likevel et moderat overskudd det aret.
+
+NORTHERN LIGHTS
+SALMON i SPRROLLNESFISK AS
+Sgrrollnesfisk AS: | | |
+Ar: ‘Resultat for skatt: lsum skatt: |Effektiv skattesats: | |
+| 2021 81178) 33 021) 40,7 %| |
+| 2020 61 599) 27 579) 44,8 %|
+| 2019) 13 551) 15 723) 116,0 %| |
+| | |
+‘Northern Lights Salmon AS: | | |
+: |
+|
+|Resultat for skatt: |Sum skatt: Effektiv skattesats: |
+| 2021, 106 220) 43 168 40,6 %|
+2020, 80 342) 35 396. 44,1%|
+2019 19 544) 20 458) 104,7 %| |
+Vedrgrende beregnet effektiv skattesats sa er det tatt utgangspunkt i en produktavgift pa 40 gre pr
+kg, en skattesats for alminnelig inntekt pa 22%, en andel til beskatning av utdeling og utbytte
+innenfor fritaksmetoden pa 3%, en skattesats for formuesskatt pa 1,1%, en verdsettelsesrabatt for
+aksjer pa 20%, en formuesverdi pa akvakulturtillatelser pa kr 220.000 pr tonn og en
+oppjusteringsfaktor for utbytte pa 1,72. Altsa i samsvar med gjeldende skatteregler for eventuell
+innfgring av grunnrentebeskatning.
+Som vi ser av denne beregningen sa har den effektive skattesatsen variert fra en lav pa 40,6% til en
+hgy pa 116,0% i Idpet av disse tre arene. Denne voldsomme variasjonen i effektiv skattesats, samt
+det merkelige faktum at effektiv skattesats blir lavere jo hdyere Innsomhet krever etter vart syn en
+neermere redegijgrelse. Litt forenklet sa er beskatningen bygd opp i tre forskjellige komponenter,
+hvorav kun en av komponentene faktisk er knyttet til lsnnsomheten.
+1. Den fgrste komponenten er den ordinere skatten pa alminnelig inntekt pa 22%. Denne
+komponenten er direkte knyttet til lonnsomheten i virksomheten og medfg¢rer, sann
+omtrentlig, en fast beskatning pa 22% av resultatet.
+2. Denandre komponenten er produksjonsavgiften pa 40 gre pr kg slaktet laks. Denne
+komponenten er saledes ikke knyttet til l@nnsomheten, men til mengden slaktet laks.
+Effekten pa effektiv skattesats blir saledes avhengig av forholdstallet mellom resultatet og
+mengden slaktet laks. Hvis man har lav produksjon og hay margin har denne komponenten
+nesten ingen betydning, men hvis man har h@y produksjon og lav margin sa vil denne
+komponenten ha stor betydning.
+3. Den tredje og siste komponenten er formuesskatten. Dette er en skatt som ikke ilegges pa
+selskapet direkte, men pa selskapets aksjonzerer. Det finnes derfor noen som er av den
+oppfatning at denne komponenten ikke skal hensyntas ved beregningen av skattebyrden pa
+selskap. Vi er grunnleggende uenig i denne betraktningsmaten. Aksjonzerene i Northern
+Lights Salmon AS og S¢rrollnesfisk AS har aksjepostene i selskapene som sine hovedaktivum
+og har ikke personlige midler utenom selskapet til 4 dekke formuesskatten. Deres eneste
+mulighet til 4 kunne betale formuesskatten er ved a ta ut utbytte fra selskapene, det finnes
+ingen annen mulighet for de til 4 finansiere denne. Formuesskatten ma pa dette grunnlag
+sees pa som en kostnad for selskapene, i tillegg sa ma man ta hensyn til at man ved
+utbytteutdeling for 4 dekke formuesskatt ogsa ma utdele tilstrekkelig utbytte utover
+formuesskatten til a dekke utbytteskatten pa utbyttet.
+10
+
+wil
+NORTHERN LIGHTS |
+| SORROLLNESFISK AS
+SALMON
+Denne komponenten er helt uavhengig av bade selskapets Idnnsomhet og produksjon og
+ilegger i praksis selskapet en fast flat skatt som ma betales uansett omstendigheter. Dette
+gir at denne komponenten har stor betydning i perioder hvor Idnnsomheten er lav, men
+gradvis mindre og mindre betydning etter hvert som Ignnsomheten gker.
+Det er na tydelig hvordan dagens oppbygging av skattesystemet er uheldig. Det er to sider knyttet til
+dette:
+1. Den f¢rste siden er at den effektive skattesatsen blir lavere og lavere jo bedre resultat
+selskapet har. Slik skattesystemet i dag er utformet vil den effektive skattesatsen komme
+naermere og naermere 22% jo bedre Ignnsomheten blir. Nar man tenker bade
+fordelingspolitikk og grunnrente sa er jo dette helt ulogisk, det burde heller veere motsatt,
+slik at den effektive skattesatsen dker nar selskapet far bedre resultat.
+2. Denandre siden er at formuesskatten gjgr at skattebelastningen betydelig overstiger det
+som ville vaere fornuftige og baerekraftige niva i arene med darlig lgnnsomhet. Det er i alle
+fall uforstaelig for oss hvis noen faktisk mener at det er riktig og fornuftig at den effektive
+skattesatsen for Sgrrollnesfisk AS bgr veere 116% for regnskapsaret 2019.
+| tillegg sa gnsker vi 4 papeke at bruken av formuesskatt som beskatningsmetode ogsa er
+problematisk med tanke pa at det medf¢rer at den effektive skattesatsen til selskapene i betydelig
+grad vil avhenge av bostedslandet til aksjonerene. Pa grunn av at skatten i utgangspunktet ilegges
+aksjonzerene, og at utenlandske aksjonzerer ikke betaler formuesskatt, vil selskap med norske eiere
+fa en hgyere skattesats enn ellers like selskap med utenlandske eiere. Forskjellen blir ikke dramatisk i
+ar med god Ignnsomhet, men i ar med darlig lsnnsomhet kan denne forskjellen fort tvinge norske
+aksjonzerer til 4 enten selge seg ut eller til 4 flytte utenlands. For 4 konkretisere
+forskjellsbehandlingen sa kan vi se pa tabellen pa forrige side over effektiv skattesats. For Northern
+Lights Salmon AS sa ville den effektive skattesatsen for 2021-2019 bli redusert til 24,8%, 24,1% og
+24,1% hvis aksjonzerene istedenfor hadde veert bosatt i et «lavskatteland» som f.eks. Sverige eller
+Danmark. Mens for S¢rrollnesfisk AS ville den effektive skattesatsen for 2021-2019 bli redusert til,
+24,2%, 24,0% og 24,8% under samme forutsetning. For oss fremstar det som totalt meningsl@st at et
+selskap skal ga fra 116,0% til 24,8% beskatning bare pa grunnlag av at selskapets aksjoneerer er
+bosatt i utlandet istedenfor i Norge. Etter vart syn er bruk av formuesskatt etter dagens modell en
+sveert uheldig Idsning av félgende grunner:
+1. Beskatningen er helt uavhengig av faktisk oppnadd resultat i selskapet. Dette gj@r at den blir
+for hgy i darlige ar og potensielt for lav i gode ar.
+2. Beskatningen palegges kun norske eiere og medf¢grer en urimelig konkurransefordel for
+selskap som i det vesentligste er eid av utenlandske eiere.
+3. Beskatningen gir sterke incentiver til utflytting og overfgring av skattegrunnlag fra Norge til
+utlandet.
+For A oppsummere, det naveerende skattesystemet er sveert uheldig utformet da det medfgrer
+skattebelastning pa over 100% i darlige ar, som ogsa er arene selskapene har de st@rste
+utfordringene med 4 finansiere skatteregningene, samtidig som den effektive skattebelastningen i
+prosent blir lavere og lavere jo bedre Ignnsomhet man har. | tillegg favoriserer skattesystemet
+utenlandsk eierskap og oppfordrer norske eiere til a selge seg ut eller til 4 flytte utenlands selv. Det
+samlede skattetrykket er ogsa i snitt mye hdyere enn de 22% som departementet synes a legge til
+grunn i hgringsnotatet.
+11
+
+wily
+NORTHERN LIGHTS
+SALMON ) SORROLLNESFISK AS
+Effekten pa beskatningen av eventuell innfgring av foreslatt grunnrenteskatt
+Forslaget om innfgring av grunnrenteskatt vil innebaere at man ved beskatningen av
+oppdrettsselskaper i fremtiden ikke bare vil ha de tre komponentene som er opplistet pa forrige side,
+men ogsa vil innfgre en fjerde komponent i form av beregnet grunnrenteskatt som vil komme i tillegg
+til den ordinzere skatten. Ut over dette sa er det foreslatt 4 ke produksjonsavgiften og innfgre en ny
+naturressursskatt, dette gker i praksis komponent 2 pa forrige side til kr 1,20 pr kg slaktet laks. Til
+slutt s4 har forslaget indirekte pavirket formuesbeskatningen ved at auksjonsprisene for tillatelser
+har falt. For produksjonsomradet til Northern Lights Salmon AS og S¢rrollnesfisk AS fra kr 220.000 pr
+tonn til kr 135.000 pr tonn. Dette medfgrer en ganske betydelig skattelempe.
+Det er en del usikkerheter knyttet til eksakt hvilke kostnader man vil kunne fa fradrag for i
+grunnrenteinntekten, samt ogsa til bunnfradraget, men vi har likevel forsokt a gjennomf¢re en
+beregning av hva den reelle effekten av den foreslatte grunnrenteskatten ville blitt for
+regnskapsarene 2019 til 2021. Basert pa at alle kostnader (utenom finans) er fradragsberettiget i
+grunnrenteskatten og at hvert selskap far ett bunnfradrag pa kr 54 millioner har vi kommet frem til
+folgende:
+|\Sgrrollnesfisk AS: | Fgr grunnrente: | Etter grunnrente:
+Ar: 'Resultat fér skatt: [Sum skatt: |Effektiv skattesats: ‘Sum skatt: |Effektiv skattesats: |
+2021) 81 178) 33 021 40,7 %| 34 808 42,9 %|
+2020, 61599 27579) 44,8 %| 27 623) 44,8 %|
+2019 13 551) 15 723 | 116,0 %| 13 361) 98,6 %
+| |
+Northern Lights Salmon AS: Fr grunnrente: | Etter grunnrente:
+Ar: Resultat fér skatt: |Sum skatt: 'Effektiv skattesats: Sum skatt: | Effektiv skattesats:
+2021) 106 220) 43 168 40,6 %| 50 707 47,7% |
+/ 2020) 80 342) 35 396) 44,1% 35 456) 44,1%|
+| 2019 19 544 20 458 | 104,7 %| 16 393, 86,4% |
+Som man ser vil forslaget totalt for alle 3 arene faktisk medfgre en reduksjon av skattebyrden for
+S¢rrollnesfisk AS, mens Northern Lights Salmon AS far en ganske beskjeden gkning i sin skattebyrde.
+Arsaken til den beskjedne effekten er at reduksjonen i formuesskatt veier opp for den @kte
+produksjonsavgiften/naturressursskatten, samtidig som det blir ganske lite grunnrenteskatt a betale
+som fglge av bunnfradraget. Dette reiser jo da spgrsmalet om hvorfor vi likevel har sa sterke
+motforestillinger til innfgring av grunnrenteskatt slik som foreslatt, selv om forslaget tilsynelatende
+har sveert begrenset pavirkning pa var skattebyrde.
+Dette skyldes i all hovedsak f¢lgende forhold:
+1. Det fremkommer ikke i beregningene ovenfor, som er basert pa faktiske regnskapstall, men i
+beregninger vi har utfgrt sa kommer man veldig darlig ut etter det foreslatte systemet for
+grunnrenteskatt i de tilfellene man har stor produksjon, men lav margin pa den solgte fisken
+og dermed darlige resultater. Dette er en situasjon som ogsd i dag er utfordrende, pga.
+formuesskatten, men vi ser at man faktisk vil komme enda darligere ut hvis dette forslaget
+om grunnrenteskatt blir vedtatt. | vare regneeksempler sa har vi mange tilfeller pa
+skattebyrder pa betydelig over 100%. Hvis Ignnsomheten er god og man vasser i penger sa er
+det ikke noen krise for oss 4 betale 50-60% i skatt, men det er noe helt annet hvis selskapet
+12
+
+soxrscatunt lly LK.
+SALMON (|| SORROLLNESFISK AS
+gar med et beskjedent overskudd for skatt, men skattebyrden er pa 150% av overskuddet.
+Det klarer vi ikke a handtere.
+2. Vihar liten tiltro til at bunnfradraget ikke etter hvert kommer til a forvitre. | beste fall ved at
+det ikke inflasjonsjusteres, men trolig ved at man neste gang man trenger penger i
+forbindelse med budsjettforhandlinger plutselig kutter det med kr 10 millioner, uten a foreta
+noen vurdering av hva dette faktisk innebeerer. Uten bunnfradrag ville den effektive
+skattesatsen for 2021-2019 for Northern Lights Salmon AS ha veert henholdsvis 73,8%, 76,5%
+og 117,2%, mens den for S¢rrollnesfisk ville ha veert henholdsvis 74,5%, 77,1% og 120,2%.
+Dette er en skattebyrde som vil veere sveert vanskelig 4 handtere over noen lengre
+tidsperiode.
+3. Forslaget slik det na er utformet fortsatt medfgrer at den reelle skattesatsen for
+oppdrettsselskap er degressiv. Ved lave overskudd i selskapet vil den effektive skattesatsen
+fortsatt kunne betydelig overstige 100% og sa gradvis blir den effektive skattesatsen lavere
+og lavere jo st@rre resultatet i selskapet blir. Vi er av den oppfatning at skattesystemet heller
+bor utformes slik at det progressivt, altsa at effektiv skattesats gker med selskapets resultat.
+4. Hele problemstillingen knyttet til normpris, som vi redegj@r nzermere for lenger ned.
+Problemstillingen knyttet til normpris
+Vi regner med at omtrent samtlige hdringssvar kommer til a omtale utfordringene og
+problemstillingene forslaget om benyttelse av normpris ved beregningen av grunnrenteinntekt
+utlgser. Vi kommer derfor bare til 4 omtale dette svzert kort, problemstillingen blir helt sikkert
+fyllestgjgrende drgftet i hdringssvarene fra bade Sjgmat Norge og de store oppdretterne.
+| hgringsnotatet er det redegjort for hvordan en grunnrenteskatt vil gi selskapene insentiver til 4
+overfgre mest mulig av inntekten fra matfiskproduksjonen til neerstaende selskap som yter tjenester
+som kun skattlegges med ordinzer selskapsskatt. Da f.eks. ved at det avtales lave priser pa fisken ved
+interne salg til naerstaende selskap. Dette er bakgrunnen for at departementet foreslar at det
+benyttes en normpris med utgangspunkt i b¢rspriser pa Nasdaq.
+Vi vil presisere at vi ikke er uten sympati og forstaelse for departementets gnske om a sikre seg mot
+ugnskede og illojale skattetilpasninger ved bruk av internprising. Like fullt s& mener vi at forslaget om
+normpris skaper sa store utfordringer knyttet spesielt til muligheten for a innga langsiktige
+kontrakter at det rett og slett ikke er gjennomfgrbart. Utover de apenbare konsekvensene for reell
+adgang til a innga langsiktige kontrakter sa er det vart syn at normpris ogsa vil medfgre sveert store
+administrative byrder for skattyter da alle salgspriser ma fastsettes to ganger. Eventuelt, forslaget er
+ikke helt konkret pa hvordan normprisen skal fastsettes, sa kan man tenke seg bruk av f.eks.
+manedsnormpris, men siden salgsprisene kan variere mye selv i Idpet av en maned sa vil en slik
+Idsning ha betydelig potensiale for a skattlegge skattyter basert pa en inntekt som awviker betraktelig
+fra reell inntekt.
+Vi ber om at forslaget om normpris legges tilbake i skuffen og at de faktiske salgsprisene legges til
+grunn ved inntektsfastsettingen ved eventuell innfgring av grunnrenteskatt. Szerlig for de sma
+oppdretterne, som selger til uavhengige parter, er det apenbart at ulempene knyttet til forslaget om
+normpris langt overstiger de praktiske fordelene med at Skatteetaten slipper a vurdere internprising.
+Ikrafttredelsestidspunkt og hgringsfrist
+13
+
+carseat LK.
+SALMON (|| SPRROLLNESFISK AS
+Vi gnsker ogsa a ta opp det helt hapldse i at et hdringsnotat om innfgring av grunnrenteskatt
+publiseres med en h@ringsfrist etter foreslatt ikrafttredelsestidspunkt. Dette demonstrerer etter vart
+syn en grunnleggende mangel pa respekt, fra departementets side, for neeringslivets behov for
+forutsigbare rammevilkar. Pr i dag sa vet vi ikke de skattemessige konsekvensene av investeringer vi
+ma bestille na for 4 fa levert innen utgangen av neste ar, dette er sveert utfordrende og en kilde til
+betydelig frustrasjon.
+Etter vart syn bgr det snarest kunngjgres at forslaget om grunnrentebeskatning med virkning fra 1.
+januar 2023 trekkes tilbake, samt at det settes ned et utvalg for 4 beregne stgrrelsen pa eventuell
+grunnrente innenfor havbruksneeringen med sikte pa 4 komme med et nytt h¢ringsutkast for
+sommeren med mulig innfgring tidligst fra 1. januar 2024. Hvis det er absolutt tvingende n¢dvendig
+av provenyhensyn sa far man eventuelt beholde den delen av forslaget som dreier seg om okt
+produksjonsavgift/naturressursskatt for regnskapsaret 2023,
+Utforming av beskatning av eventuell grunnrente
+Som angitt ovenfor anbefaler vi at det forst settes ned et utvalg for a foreta en skikkelig analyse av
+bade om det faktisk foreligger grunnrente innenfor havbruksnzeringen, samt st@rrelsen pa en
+eventuell slik grunnrente. Det ma i en slik analyse selvfdigelig ogsa tas hensyn til at det er kun deler
+av produksjonsprosessen som pagar i sjdvann og som kan sees pa a veere bruk av begrensede
+ressurser som tilhgrer fellesskapet.
+Hvis konklusjonen skulle bli at det foreligger en grunnrente sa er det ikke urimelig at denne blir
+gjenstand for beskatning, men det vil da veere viktig at beskatningen utformes pa en slik mate at den
+akte skattebyrden ikke overstiger den faktiske grunnrenten. Dette er seerlig viktig med tanke pa
+risikoen for at neeringen i fremtiden vil oppleve perioder med darlig Ignnsomhet. Det naveerende
+forslaget til grunnrentebeskatning kan, uavhengig av skattesats, ikke vurderes a oppfylle disse
+vilkarene. Dette med tanke pa at selskapene uavhengig av bunnfradrag og Idnnsomhet uansett vil
+matte betale en ikke skattemessig fradragsberettiget produ ksjonsavgift og naturressursskatt, samt at
+grunnrenteskatten ilegges med en fast skattesats pa hele inntekten.
+Vi foreslar derfor to alternative modeller for oppbygging av gru nnrentebeskatning:
+1. Den fgrste modellen er rett og slett at man setter en grense for hvor hgy resultatmarginen
+kan veere for overskytende resultat ma vurderes & stamme fra grunnrente, deretter
+beskattes resultat som overskyter denne grensen med en fastsatt skattesats for
+grunnrenteskatt.
+2. Den andre modellen tar istedenfor utgangspunkt i et selskaps tildelte MTB og tildeler en
+friinntekt basert pa et resultat pr tonn MTB som fritas fra grunnrentebeskatning, inntekt
+som overstiger denne friinntekten beskattes med en fastsatt skattesats for grunnrenteskatt.
+For begge modellene vil det ogsa veere mulig 4 legge til et moderat bunnfradrag for a skjerme de aller
+minste selskapene fra effekten av grunnrenteskatten. Dette kan veere gnskelig bade pa grunnlag av
+at de stgrre selskapene har muligheter til en mer optimalisert drift (og saledes stgrre grunnrente pr
+krone i omsetning og tonn MTB), samt distriktspolitikk. Stdrrelsen pa et slikt bunnfradrag vil matte
+vurderes nzermere, sammen med hva som er riktig skattesats for A beskatte grunnrenten. Vi foreslar
+at dette kan vere en del av mandatet til utvalget vi tidligere har foreslatt at opprettes.
+14
+
+wily
+NORTHERN LIGHTS
+SALMON SORROLLNESFISK AS
+Den store fordelen med en slik utforming av en eventuell grunnrenteskatt er at grunnrenteskatten
+ikke vil paldpe i ar hvor selskapene har darlig ldnnsomhet, man skjermer i praksis den delen av
+resultatet som ikke stammer fra grunnrente fra ekstrabeskatning. Dette i klar motsetning til det
+naveerende forslaget. Dermed sa oppnar man ogsa den effekten at den effektive skattesatsen starter
+pa et moderat niva, men gker med gkende resultat i selskapet slik at skattleggingen utformes som en
+progressiv skatt. Dette er ikke helt ulik modellene som benyttes pa Feergyene og Island, hvor
+overskudd beskattes med en trinnvis produksjonsavgift som avhenger av differansen mellom pris og
+produksjonskostnader og gker med graden av Ignnsomhet.
+Denne effekten vil ytterligere kunne forsterkes hvis man samtidig benytter muligheten til a unnta
+akvakulturtillatelser fra formuesbeskatning grunnet deres seerskilte grunnrentebeskatning. Man kan
+f.eks. se for seg at grunnrentebeskatningen, for 4 kompensere for manglende formuesbeskatning,
+bygges opp med trinnvise innslagspunkter slik at inntekt over en viss resultatmargin eller resultat pr
+tonn MTB beskattes med en ekstra hgy grunnrentebeskatning. Istedenfor dagens modell hvor
+effektiv skattesats i praksis fort overstiger 120% i darlige ar og faller under 40% i gode ar, sa kan man
+se for seg en modell med en skattesats pa under 25% i darlige ar og over 70% i gode ar. Satsene her
+vil selvfglgelig avhenge en god del av beregningen av hva den faktiske grunnrenten i neeringen
+eventuelt er, men prinsippet med lav beskatning i darlige ar og hgy beskatning i gode ar mener vi at
+man b@r pr@ve a tilstrebe.
+ZAblehden Horawne bendiksen
+Ase Marie Valen Olsen Marianne Bendiksen
+Daglig leder Sgrrollnesfisk AS Daglig leder Northern Lights Salmon AS
+15

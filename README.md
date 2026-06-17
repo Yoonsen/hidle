@@ -22,6 +22,9 @@ Repoet er satt opp slik at hele arbeidsgrunnlaget kan deles i git, mens tunge bi
 - Kun rebuild av CSV fra eksisterende `høringer/`:
   - `uv run python main.py --index-only`
 
+Ved eksport prøver pipeline-en først vanlig tekstuttrekk fra PDF. Hvis PDF-en ikke har tekstlag,
+brukes OCR som fallback når `pdftoppm` og `tesseract` er tilgjengelige lokalt.
+
 Filer med manglende eller usikkert år havner i `høringer/uten-aar/`.
 
 ## Enkel søkeapp (konkordans)
